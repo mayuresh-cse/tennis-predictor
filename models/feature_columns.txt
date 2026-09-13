@@ -1,0 +1,24 @@
+Rank_1
+Rank_2
+rank_diff
+rank_ratio
+log_rank_diff
+Surface_Clay
+Surface_Grass
+Surface_Hard
+Round_2nd Round
+Round_3rd Round
+Round_4th Round
+Round_Quarterfinals
+Round_Round Robin
+Round_Semifinals
+Round_The Final
+Series_ATP500
+Series_Grand Slam
+Series_International
+Series_International Gold
+Series_Masters
+Series_Masters 1000
+Series_Masters Cup
+Court_Outdoor
+Best of_5

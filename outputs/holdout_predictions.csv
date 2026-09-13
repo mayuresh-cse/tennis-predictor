@@ -1,0 +1,1956 @@
+Date,Player_1,Player_2,prob_player_1_wins,predicted_winner,actual_winner,correct
+2026-01-04,Tiafoe F.,Vukic A.,0.74,Tiafoe F.,Tiafoe F.,True
+2026-01-04,Ugo Carabelli C.,Tien L.,0.3224,Tien L.,Tien L.,True
+2026-01-05,Altmaier D.,Majchrzak K.,0.325,Majchrzak K.,Majchrzak K.,True
+2026-01-05,Duckworth J.,Michelsen A.,0.3813,Michelsen A.,Michelsen A.,True
+2026-01-05,Halys Q.,Popyrin A.,0.3641,Popyrin A.,Halys Q.,False
+2026-01-05,Korda S.,Vacherot V.,0.3522,Vacherot V.,Korda S.,False
+2026-01-05,Lehecka J.,Machac T.,0.77,Lehecka J.,Lehecka J.,True
+2026-01-05,Medvedev D.,Fucsovics M.,0.5843,Medvedev D.,Medvedev D.,True
+2026-01-05,Sweeny D.,Opelka R.,0.46,Opelka R.,Opelka R.,True
+2026-01-05,Borges N.,Dzumhur D.,0.3,Dzumhur D.,Borges N.,False
+2026-01-05,Mannarino A.,Cilic M.,0.28,Cilic M.,Cilic M.,True
+2026-01-05,Wu Y.,Marozsan F.,0.2667,Marozsan F.,Wu Y.,False
+2026-01-06,Carreno Busta P.,Dimitrov G.,0.309,Dimitrov G.,Dimitrov G.,True
+2026-01-06,Hijikata R.,Walton A.,0.24,Walton A.,Hijikata R.,False
+2026-01-06,Humbert U.,Norrie C.,0.3846,Norrie C.,Norrie C.,True
+2026-01-06,Kovacevic A.,Kyrgios N.,0.58,Kovacevic A.,Kovacevic A.,True
+2026-01-06,Nakashima B.,Davidovich Fokina A.,0.515,Nakashima B.,Nakashima B.,True
+2026-01-06,Paul T.,Mpetshi G.,0.5467,Paul T.,Mpetshi G.,False
+2026-01-06,Shapovalov D.,Collignon R.,0.869,Shapovalov D.,Collignon R.,False
+2026-01-06,Comesana F.,Shang J.,0.605,Comesana F.,Shang J.,False
+2026-01-06,De Jong J.,Diallo G.,0.4701,Diallo G.,Diallo G.,True
+2026-01-06,Giron M.,Djere L.,0.58,Giron M.,Giron M.,True
+2026-01-06,Kecmanovic M.,Muller A.,0.125,Muller A.,Muller A.,True
+2026-01-06,Mmoh M.,Tabilo A.,0.485,Tabilo A.,Mmoh M.,False
+2026-01-06,Royer V.,Etcheverry T.,0.52,Royer V.,Etcheverry T.,False
+2026-01-06,Sonego L.,Sakamoto R.,0.785,Sonego L.,Sonego L.,True
+2026-01-06,Struff J.L.,Van De Zandschulp B.,0.3683,Van De Zandschulp B.,Van De Zandschulp B.,True
+2026-01-06,Wong C.,Navone M.,0.085,Navone M.,Wong C.,False
+2026-01-07,Majchrzak K.,Opelka R.,0.5975,Majchrzak K.,Majchrzak K.,True
+2026-01-07,Michelsen A.,Tien L.,0.674,Michelsen A.,Michelsen A.,True
+2026-01-07,Tiafoe F.,Medvedev D.,0.245,Medvedev D.,Medvedev D.,True
+2026-01-07,Cilic M.,Borges N.,0.3612,Borges N.,Borges N.,True
+2026-01-07,Musetti L.,Etcheverry T.,0.6154,Musetti L.,Musetti L.,True
+2026-01-07,Wong C.,Diallo G.,0.4275,Diallo G.,Wong C.,False
+2026-01-07,Wu Y.,Rublev A.,0.165,Rublev A.,Rublev A.,True
+2026-01-08,Collignon R.,Dimitrov G.,0.515,Collignon R.,Collignon R.,True
+2026-01-08,Hijikata R.,Mpetshi G.,0.225,Mpetshi G.,Mpetshi G.,True
+2026-01-08,Nakashima B.,Halys Q.,0.641,Nakashima B.,Nakashima B.,True
+2026-01-08,Norrie C.,Kovacevic A.,0.415,Kovacevic A.,Kovacevic A.,True
+2026-01-08,Mmoh M.,Khachanov K.,0.195,Khachanov K.,Mmoh M.,False
+2026-01-08,Muller A.,Giron M.,0.7545,Muller A.,Giron M.,False
+2026-01-08,Shang J.,Sonego L.,0.055,Sonego L.,Shang J.,False
+2026-01-08,Van De Zandschulp B.,Bublik A.,0.11,Bublik A.,Bublik A.,True
+2026-01-09,Korda S.,Michelsen A.,0.245,Michelsen A.,Michelsen A.,True
+2026-01-09,Medvedev D.,Majchrzak K.,0.4433,Majchrzak K.,Medvedev D.,False
+2026-01-09,Mpetshi G.,Kovacevic A.,0.4568,Kovacevic A.,Kovacevic A.,True
+2026-01-09,Nakashima B.,Collignon R.,0.5655,Nakashima B.,Nakashima B.,True
+2026-01-09,Borges N.,Rublev A.,0.275,Rublev A.,Rublev A.,True
+2026-01-09,Bublik A.,Shang J.,0.78,Bublik A.,Bublik A.,True
+2026-01-09,Musetti L.,Wong C.,0.895,Musetti L.,Musetti L.,True
+2026-01-10,Kovacevic A.,Nakashima B.,0.385,Nakashima B.,Nakashima B.,True
+2026-01-10,Medvedev D.,Michelsen A.,0.3762,Michelsen A.,Medvedev D.,False
+2026-01-10,Bublik A.,Giron M.,0.888,Bublik A.,Bublik A.,True
+2026-01-10,Rublev A.,Musetti L.,0.3668,Musetti L.,Musetti L.,True
+2026-01-11,Spizzirri E.,Mannarino A.,0.915,Spizzirri E.,Spizzirri E.,True
+2026-01-11,Nakashima B.,Medvedev D.,0.375,Medvedev D.,Medvedev D.,True
+2026-01-11,Musetti L.,Bublik A.,0.8517,Musetti L.,Bublik A.,False
+2026-01-12,Baez S.,Nava E.,0.585,Baez S.,Baez S.,True
+2026-01-12,Comesana F.,Royer V.,0.6467,Comesana F.,Comesana F.,True
+2026-01-12,Gaston H.,Norrie C.,0.325,Norrie C.,Norrie C.,True
+2026-01-12,Michelsen A.,Navone M.,0.88,Michelsen A.,Michelsen A.,True
+2026-01-12,Ugo Carabelli C.,Tabilo A.,0.7,Ugo Carabelli C.,Tabilo A.,False
+2026-01-12,Watt J.,Brooksby J.,0.09,Brooksby J.,Brooksby J.,True
+2026-01-12,Altmaier D.,Munar J.,0.6538,Altmaier D.,Munar J.,False
+2026-01-12,Atmane T.,Humbert U.,0.49,Humbert U.,Humbert U.,True
+2026-01-12,Kokkinakis T.,Korda S.,0.02,Korda S.,Kokkinakis T.,False
+2026-01-12,Opelka R.,Popyrin A.,0.3697,Popyrin A.,Opelka R.,False
+2026-01-12,Vacherot V.,Kecmanovic M.,0.5567,Vacherot V.,Vacherot V.,True
+2026-01-13,Bautista Agut R.,Mpetshi G.,0.13,Mpetshi G.,Mpetshi G.,True
+2026-01-13,Etcheverry T.,Borges N.,0.2971,Borges N.,Borges N.,True
+2026-01-13,Giron M.,Muller A.,0.485,Muller A.,Giron M.,False
+2026-01-13,Kovacevic A.,Medjedovic H.,0.125,Medjedovic H.,Medjedovic H.,True
+2026-01-13,Marozsan F.,Monfils G.,0.7333,Marozsan F.,Marozsan F.,True
+2026-01-13,Comesana F.,Shelton B.,0.2172,Shelton B.,Shelton B.,True
+2026-01-13,Giron M.,Michelsen A.,0.85,Giron M.,Giron M.,True
+2026-01-13,Diallo G.,Vavassori A.,0.93,Diallo G.,Vavassori A.,False
+2026-01-13,Duckworth J.,Machac T.,0.185,Machac T.,Machac T.,True
+2026-01-13,Fearnley J.,Halys Q.,0.8063,Fearnley J.,Halys Q.,False
+2026-01-13,Fucsovics M.,Quinn E.,0.565,Fucsovics M.,Fucsovics M.,True
+2026-01-13,Hijikata R.,Schoolkate T.,0.6021,Hijikata R.,Hijikata R.,True
+2026-01-13,Shevchenko A.,Dzumhur D.,0.87,Shevchenko A.,Shevchenko A.,True
+2026-01-13,Tsitsipas S.,Vukic A.,0.3162,Vukic A.,Vukic A.,True
+2026-01-14,Baez S.,Brooksby J.,0.3758,Brooksby J.,Baez S.,False
+2026-01-14,Marozsan F.,Ruud C.,0.3354,Ruud C.,Marozsan F.,False
+2026-01-14,Medjedovic H.,Mensik J.,0.3552,Mensik J.,Mensik J.,True
+2026-01-14,Norrie C.,Mpetshi G.,0.53,Norrie C.,Mpetshi G.,False
+2026-01-14,Spizzirri E.,Borges N.,0.355,Borges N.,Spizzirri E.,False
+2026-01-14,Tabilo A.,Darderi L.,0.2229,Darderi L.,Darderi L.,True
+2026-01-14,Giron M.,Darderi L.,0.4588,Darderi L.,Giron M.,False
+2026-01-14,Davidovich Fokina A.,Hijikata R.,0.9538,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-01-14,Griekspoor T.,Humbert U.,0.6354,Griekspoor T.,Humbert U.,False
+2026-01-14,Machac T.,Halys Q.,0.86,Machac T.,Machac T.,True
+2026-01-14,Munar J.,Cerundolo F.,0.3358,Cerundolo F.,Munar J.,False
+2026-01-14,Opelka R.,Paul T.,0.3847,Paul T.,Paul T.,True
+2026-01-14,Shevchenko A.,Fucsovics M.,0.1183,Fucsovics M.,Shevchenko A.,False
+2026-01-14,Vavassori A.,Vukic A.,0.275,Vukic A.,Vukic A.,True
+2026-01-15,Marozsan F.,Spizzirri E.,0.73,Marozsan F.,Marozsan F.,True
+2026-01-15,Mpetshi G.,Mensik J.,0.44,Mensik J.,Mensik J.,True
+2026-01-15,Shelton B.,Baez S.,0.8592,Shelton B.,Baez S.,False
+2026-01-15,Davidovich Fokina A.,Vacherot V.,0.22,Vacherot V.,Davidovich Fokina A.,False
+2026-01-15,Munar J.,Machac T.,0.32,Machac T.,Machac T.,True
+2026-01-15,Paul T.,Vukic A.,0.72,Paul T.,Paul T.,True
+2026-01-15,Shevchenko A.,Humbert U.,0.28,Humbert U.,Humbert U.,True
+2026-01-16,Giron M.,Baez S.,0.5377,Giron M.,Baez S.,False
+2026-01-16,Mensik J.,Marozsan F.,0.585,Mensik J.,Mensik J.,True
+2026-01-16,Humbert U.,Davidovich Fokina A.,0.5892,Humbert U.,Humbert U.,True
+2026-01-16,Paul T.,Machac T.,0.5993,Paul T.,Machac T.,False
+2026-01-17,Mensik J.,Baez S.,0.6138,Mensik J.,Mensik J.,True
+2026-01-17,Humbert U.,Machac T.,0.585,Humbert U.,Machac T.,False
+2026-01-18,Alcaraz C.,Walton A.,1.0,Alcaraz C.,Alcaraz C.,True
+2026-01-18,Brooksby J.,Bublik A.,0.09,Bublik A.,Bublik A.,True
+2026-01-18,Comesana F.,Kypson P.,0.6473,Comesana F.,Comesana F.,True
+2026-01-18,Dzumhur D.,Draxl L.,0.265,Draxl L.,Dzumhur D.,False
+2026-01-18,Faria J.,Blockx A.,0.485,Blockx A.,Faria J.,False
+2026-01-18,Fery A.,Cobolli F.,0.545,Fery A.,Fery A.,True
+2026-01-18,Jacquet K.,Nava E.,0.515,Jacquet K.,Nava E.,False
+2026-01-18,Kecmanovic M.,Etcheverry T.,0.327,Etcheverry T.,Etcheverry T.,True
+2026-01-18,Korda S.,Zheng M.,0.855,Korda S.,Zheng M.,False
+2026-01-18,Norrie C.,Bonzi B.,0.25,Bonzi B.,Norrie C.,False
+2026-01-18,Schoolkate T.,Moutet C.,0.105,Moutet C.,Moutet C.,True
+2026-01-18,Svajda Z.,Hanfmann Y.,0.5,Svajda Z.,Hanfmann Y.,False
+2026-01-18,Tiafoe F.,Kubler J.,0.64,Tiafoe F.,Tiafoe F.,True
+2026-01-18,Ugo Carabelli C.,Fucsovics M.,0.6671,Ugo Carabelli C.,Fucsovics M.,False
+2026-01-18,Zhang Zh.,Cerundolo F.,0.26,Cerundolo F.,Cerundolo F.,True
+2026-01-18,Zverev A.,Diallo G.,0.99,Zverev A.,Zverev A.,True
+2026-01-19,Altmaier D.,Cilic M.,0.4623,Cilic M.,Cilic M.,True
+2026-01-19,Arnaldi M.,Rublev A.,0.4193,Rublev A.,Rublev A.,True
+2026-01-19,Atmane T.,Maestrelli F.,0.245,Maestrelli F.,Maestrelli F.,True
+2026-01-19,Bautista Agut R.,Shang J.,0.645,Bautista Agut R.,Shang J.,False
+2026-01-19,Bu Y.,Shapovalov D.,0.175,Shapovalov D.,Shapovalov D.,True
+2026-01-19,Djere L.,Wawrinka S.,0.7475,Djere L.,Wawrinka S.,False
+2026-01-19,Hijikata R.,Mannarino A.,0.17,Mannarino A.,Hijikata R.,False
+2026-01-19,Lehecka J.,Gea A.,0.985,Lehecka J.,Gea A.,False
+2026-01-19,Majchrzak K.,Fearnley J.,0.9067,Majchrzak K.,Majchrzak K.,True
+2026-01-19,Martinez P.,Djokovic N.,0.0,Djokovic N.,Djokovic N.,True
+2026-01-19,McDonald M.,De Minaur A.,0.075,De Minaur A.,De Minaur A.,True
+2026-01-19,Medvedev D.,De Jong J.,0.605,Medvedev D.,Medvedev D.,True
+2026-01-19,Misolic F.,Davidovich Fokina A.,0.245,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-01-19,Munar J.,Svrcina D.,0.8567,Munar J.,Munar J.,True
+2026-01-19,Navone M.,Medjedovic H.,0.35,Medjedovic H.,Medjedovic H.,True
+2026-01-19,Opelka R.,Budkov Kjaer N.,0.385,Budkov Kjaer N.,Opelka R.,False
+2026-01-19,Paul T.,Kovacevic A.,0.6508,Paul T.,Paul T.,True
+2026-01-19,Popyrin A.,Muller A.,0.4243,Muller A.,Muller A.,True
+2026-01-19,Rinderknech A.,Marozsan F.,0.2485,Marozsan F.,Marozsan F.,True
+2026-01-19,Ruud C.,Bellucci M.,0.33,Bellucci M.,Ruud C.,False
+2026-01-19,Shevchenko A.,Ymer E.,0.4,Ymer E.,Shevchenko A.,False
+2026-01-19,Tabilo A.,Halys Q.,0.5557,Tabilo A.,Halys Q.,False
+2026-01-19,Thompson J.,Cerundolo J.M.,0.2375,Cerundolo J.M.,Thompson J.,False
+2026-01-19,Tien L.,Giron M.,0.6318,Tien L.,Tien L.,True
+2026-01-19,Tirante T.A.,Vukic A.,0.5325,Tirante T.A.,Tirante T.A.,True
+2026-01-19,Vacherot V.,Damm M.,0.605,Vacherot V.,Vacherot V.,True
+2026-01-19,Van De Zandschulp B.,Nakashima B.,0.2034,Nakashima B.,Van De Zandschulp B.,False
+2026-01-20,Fritz T.,Royer V.,0.915,Fritz T.,Fritz T.,True
+2026-01-20,Garin C.,Darderi L.,0.26,Darderi L.,Darderi L.,True
+2026-01-20,Humbert U.,Shelton B.,0.365,Shelton B.,Shelton B.,True
+2026-01-20,Hurkacz H.,Bergs Z.,0.8067,Hurkacz H.,Hurkacz H.,True
+2026-01-20,Khachanov K.,Michelsen A.,0.6825,Khachanov K.,Khachanov K.,True
+2026-01-20,Machac T.,Dimitrov G.,0.8725,Machac T.,Machac T.,True
+2026-01-20,Mensik J.,Carreno Busta P.,0.8604,Mensik J.,Mensik J.,True
+2026-01-20,Mochizuki S.,Tsitsipas S.,0.13,Tsitsipas S.,Tsitsipas S.,True
+2026-01-20,Mpetshi G.,Baez S.,0.6788,Mpetshi G.,Baez S.,False
+2026-01-20,Nardi L.,Wu Y.,0.785,Nardi L.,Wu Y.,False
+2026-01-20,O Connell C.,Basavareddy N.,0.31,Basavareddy N.,Basavareddy N.,True
+2026-01-20,Prizmic D.,Duckworth J.,0.445,Duckworth J.,Duckworth J.,True
+2026-01-20,Quinn E.,Griekspoor T.,0.46,Griekspoor T.,Quinn E.,False
+2026-01-20,Sakamoto R.,Jodar R.,0.21,Jodar R.,Jodar R.,True
+2026-01-20,Sonego L.,Taberner C.,0.9379,Sonego L.,Sonego L.,True
+2026-01-20,Spizzirri E.,Fonseca J.,0.209,Fonseca J.,Spizzirri E.,False
+2026-01-20,Struff J.L.,Kopriva V.,0.77,Struff J.L.,Kopriva V.,False
+2026-01-20,Sweeny D.,Monfils G.,0.75,Sweeny D.,Sweeny D.,True
+2026-01-21,Borges N.,Thompson J.,0.6275,Borges N.,Borges N.,True
+2026-01-21,Davidovich Fokina A.,Opelka R.,0.8417,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-01-21,Dzumhur D.,Cerundolo F.,0.0768,Cerundolo F.,Cerundolo F.,True
+2026-01-21,Faria J.,Rublev A.,0.095,Rublev A.,Rublev A.,True
+2026-01-21,Fery A.,Etcheverry T.,0.325,Etcheverry T.,Etcheverry T.,True
+2026-01-21,Fucsovics M.,Bublik A.,0.045,Bublik A.,Bublik A.,True
+2026-01-21,Hanfmann Y.,Alcaraz C.,0.015,Alcaraz C.,Alcaraz C.,True
+2026-01-21,Marozsan F.,Majchrzak K.,0.7362,Marozsan F.,Marozsan F.,True
+2026-01-21,Medjedovic H.,De Minaur A.,0.12,De Minaur A.,De Minaur A.,True
+2026-01-21,Medvedev D.,Halys Q.,0.975,Medvedev D.,Medvedev D.,True
+2026-01-21,Norrie C.,Nava E.,0.625,Norrie C.,Norrie C.,True
+2026-01-21,Paul T.,Tirante T.A.,0.9595,Paul T.,Paul T.,True
+2026-01-21,Shevchenko A.,Tien L.,0.055,Tien L.,Tien L.,True
+2026-01-21,Tiafoe F.,Comesana F.,0.845,Tiafoe F.,Tiafoe F.,True
+2026-01-21,Zverev A.,Muller A.,0.8991,Zverev A.,Zverev A.,True
+2026-01-22,Baez S.,Darderi L.,0.6158,Baez S.,Darderi L.,False
+2026-01-22,Djokovic N.,Maestrelli F.,0.97,Djokovic N.,Djokovic N.,True
+2026-01-22,Duckworth J.,Sinner J.,0.0,Sinner J.,Sinner J.,True
+2026-01-22,Fritz T.,Kopriva V.,0.91,Fritz T.,Fritz T.,True
+2026-01-22,Gea A.,Wawrinka S.,0.505,Gea A.,Wawrinka S.,False
+2026-01-22,Hijikata R.,Vacherot V.,0.465,Vacherot V.,Vacherot V.,True
+2026-01-22,Hurkacz H.,Quinn E.,0.73,Hurkacz H.,Quinn E.,False
+2026-01-22,Khachanov K.,Basavareddy N.,0.665,Khachanov K.,Khachanov K.,True
+2026-01-22,Machac T.,Tsitsipas S.,0.45,Tsitsipas S.,Machac T.,False
+2026-01-22,Mensik J.,Jodar R.,0.685,Mensik J.,Mensik J.,True
+2026-01-22,Ruud C.,Munar J.,0.92,Ruud C.,Ruud C.,True
+2026-01-22,Shang J.,Van De Zandschulp B.,0.39,Van De Zandschulp B.,Van De Zandschulp B.,True
+2026-01-22,Shapovalov D.,Cilic M.,0.8825,Shapovalov D.,Cilic M.,False
+2026-01-22,Shelton B.,Sweeny D.,0.995,Shelton B.,Shelton B.,True
+2026-01-22,Sonego L.,Musetti L.,0.145,Musetti L.,Musetti L.,True
+2026-01-22,Spizzirri E.,Wu Y.,0.595,Spizzirri E.,Spizzirri E.,True
+2026-01-23,Borges N.,Tien L.,0.84,Borges N.,Tien L.,False
+2026-01-23,Cerundolo F.,Rublev A.,0.3817,Rublev A.,Cerundolo F.,False
+2026-01-23,Etcheverry T.,Bublik A.,0.105,Bublik A.,Bublik A.,True
+2026-01-23,Khachanov K.,Darderi L.,0.4683,Darderi L.,Darderi L.,True
+2026-01-23,Medvedev D.,Marozsan F.,0.755,Medvedev D.,Medvedev D.,True
+2026-01-23,Moutet C.,Alcaraz C.,0.01,Alcaraz C.,Alcaraz C.,True
+2026-01-23,Musetti L.,Machac T.,0.2805,Machac T.,Musetti L.,False
+2026-01-23,Tiafoe F.,De Minaur A.,0.145,De Minaur A.,De Minaur A.,True
+2026-01-23,Zverev A.,Norrie C.,0.9883,Zverev A.,Zverev A.,True
+2026-01-24,Cilic M.,Ruud C.,0.59,Cilic M.,Ruud C.,False
+2026-01-24,Fritz T.,Wawrinka S.,0.98,Fritz T.,Fritz T.,True
+2026-01-24,Mensik J.,Quinn E.,0.935,Mensik J.,Mensik J.,True
+2026-01-24,Sinner J.,Spizzirri E.,1.0,Sinner J.,Sinner J.,True
+2026-01-24,Vacherot V.,Shelton B.,0.0708,Shelton B.,Shelton B.,True
+2026-01-24,Van De Zandschulp B.,Djokovic N.,0.0188,Djokovic N.,Djokovic N.,True
+2026-01-25,Alcaraz C.,Paul T.,0.9,Alcaraz C.,Alcaraz C.,True
+2026-01-25,Bublik A.,De Minaur A.,0.1762,De Minaur A.,De Minaur A.,True
+2026-01-25,Cerundolo F.,Zverev A.,0.332,Zverev A.,Zverev A.,True
+2026-01-25,Tien L.,Medvedev D.,0.52,Tien L.,Tien L.,True
+2026-01-26,Darderi L.,Sinner J.,0.1377,Sinner J.,Sinner J.,True
+2026-01-26,Musetti L.,Fritz T.,0.0167,Fritz T.,Musetti L.,False
+2026-01-26,Shelton B.,Ruud C.,0.5943,Shelton B.,Shelton B.,True
+2026-01-27,Alcaraz C.,De Minaur A.,0.9656,Alcaraz C.,Alcaraz C.,True
+2026-01-27,Tien L.,Zverev A.,0.125,Zverev A.,Zverev A.,True
+2026-01-28,Shelton B.,Sinner J.,0.5877,Shelton B.,Sinner J.,False
+2026-01-30,Alcaraz C.,Zverev A.,0.5323,Alcaraz C.,Alcaraz C.,True
+2026-01-30,Sinner J.,Djokovic N.,0.9625,Sinner J.,Djokovic N.,False
+2026-02-01,Alcaraz C.,Djokovic N.,0.7447,Alcaraz C.,Alcaraz C.,True
+2026-02-02,Bautista Agut R.,O Connell C.,0.475,O Connell C.,Bautista Agut R.,False
+2026-02-02,Martinez P.,Mannarino A.,0.3764,Mannarino A.,Mannarino A.,True
+2026-02-03,Blanchet U.,Vavassori A.,0.86,Blanchet U.,Blanchet U.,True
+2026-02-03,Choinski J.,Droguet T.,0.86,Choinski J.,Droguet T.,False
+2026-02-03,Damm M.,Hurkacz H.,0.34,Hurkacz H.,Damm M.,False
+2026-02-03,Humbert U.,Van De Zandschulp B.,0.655,Humbert U.,Humbert U.,True
+2026-02-03,Kecmanovic M.,Carreno Busta P.,0.637,Kecmanovic M.,Carreno Busta P.,False
+2026-02-03,Royer V.,Fils A.,0.1866,Fils A.,Fils A.,True
+2026-02-04,Basilashvili N.,Nardi L.,0.245,Nardi L.,Nardi L.,True
+2026-02-04,Kovacevic A.,Kouame M.,0.88,Kovacevic A.,Kovacevic A.,True
+2026-02-04,Medjedovic H.,Wawrinka S.,0.5,Medjedovic H.,Wawrinka S.,False
+2026-02-04,Damm M.,Bautista Agut R.,0.2,Bautista Agut R.,Damm M.,False
+2026-02-04,Humbert U.,Mannarino A.,0.6671,Humbert U.,Mannarino A.,False
+2026-02-05,Carreno Busta P.,Griekspoor T.,0.3,Griekspoor T.,Griekspoor T.,True
+2026-02-05,Droguet T.,Kovacevic A.,0.22,Kovacevic A.,Droguet T.,False
+2026-02-05,Fils A.,Blanchet U.,0.85,Fils A.,Fils A.,True
+2026-02-05,Nardi L.,Cobolli F.,0.1192,Cobolli F.,Nardi L.,False
+2026-02-05,Wawrinka S.,Auger-Aliassime F.,0.1,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-02-06,Damm M.,Nardi L.,0.5475,Damm M.,Damm M.,True
+2026-02-06,Droguet T.,Griekspoor T.,0.3925,Griekspoor T.,Droguet T.,False
+2026-02-06,Fils A.,Auger-Aliassime F.,0.15,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-02-06,Gea A.,Mannarino A.,0.655,Gea A.,Mannarino A.,False
+2026-02-07,Auger-Aliassime F.,Droguet T.,0.97,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-02-07,Damm M.,Mannarino A.,0.615,Damm M.,Mannarino A.,False
+2026-02-08,Mannarino A.,Auger-Aliassime F.,0.2183,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-02-09,Bautista Agut R.,Norrie C.,0.2375,Norrie C.,Norrie C.,True
+2026-02-09,Budkov Kjaer N.,Munar J.,0.45,Munar J.,Munar J.,True
+2026-02-09,Humbert U.,Medvedev D.,0.1998,Medvedev D.,Humbert U.,False
+2026-02-09,Royer V.,O Connell C.,0.435,O Connell C.,O Connell C.,True
+2026-02-09,Van De Zandschulp B.,Pavlovic L.,0.5167,Van De Zandschulp B.,Van De Zandschulp B.,True
+2026-02-09,Barrena A.,Kopriva V.,0.195,Kopriva V.,Kopriva V.,True
+2026-02-09,Dellien H.,Dzumhur D.,0.375,Dzumhur D.,Dellien H.,False
+2026-02-09,Etcheverry T.,Pellegrino A.,0.5133,Etcheverry T.,Etcheverry T.,True
+2026-02-09,Midon L.,Martinez P.,0.565,Midon L.,Martinez P.,False
+2026-02-09,Nakashima B.,Bellucci M.,0.675,Nakashima B.,Nakashima B.,True
+2026-02-09,Svajda Z.,Davidovich Fokina A.,0.3217,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-02-10,Bergs Z.,Medjedovic H.,0.435,Medjedovic H.,Bergs Z.,False
+2026-02-10,Fils A.,De Minaur A.,0.22,De Minaur A.,De Minaur A.,True
+2026-02-10,Halys Q.,Rottgering M.,0.87,Halys Q.,Halys Q.,True
+2026-02-10,Mpetshi G.,Griekspoor T.,0.535,Mpetshi G.,Griekspoor T.,False
+2026-02-10,Struff J.L.,Grenier H.,0.6883,Struff J.L.,Struff J.L.,True
+2026-02-10,Berrettini M.,Coria F.,0.585,Berrettini M.,Berrettini M.,True
+2026-02-10,Burruchaga R.,Djere L.,0.335,Djere L.,Burruchaga R.,False
+2026-02-10,Cerundolo J.M.,Altmaier D.,0.4392,Altmaier D.,Cerundolo J.M.,False
+2026-02-10,Diaz Acosta F.,Tabilo A.,0.425,Tabilo A.,Tabilo A.,True
+2026-02-10,Passaro F.,Buse I.,0.49,Buse I.,Buse I.,True
+2026-02-10,Cilic M.,Tien L.,0.525,Cilic M.,Cilic M.,True
+2026-02-10,Cobolli F.,Pinnington Jones J.,0.745,Cobolli F.,Pinnington Jones J.,False
+2026-02-10,Michelsen A.,Dimitrov G.,0.5366,Michelsen A.,Michelsen A.,True
+2026-02-10,Shelton B.,Diallo G.,0.91,Shelton B.,Shelton B.,True
+2026-02-10,Shimabukuro S.,Kecmanovic M.,0.505,Shimabukuro S.,Kecmanovic M.,False
+2026-02-10,Tiafoe F.,Atmane T.,0.51,Tiafoe F.,Tiafoe F.,True
+2026-02-10,Zheng M.,Korda S.,0.615,Zheng M.,Korda S.,False
+2026-02-11,Auger-Aliassime F.,Popyrin A.,0.7088,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-02-11,Boogaard T.,Wawrinka S.,0.425,Wawrinka S.,Wawrinka S.,True
+2026-02-11,Den Ouden G.,Fucsovics M.,0.35,Fucsovics M.,Den Ouden G.,False
+2026-02-11,Hurkacz H.,Bublik A.,0.46,Bublik A.,Bublik A.,True
+2026-02-11,Khachanov K.,De Jong J.,0.375,De Jong J.,Khachanov K.,False
+2026-02-11,Rinderknech A.,Tsitsipas S.,0.4717,Tsitsipas S.,Tsitsipas S.,True
+2026-02-11,Griekspoor T.,Halys Q.,0.76,Griekspoor T.,Griekspoor T.,True
+2026-02-11,Norrie C.,O Connell C.,0.77,Norrie C.,O Connell C.,False
+2026-02-11,Comesana F.,Ugo Carabelli C.,0.1567,Ugo Carabelli C.,Ugo Carabelli C.,True
+2026-02-11,Navone M.,Nava E.,0.8148,Navone M.,Navone M.,True
+2026-02-11,Burruchaga R.,Etcheverry T.,0.3258,Etcheverry T.,Etcheverry T.,True
+2026-02-11,Fonseca J.,Tabilo A.,0.572,Fonseca J.,Tabilo A.,False
+2026-02-11,Kopriva V.,Berrettini M.,0.3983,Berrettini M.,Kopriva V.,False
+2026-02-11,Giron M.,Fritz T.,0.3088,Fritz T.,Fritz T.,True
+2026-02-11,Jodar R.,Shapovalov D.,0.54,Jodar R.,Shapovalov D.,False
+2026-02-11,Kovacevic A.,Kypson P.,0.78,Kovacevic A.,Kovacevic A.,True
+2026-02-11,Paul T.,Brooksby J.,0.755,Paul T.,Paul T.,True
+2026-02-11,Spizzirri E.,Duckworth J.,0.245,Duckworth J.,Spizzirri E.,False
+2026-02-11,Svajda T.,Quinn E.,0.35,Quinn E.,Quinn E.,True
+2026-02-11,Walton A.,Mannarino A.,0.17,Mannarino A.,Mannarino A.,True
+2026-02-11,Davidovich Fokina A.,Michelsen A.,0.585,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-02-12,Bublik A.,Struff J.L.,0.8508,Bublik A.,Bublik A.,True
+2026-02-12,De Minaur A.,Wawrinka S.,0.6483,De Minaur A.,De Minaur A.,True
+2026-02-12,Den Ouden G.,Humbert U.,0.26,Humbert U.,Humbert U.,True
+2026-02-12,Medjedovic H.,Auger-Aliassime F.,0.31,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-02-12,Munar J.,Khachanov K.,0.5542,Munar J.,Munar J.,True
+2026-02-12,Tsitsipas S.,Van De Zandschulp B.,0.61,Tsitsipas S.,Van De Zandschulp B.,False
+2026-02-12,Barrios M.,Darderi L.,0.265,Darderi L.,Darderi L.,True
+2026-02-12,Buse I.,Baez S.,0.21,Baez S.,Baez S.,True
+2026-02-12,Cerundolo F.,Dellien H.,0.87,Cerundolo F.,Cerundolo F.,True
+2026-02-12,Martinez P.,Cerundolo J.M.,0.715,Martinez P.,Martinez P.,True
+2026-02-12,Ugo Carabelli C.,Navone M.,0.48,Navone M.,Ugo Carabelli C.,False
+2026-02-12,Korda S.,Tiafoe F.,0.6475,Korda S.,Korda S.,True
+2026-02-12,Kovacevic A.,Shapovalov D.,0.425,Shapovalov D.,Shapovalov D.,True
+2026-02-12,Nakashima B.,Fritz T.,0.2525,Fritz T.,Fritz T.,True
+2026-02-12,Pinnington Jones J.,Spizzirri E.,0.39,Spizzirri E.,Pinnington Jones J.,False
+2026-02-12,Quinn E.,Cilic M.,0.28,Cilic M.,Cilic M.,True
+2026-02-13,Bublik A.,Munar J.,0.665,Bublik A.,Bublik A.,True
+2026-02-13,De Minaur A.,Van De Zandschulp B.,0.885,De Minaur A.,De Minaur A.,True
+2026-02-13,Griekspoor T.,Auger-Aliassime F.,0.2633,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-02-13,O Connell C.,Humbert U.,0.41,Humbert U.,Humbert U.,True
+2026-02-13,Cerundolo F.,Kopriva V.,0.605,Cerundolo F.,Cerundolo F.,True
+2026-02-13,Tabilo A.,Etcheverry T.,0.5075,Tabilo A.,Etcheverry T.,False
+2026-02-13,Ugo Carabelli C.,Baez S.,0.5899,Ugo Carabelli C.,Baez S.,False
+2026-02-13,Paul T.,Kecmanovic M.,0.725,Paul T.,Kecmanovic M.,False
+2026-02-13,Shelton B.,Mannarino A.,0.915,Shelton B.,Shelton B.,True
+2026-02-13,Cilic M.,Pinnington Jones J.,0.57,Cilic M.,Cilic M.,True
+2026-02-13,Korda S.,Fritz T.,0.08,Fritz T.,Fritz T.,True
+2026-02-14,Auger-Aliassime F.,Bublik A.,0.6818,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-02-14,Humbert U.,De Minaur A.,0.2262,De Minaur A.,De Minaur A.,True
+2026-02-14,Darderi L.,Martinez P.,0.91,Darderi L.,Darderi L.,True
+2026-02-14,Darderi L.,Baez S.,0.455,Baez S.,Darderi L.,False
+2026-02-14,Etcheverry T.,Cerundolo F.,0.2158,Cerundolo F.,Cerundolo F.,True
+2026-02-14,Davidovich Fokina A.,Shapovalov D.,0.645,Davidovich Fokina A.,Shapovalov D.,False
+2026-02-14,Shelton B.,Kecmanovic M.,0.905,Shelton B.,Shelton B.,True
+2026-02-14,Fritz T.,Cilic M.,0.91,Fritz T.,Fritz T.,True
+2026-02-14,Shapovalov D.,Shelton B.,0.23,Shelton B.,Shelton B.,True
+2026-02-15,Auger-Aliassime F.,De Minaur A.,0.5844,Auger-Aliassime F.,De Minaur A.,False
+2026-02-15,Darderi L.,Cerundolo F.,0.8425,Darderi L.,Cerundolo F.,False
+2026-02-15,Shelton B.,Fritz T.,0.435,Fritz T.,Shelton B.,False
+2026-02-16,Atmane T.,Kypson P.,0.6017,Atmane T.,Atmane T.,True
+2026-02-16,Borges N.,Wong C.,0.415,Wong C.,Wong C.,True
+2026-02-16,Michelsen A.,Vacherot V.,0.28,Vacherot V.,Michelsen A.,False
+2026-02-16,Shimabukuro S.,Giron M.,0.385,Giron M.,Giron M.,True
+2026-02-16,Herbert P.,Royer V.,0.35,Royer V.,Royer V.,True
+2026-02-16,Majchrzak K.,Fils A.,0.4183,Fils A.,Fils A.,True
+2026-02-16,Mensik J.,Choinski J.,0.76,Mensik J.,Mensik J.,True
+2026-02-16,Shang J.,Medvedev D.,0.16,Medvedev D.,Medvedev D.,True
+2026-02-16,Sinner J.,Machac T.,0.935,Sinner J.,Sinner J.,True
+2026-02-16,Garin C.,Tirante T.A.,0.2242,Tirante T.A.,Tirante T.A.,True
+2026-02-16,Kopriva V.,Heide G.,0.705,Kopriva V.,Kopriva V.,True
+2026-02-16,Lajovic D.,Altmaier D.,0.3321,Altmaier D.,Lajovic D.,False
+2026-02-16,Marcondes I.,Buse I.,0.555,Marcondes I.,Buse I.,False
+2026-02-16,Nava E.,Tabilo A.,0.29,Tabilo A.,Tabilo A.,True
+2026-02-17,Cilic M.,Nakashima B.,0.6237,Cilic M.,Nakashima B.,False
+2026-02-17,Diallo G.,Walton A.,0.8118,Diallo G.,Walton A.,False
+2026-02-17,Jodar R.,Quinn E.,0.44,Quinn E.,Jodar R.,False
+2026-02-17,Kecmanovic M.,Bellucci M.,0.5,Kecmanovic M.,Kecmanovic M.,True
+2026-02-17,Korda S.,McDonald M.,0.3425,McDonald M.,Korda S.,False
+2026-02-17,Kovacevic A.,Svajda Z.,0.74,Kovacevic A.,Svajda Z.,False
+2026-02-17,Tiafoe F.,Hijikata R.,0.91,Tiafoe F.,Tiafoe F.,True
+2026-02-17,Alcaraz C.,Rinderknech A.,0.93,Alcaraz C.,Alcaraz C.,True
+2026-02-17,Brooksby J.,Lehecka J.,0.33,Lehecka J.,Lehecka J.,True
+2026-02-17,Carballes Baena R.,Zhang Zh.,0.795,Carballes Baena R.,Zhang Zh.,False
+2026-02-17,Carreno Busta P.,Halys Q.,0.4188,Halys Q.,Halys Q.,True
+2026-02-17,De Jong J.,Rublev A.,0.245,Rublev A.,Rublev A.,True
+2026-02-17,Fucsovics M.,Habib H.,0.91,Fucsovics M.,Fucsovics M.,True
+2026-02-17,Khachanov K.,Mochizuki S.,0.85,Khachanov K.,Khachanov K.,True
+2026-02-17,Marozsan F.,Humbert U.,0.4183,Humbert U.,Marozsan F.,False
+2026-02-17,Mpetshi G.,Bergs Z.,0.4275,Bergs Z.,Bergs Z.,True
+2026-02-17,Tsitsipas S.,Echargui M.,0.325,Echargui M.,Tsitsipas S.,False
+2026-02-17,Berrettini M.,Barrios M.,0.905,Berrettini M.,Berrettini M.,True
+2026-02-17,Cerundolo F.,Navone M.,0.78,Cerundolo F.,Cerundolo F.,True
+2026-02-17,Comesana F.,Etcheverry T.,0.6783,Comesana F.,Etcheverry T.,False
+2026-02-17,Darderi L.,Cerundolo J.M.,0.725,Darderi L.,Cerundolo J.M.,False
+2026-02-17,Dzumhur D.,Martinez P.,0.615,Dzumhur D.,Dzumhur D.,True
+2026-02-17,Hanfmann Y.,Reis Da Silva J.,0.755,Hanfmann Y.,Hanfmann Y.,True
+2026-02-17,Monteiro T.,Fonseca J.,0.225,Fonseca J.,Fonseca J.,True
+2026-02-17,Passaro F.,Prizmic D.,0.68,Passaro F.,Passaro F.,True
+2026-02-17,Ugo Carabelli C.,Burruchaga R.,0.66,Ugo Carabelli C.,Burruchaga R.,False
+2026-02-18,Moutet C.,Paul T.,0.4614,Paul T.,Paul T.,True
+2026-02-18,Cobolli F.,Atmane T.,0.6317,Cobolli F.,Cobolli F.,True
+2026-02-18,Korda S.,Michelsen A.,0.405,Michelsen A.,Korda S.,False
+2026-02-18,Nakashima B.,Wong C.,0.72,Nakashima B.,Wong C.,False
+2026-02-18,Halys Q.,Fils A.,0.3108,Fils A.,Fils A.,True
+2026-02-18,Khachanov K.,Fucsovics M.,0.37,Fucsovics M.,Khachanov K.,False
+2026-02-18,Lehecka J.,Bergs Z.,0.8,Lehecka J.,Lehecka J.,True
+2026-02-18,Medvedev D.,Tsitsipas S.,0.705,Medvedev D.,Tsitsipas S.,False
+2026-02-18,Royer V.,Alcaraz C.,0.015,Alcaraz C.,Alcaraz C.,True
+2026-02-18,Rublev A.,Marozsan F.,0.915,Rublev A.,Rublev A.,True
+2026-02-18,Sinner J.,Popyrin A.,0.9267,Sinner J.,Sinner J.,True
+2026-02-18,Zhang Zh.,Mensik J.,0.19,Mensik J.,Mensik J.,True
+2026-02-18,Baez S.,Faria J.,0.525,Baez S.,Faria J.,False
+2026-02-18,Gaubas V.,Miguel L.,0.48,Miguel L.,Gaubas V.,False
+2026-02-18,Burruchaga R.,Kopriva V.,0.71,Burruchaga R.,Kopriva V.,False
+2026-02-18,Cerundolo J.M.,Hanfmann Y.,0.3325,Hanfmann Y.,Cerundolo J.M.,False
+2026-02-19,Giron M.,Ruud C.,0.7479,Giron M.,Ruud C.,False
+2026-02-19,Paul T.,Walton A.,0.92,Paul T.,Paul T.,True
+2026-02-19,Svajda Z.,Tiafoe F.,0.3483,Tiafoe F.,Tiafoe F.,True
+2026-02-19,Tien L.,Kecmanovic M.,0.6525,Tien L.,Tien L.,True
+2026-02-19,Alcaraz C.,Khachanov K.,0.9525,Alcaraz C.,Alcaraz C.,True
+2026-02-19,Lehecka J.,Fils A.,0.725,Lehecka J.,Fils A.,False
+2026-02-19,Rublev A.,Tsitsipas S.,0.65,Rublev A.,Rublev A.,True
+2026-02-19,Sinner J.,Mensik J.,0.5288,Sinner J.,Mensik J.,False
+2026-02-19,Faria J.,Dzumhur D.,0.53,Faria J.,Faria J.,True
+2026-02-19,Gaubas V.,Etcheverry T.,0.345,Etcheverry T.,Etcheverry T.,True
+2026-02-19,Passaro F.,Tabilo A.,0.442,Tabilo A.,Tabilo A.,True
+2026-02-20,Jodar R.,Fritz T.,0.14,Fritz T.,Fritz T.,True
+2026-02-20,Cobolli F.,Wong C.,0.755,Cobolli F.,Cobolli F.,True
+2026-02-20,Ruud C.,Korda S.,0.545,Ruud C.,Korda S.,False
+2026-02-20,Tien L.,Tiafoe F.,0.515,Tien L.,Tien L.,True
+2026-02-20,Alcaraz C.,Rublev A.,0.9275,Alcaraz C.,Alcaraz C.,True
+2026-02-20,Mensik J.,Fils A.,0.43,Fils A.,Fils A.,True
+2026-02-20,Buse I.,Fonseca J.,0.435,Fonseca J.,Buse I.,False
+2026-02-20,Lajovic D.,Berrettini M.,0.5133,Lajovic D.,Berrettini M.,False
+2026-02-20,Buse I.,Berrettini M.,0.3625,Berrettini M.,Buse I.,False
+2026-02-20,Faria J.,Etcheverry T.,0.185,Etcheverry T.,Etcheverry T.,True
+2026-02-20,Kopriva V.,Cerundolo J.M.,0.47,Cerundolo J.M.,Kopriva V.,False
+2026-02-21,Fritz T.,Paul T.,0.535,Fritz T.,Paul T.,False
+2026-02-21,Korda S.,Cobolli F.,0.345,Cobolli F.,Korda S.,False
+2026-02-21,Alcaraz C.,Fils A.,0.9029,Alcaraz C.,Alcaraz C.,True
+2026-02-21,Tirante T.A.,Tabilo A.,0.29,Tabilo A.,Tabilo A.,True
+2026-02-22,Tien L.,Paul T.,0.4225,Paul T.,Paul T.,True
+2026-02-22,Korda S.,Paul T.,0.175,Paul T.,Korda S.,False
+2026-02-22,Buse I.,Tabilo A.,0.465,Tabilo A.,Tabilo A.,True
+2026-02-22,Etcheverry T.,Kopriva V.,0.315,Kopriva V.,Etcheverry T.,False
+2026-02-22,Etcheverry T.,Tabilo A.,0.34,Tabilo A.,Etcheverry T.,False
+2026-02-23,Barrena A.,Pellegrino A.,0.51,Barrena A.,Pellegrino A.,False
+2026-02-23,Comesana F.,Martinez P.,0.455,Martinez P.,Comesana F.,False
+2026-02-23,Hanfmann Y.,Lajovic D.,0.525,Hanfmann Y.,Hanfmann Y.,True
+2026-02-23,Jarry N.,Prizmic D.,0.675,Jarry N.,Prizmic D.,False
+2026-02-23,Auger-Aliassime F.,Zhang Zh.,0.9114,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-02-23,Halys Q.,Draper J.,0.25,Draper J.,Draper J.,True
+2026-02-23,Hassan B.,Wawrinka S.,0.205,Wawrinka S.,Wawrinka S.,True
+2026-02-23,Mpetshi G.,Echargui M.,0.85,Mpetshi G.,Mpetshi G.,True
+2026-02-24,Davidovich Fokina A.,Altmaier D.,0.6933,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-02-24,Kovacevic A.,Walton A.,0.3596,Walton A.,Kovacevic A.,False
+2026-02-24,Kypson P.,De Minaur A.,0.1338,De Minaur A.,Kypson P.,False
+2026-02-24,Norrie C.,Jodar R.,0.82,Norrie C.,Jodar R.,False
+2026-02-24,Schoolkate T.,Kecmanovic M.,0.75,Schoolkate T.,Kecmanovic M.,False
+2026-02-24,Wong C.,Vacherot V.,0.15,Vacherot V.,Vacherot V.,True
+2026-02-24,Ymer E.,Nakashima B.,0.07,Nakashima B.,Nakashima B.,True
+2026-02-24,Burruchaga R.,Moller E.,0.555,Burruchaga R.,Moller E.,False
+2026-02-24,Buse I.,Tirante T.A.,0.4817,Tirante T.A.,Tirante T.A.,True
+2026-02-24,Garin C.,Cerundolo J.M.,0.505,Garin C.,Garin C.,True
+2026-02-24,Gaubas V.,Soto M.,0.785,Gaubas V.,Gaubas V.,True
+2026-02-24,Nava E.,Berrettini M.,0.326,Berrettini M.,Nava E.,False
+2026-02-24,Brooksby J.,Bergs Z.,0.5712,Brooksby J.,Brooksby J.,True
+2026-02-24,Griekspoor T.,Virtanen O.,0.56,Griekspoor T.,Griekspoor T.,True
+2026-02-24,Humbert U.,Tsitsipas S.,0.5075,Humbert U.,Humbert U.,True
+2026-02-24,Majchrzak K.,Popyrin A.,0.415,Popyrin A.,Popyrin A.,True
+2026-02-24,Medvedev D.,Shang J.,0.8048,Medvedev D.,Medvedev D.,True
+2026-02-24,Mensik J.,Hurkacz H.,0.875,Mensik J.,Mensik J.,True
+2026-02-24,Nardi L.,Lehecka J.,0.0775,Lehecka J.,Lehecka J.,True
+2026-02-24,Rinderknech A.,Marozsan F.,0.3806,Marozsan F.,Rinderknech A.,False
+2026-02-24,Royer V.,Rublev A.,0.21,Rublev A.,Rublev A.,True
+2026-02-24,Shapovalov D.,Carreno Busta P.,0.54,Shapovalov D.,Carreno Busta P.,False
+2026-02-24,Shevchenko A.,Khachanov K.,0.315,Khachanov K.,Khachanov K.,True
+2026-02-24,Struff J.L.,Bublik A.,0.14,Bublik A.,Bublik A.,True
+2026-02-25,Atmane T.,Dimitrov G.,0.29,Dimitrov G.,Atmane T.,False
+2026-02-25,Borges N.,Tiafoe F.,0.42,Tiafoe F.,Tiafoe F.,True
+2026-02-25,Dzumhur D.,Monfils G.,0.715,Dzumhur D.,Monfils G.,False
+2026-02-25,Hijikata R.,Bellucci M.,0.335,Bellucci M.,Bellucci M.,True
+2026-02-25,Pacheco Mendez R.,Cobolli F.,0.255,Cobolli F.,Cobolli F.,True
+2026-02-25,Shimabukuro S.,Mannarino A.,0.21,Mannarino A.,Shimabukuro S.,False
+2026-02-25,Svrcina D.,Duckworth J.,0.7,Svrcina D.,Svrcina D.,True
+2026-02-25,Wu Y.,Ruud C.,0.7,Wu Y.,Wu Y.,True
+2026-02-25,Zverev A.,Moutet C.,0.6475,Zverev A.,Zverev A.,True
+2026-02-25,Barrios M.,Tabilo A.,0.6167,Barrios M.,Tabilo A.,False
+2026-02-25,Comesana F.,Pellegrino A.,0.6042,Comesana F.,Pellegrino A.,False
+2026-02-25,Gaubas V.,Prizmic D.,0.41,Prizmic D.,Gaubas V.,False
+2026-02-25,Hanfmann Y.,Ugo Carabelli C.,0.365,Ugo Carabelli C.,Hanfmann Y.,False
+2026-02-25,Navone M.,Darderi L.,0.7775,Navone M.,Darderi L.,False
+2026-02-25,Auger-Aliassime F.,Mpetshi G.,0.895,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-02-25,Carreno Busta P.,Lehecka J.,0.3733,Lehecka J.,Lehecka J.,True
+2026-02-25,Draper J.,Rinderknech A.,0.7,Draper J.,Rinderknech A.,False
+2026-02-25,Griekspoor T.,Bublik A.,0.4537,Bublik A.,Griekspoor T.,False
+2026-02-25,Humbert U.,Rublev A.,0.8783,Humbert U.,Rublev A.,False
+2026-02-25,Khachanov K.,Brooksby J.,0.69,Khachanov K.,Brooksby J.,False
+2026-02-25,Medvedev D.,Wawrinka S.,0.6958,Medvedev D.,Medvedev D.,True
+2026-02-25,Mensik J.,Popyrin A.,0.56,Mensik J.,Mensik J.,True
+2026-02-26,Atmane T.,Jodar R.,0.59,Atmane T.,Atmane T.,True
+2026-02-26,Davidovich Fokina A.,Bellucci M.,0.935,Davidovich Fokina A.,Bellucci M.,False
+2026-02-26,Nakashima B.,Kypson P.,0.56,Nakashima B.,Nakashima B.,True
+2026-02-26,Shimabukuro S.,Wu Y.,0.455,Wu Y.,Wu Y.,True
+2026-02-26,Svrcina D.,Cobolli F.,0.305,Cobolli F.,Cobolli F.,True
+2026-02-26,Tiafoe F.,Kovacevic A.,0.3971,Kovacevic A.,Tiafoe F.,False
+2026-02-26,Vacherot V.,Monfils G.,0.905,Vacherot V.,Vacherot V.,True
+2026-02-26,Zverev A.,Kecmanovic M.,0.7425,Zverev A.,Kecmanovic M.,False
+2026-02-26,Baez S.,Garin C.,0.41,Garin C.,Baez S.,False
+2026-02-26,Moller E.,Cerundolo F.,0.2054,Cerundolo F.,Cerundolo F.,True
+2026-02-26,Nava E.,Vallejo D.,0.47,Vallejo D.,Nava E.,False
+2026-02-26,Lehecka J.,Auger-Aliassime F.,0.48,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-02-26,Medvedev D.,Brooksby J.,0.475,Brooksby J.,Medvedev D.,False
+2026-02-26,Mensik J.,Griekspoor T.,0.69,Mensik J.,Griekspoor T.,False
+2026-02-26,Rublev A.,Rinderknech A.,0.64,Rublev A.,Rublev A.,True
+2026-02-27,Bellucci M.,Tiafoe F.,0.31,Tiafoe F.,Tiafoe F.,True
+2026-02-27,Kecmanovic M.,Atmane T.,0.525,Kecmanovic M.,Kecmanovic M.,True
+2026-02-27,Nakashima B.,Vacherot V.,0.6888,Nakashima B.,Nakashima B.,True
+2026-02-27,Wu Y.,Cobolli F.,0.344,Cobolli F.,Cobolli F.,True
+2026-02-27,Tirante T.A.,Tabilo A.,0.448,Tabilo A.,Tabilo A.,True
+2026-02-27,Darderi L.,Pellegrino A.,0.73,Darderi L.,Darderi L.,True
+2026-02-27,Hanfmann Y.,Gaubas V.,0.58,Hanfmann Y.,Hanfmann Y.,True
+2026-02-27,Nava E.,Cerundolo F.,0.24,Cerundolo F.,Cerundolo F.,True
+2026-02-27,Medvedev D.,Auger-Aliassime F.,0.685,Medvedev D.,Medvedev D.,True
+2026-02-27,Rublev A.,Griekspoor T.,0.615,Rublev A.,Griekspoor T.,False
+2026-02-28,Kecmanovic M.,Cobolli F.,0.265,Cobolli F.,Cobolli F.,True
+2026-02-28,Tiafoe F.,Nakashima B.,0.4666,Nakashima B.,Tiafoe F.,False
+2026-02-28,Tabilo A.,Baez S.,0.6925,Tabilo A.,Baez S.,False
+2026-02-28,Baez S.,Darderi L.,0.55,Baez S.,Darderi L.,False
+2026-02-28,Hanfmann Y.,Cerundolo F.,0.3292,Cerundolo F.,Hanfmann Y.,False
+2026-03-01,Tiafoe F.,Cobolli F.,0.3808,Cobolli F.,Cobolli F.,True
+2026-03-01,Darderi L.,Hanfmann Y.,0.755,Darderi L.,Darderi L.,True
+2026-03-04,Bergs Z.,Struff J.L.,0.825,Bergs Z.,Bergs Z.,True
+2026-03-04,Damm M.,Ugo Carabelli C.,0.2625,Ugo Carabelli C.,Ugo Carabelli C.,True
+2026-03-04,Diallo G.,Bellucci M.,0.703,Diallo G.,Diallo G.,True
+2026-03-04,Duckworth J.,Svrcina D.,0.38,Svrcina D.,Svrcina D.,True
+2026-03-04,Fucsovics M.,O Connell C.,0.615,Fucsovics M.,Fucsovics M.,True
+2026-03-04,Giron M.,Navone M.,0.57,Giron M.,Giron M.,True
+2026-03-04,Halys Q.,Walton A.,0.3222,Walton A.,Walton A.,True
+2026-03-04,Mannarino A.,Berrettini M.,0.6533,Mannarino A.,Berrettini M.,False
+2026-03-04,Quinn E.,Opelka R.,0.4198,Opelka R.,Opelka R.,True
+2026-03-05,Bonzi B.,Royer V.,0.7453,Bonzi B.,Bonzi B.,True
+2026-03-05,Cilic M.,Svajda Z.,0.26,Svajda Z.,Svajda Z.,True
+2026-03-05,Dimitrov G.,Atmane T.,0.27,Atmane T.,Dimitrov G.,False
+2026-03-05,Fearnley J.,Dzumhur D.,0.5234,Fearnley J.,Fearnley J.,True
+2026-03-05,Fonseca J.,Collignon R.,0.49,Collignon R.,Fonseca J.,False
+2026-03-05,Hurkacz H.,Kovacevic A.,0.405,Kovacevic A.,Kovacevic A.,True
+2026-03-05,Marozsan F.,Bautista Agut R.,0.315,Bautista Agut R.,Bautista Agut R.,True
+2026-03-05,Michelsen A.,Merida Aguilar D.,0.815,Michelsen A.,Michelsen A.,True
+2026-03-05,Monfils G.,Galarneau A.,0.69,Monfils G.,Monfils G.,True
+2026-03-05,Mpetshi G.,Majchrzak K.,0.845,Mpetshi G.,Majchrzak K.,False
+2026-03-05,Popyrin A.,Brooksby J.,0.6445,Popyrin A.,Brooksby J.,False
+2026-03-05,Prizmic D.,Schoolkate T.,0.53,Prizmic D.,Prizmic D.,True
+2026-03-05,Shevchenko A.,Shimabukuro S.,0.4412,Shimabukuro S.,Shevchenko A.,False
+2026-03-05,Tseng C.H.,Baez S.,0.435,Baez S.,Baez S.,True
+2026-03-05,Tsitsipas S.,Shapovalov D.,0.5091,Tsitsipas S.,Shapovalov D.,False
+2026-03-06,Comesana F.,Korda S.,0.3144,Korda S.,Korda S.,True
+2026-03-06,Hijikata R.,Maestrelli F.,0.6292,Hijikata R.,Hijikata R.,True
+2026-03-06,McDonald M.,Arnaldi M.,0.3294,Arnaldi M.,McDonald M.,False
+2026-03-06,Nava E.,Borges N.,0.52,Nava E.,Borges N.,False
+2026-03-06,Tabilo A.,Jodar R.,0.575,Tabilo A.,Tabilo A.,True
+2026-03-06,Van De Zandschulp B.,Cerundolo J.M.,0.6827,Van De Zandschulp B.,Cerundolo J.M.,False
+2026-03-06,Zheng M.,Kopriva V.,0.67,Zheng M.,Kopriva V.,False
+2026-03-06,Auger-Aliassime F.,Monfils G.,0.925,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-03-06,Brooksby J.,Tiafoe F.,0.4548,Tiafoe F.,Tiafoe F.,True
+2026-03-06,Cobolli F.,Kecmanovic M.,0.2369,Kecmanovic M.,Cobolli F.,False
+2026-03-06,Fucsovics M.,Musetti L.,0.2262,Musetti L.,Fucsovics M.,False
+2026-03-06,Opelka R.,Shelton B.,0.4067,Shelton B.,Shelton B.,True
+2026-03-06,Ugo Carabelli C.,Nakashima B.,0.725,Ugo Carabelli C.,Nakashima B.,False
+2026-03-06,Walton A.,Tien L.,0.35,Tien L.,Tien L.,True
+2026-03-06,Zverev A.,Berrettini M.,0.965,Zverev A.,Zverev A.,True
+2026-03-07,Bergs Z.,Paul T.,0.805,Bergs Z.,Paul T.,False
+2026-03-07,Cerundolo F.,Bonzi B.,0.785,Cerundolo F.,Cerundolo F.,True
+2026-03-07,Davidovich Fokina A.,Svajda Z.,0.48,Svajda Z.,Davidovich Fokina A.,False
+2026-03-07,Diallo G.,Rublev A.,0.4957,Rublev A.,Diallo G.,False
+2026-03-07,Draper J.,Bautista Agut R.,0.91,Draper J.,Draper J.,True
+2026-03-07,Hijikata R.,Darderi L.,0.445,Darderi L.,Hijikata R.,False
+2026-03-07,Khachanov K.,Fonseca J.,0.8133,Khachanov K.,Fonseca J.,False
+2026-03-07,Korda S.,De Minaur A.,0.1405,De Minaur A.,De Minaur A.,True
+2026-03-07,Majchrzak K.,Djokovic N.,0.035,Djokovic N.,Djokovic N.,True
+2026-03-07,Mensik J.,Giron M.,0.88,Mensik J.,Mensik J.,True
+2026-03-07,Moutet C.,Kovacevic A.,0.6271,Moutet C.,Kovacevic A.,False
+2026-03-07,Shapovalov D.,Etcheverry T.,0.4675,Etcheverry T.,Shapovalov D.,False
+2026-03-07,Shevchenko A.,Ruud C.,0.0842,Ruud C.,Ruud C.,True
+2026-03-07,Svrcina D.,Sinner J.,0.04,Sinner J.,Sinner J.,True
+2026-03-07,Vacherot V.,Borges N.,0.1433,Borges N.,Vacherot V.,False
+2026-03-08,Alcaraz C.,Dimitrov G.,0.9767,Alcaraz C.,Alcaraz C.,True
+2026-03-08,Baez S.,Lehecka J.,0.6421,Baez S.,Baez S.,True
+2026-03-08,Fearnley J.,Fritz T.,0.405,Fritz T.,Fritz T.,True
+2026-03-08,Kopriva V.,Bublik A.,0.24,Bublik A.,Bublik A.,True
+2026-03-08,McDonald M.,Norrie C.,0.23,Norrie C.,Norrie C.,True
+2026-03-08,Michelsen A.,Humbert U.,0.3708,Humbert U.,Michelsen A.,False
+2026-03-08,Tabilo A.,Medvedev D.,0.1164,Medvedev D.,Medvedev D.,True
+2026-03-08,Davidovich Fokina A.,Mensik J.,0.465,Mensik J.,Davidovich Fokina A.,False
+2026-03-08,Fils A.,Fucsovics M.,0.81,Fils A.,Fils A.,True
+2026-03-08,Shapovalov D.,Sinner J.,0.285,Sinner J.,Sinner J.,True
+2026-03-08,Shelton B.,Tien L.,0.6908,Shelton B.,Tien L.,False
+2026-03-08,Zverev A.,Nakashima B.,0.9442,Zverev A.,Zverev A.,True
+2026-03-09,Auger-Aliassime F.,Diallo G.,0.7725,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-03-09,Cerundolo F.,Draper J.,0.6525,Cerundolo F.,Draper J.,False
+2026-03-09,Cobolli F.,Tiafoe F.,0.8177,Cobolli F.,Tiafoe F.,False
+2026-03-09,De Minaur A.,Norrie C.,0.93,De Minaur A.,Norrie C.,False
+2026-03-09,Djokovic N.,Kovacevic A.,0.5225,Djokovic N.,Djokovic N.,True
+2026-03-09,Hijikata R.,Bublik A.,0.215,Bublik A.,Hijikata R.,False
+2026-03-09,Michelsen A.,Fritz T.,0.115,Fritz T.,Michelsen A.,False
+2026-03-09,Paul T.,Fonseca J.,0.4067,Fonseca J.,Fonseca J.,True
+2026-03-09,Vacherot V.,Ruud C.,0.4933,Ruud C.,Ruud C.,True
+2026-03-10,Alcaraz C.,Rinderknech A.,0.29,Rinderknech A.,Alcaraz C.,False
+2026-03-10,Baez S.,Medvedev D.,0.444,Medvedev D.,Medvedev D.,True
+2026-03-10,Fils A.,Auger-Aliassime F.,0.3,Auger-Aliassime F.,Fils A.,False
+2026-03-10,Tiafoe F.,Zverev A.,0.3292,Zverev A.,Zverev A.,True
+2026-03-10,Tien L.,Davidovich Fokina A.,0.0938,Davidovich Fokina A.,Tien L.,False
+2026-03-11,Alcaraz C.,Ruud C.,0.905,Alcaraz C.,Alcaraz C.,True
+2026-03-11,Fonseca J.,Sinner J.,0.1878,Sinner J.,Sinner J.,True
+2026-03-11,Michelsen A.,Medvedev D.,0.2558,Medvedev D.,Medvedev D.,True
+2026-03-11,Norrie C.,Hijikata R.,0.5767,Norrie C.,Norrie C.,True
+2026-03-12,Djokovic N.,Draper J.,0.8759,Djokovic N.,Draper J.,False
+2026-03-12,Tien L.,Sinner J.,0.2533,Sinner J.,Sinner J.,True
+2026-03-12,Zverev A.,Fils A.,0.6625,Zverev A.,Zverev A.,True
+2026-03-13,Medvedev D.,Draper J.,0.5333,Medvedev D.,Medvedev D.,True
+2026-03-13,Norrie C.,Alcaraz C.,0.04,Alcaraz C.,Alcaraz C.,True
+2026-03-14,Alcaraz C.,Medvedev D.,0.6064,Alcaraz C.,Medvedev D.,False
+2026-03-14,Sinner J.,Zverev A.,0.2696,Zverev A.,Sinner J.,False
+2026-03-15,Sinner J.,Medvedev D.,0.7308,Sinner J.,Sinner J.,True
+2026-03-19,Basilashvili N.,Navone M.,0.5,Basilashvili N.,Navone M.,False
+2026-03-19,Bautista Agut R.,Duckworth J.,0.669,Bautista Agut R.,Bautista Agut R.,True
+2026-03-19,Berrettini M.,Muller A.,0.2408,Muller A.,Berrettini M.,False
+2026-03-19,Borges N.,Opelka R.,0.7424,Borges N.,Opelka R.,False
+2026-03-19,Brooksby J.,Bergs Z.,0.2183,Bergs Z.,Bergs Z.,True
+2026-03-19,Cilic M.,Popyrin A.,0.3262,Popyrin A.,Cilic M.,False
+2026-03-19,Comesana F.,Tabilo A.,0.875,Comesana F.,Tabilo A.,False
+2026-03-19,Dimitrov G.,Collignon R.,0.84,Dimitrov G.,Collignon R.,False
+2026-03-19,Dzumhur D.,Buse I.,0.4492,Buse I.,Dzumhur D.,False
+2026-03-19,Giron M.,Landaluce M.,0.785,Giron M.,Landaluce M.,False
+2026-03-19,Halys Q.,Draxl L.,0.555,Halys Q.,Halys Q.,True
+2026-03-19,Hanfmann Y.,Jodar R.,0.4383,Jodar R.,Jodar R.,True
+2026-03-19,Kouame M.,Svajda Z.,0.555,Kouame M.,Kouame M.,True
+2026-03-19,Majchrzak K.,Kecmanovic M.,0.235,Kecmanovic M.,Majchrzak K.,False
+2026-03-19,Mannarino A.,Zhang Zh.,0.78,Mannarino A.,Mannarino A.,True
+2026-03-19,Marozsan F.,Fonseca J.,0.7092,Marozsan F.,Fonseca J.,False
+2026-03-19,Nava E.,Machac T.,0.639,Nava E.,Machac T.,False
+2026-03-19,Quinn E.,Hurkacz H.,0.6113,Quinn E.,Quinn E.,True
+2026-03-19,Shapovalov D.,Van De Zandschulp B.,0.5218,Shapovalov D.,Van De Zandschulp B.,False
+2026-03-19,Struff J.L.,Blanch Dar.,0.69,Struff J.L.,Blanch Dar.,False
+2026-03-19,Tsitsipas S.,Fery A.,0.755,Tsitsipas S.,Tsitsipas S.,True
+2026-03-19,Ugo Carabelli C.,Mpetshi G.,0.0993,Mpetshi G.,Ugo Carabelli C.,False
+2026-03-20,Altmaier D.,Atmane T.,0.6108,Altmaier D.,Atmane T.,False
+2026-03-20,Barrios M.,Cazaux A.,0.625,Barrios M.,Cazaux A.,False
+2026-03-20,Bellucci M.,Michelsen A.,0.2261,Michelsen A.,Michelsen A.,True
+2026-03-20,O Connell C.,Fucsovics M.,0.385,Fucsovics M.,Fucsovics M.,True
+2026-03-20,Sakamoto R.,Kovacevic A.,0.21,Kovacevic A.,Sakamoto R.,False
+2026-03-20,Shevchenko A.,Arnaldi M.,0.38,Arnaldi M.,Shevchenko A.,False
+2026-03-20,Tirante T.A.,Royer V.,0.582,Tirante T.A.,Tirante T.A.,True
+2026-03-20,Walton A.,Baez S.,0.3238,Baez S.,Walton A.,False
+2026-03-20,Wu Y.,Diallo G.,0.575,Wu Y.,Diallo G.,False
+2026-03-20,Bautista Agut R.,Khachanov K.,0.1375,Khachanov K.,Khachanov K.,True
+2026-03-20,Bublik A.,Berrettini M.,0.9012,Bublik A.,Berrettini M.,False
+2026-03-20,Fils A.,Blanch Dar.,0.74,Fils A.,Fils A.,True
+2026-03-20,Fritz T.,Van De Zandschulp B.,0.805,Fritz T.,Fritz T.,True
+2026-03-20,Mannarino A.,Paul T.,0.1582,Paul T.,Paul T.,True
+2026-03-20,Opelka R.,Draper J.,0.3767,Draper J.,Opelka R.,False
+2026-03-20,Quinn E.,Ruud C.,0.089,Ruud C.,Quinn E.,False
+2026-03-21,Alcaraz C.,Fonseca J.,0.885,Alcaraz C.,Alcaraz C.,True
+2026-03-21,Atmane T.,Rinderknech A.,0.155,Rinderknech A.,Atmane T.,False
+2026-03-21,Auger-Aliassime F.,Fucsovics M.,0.8867,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-03-21,Bergs Z.,Etcheverry T.,0.2638,Etcheverry T.,Etcheverry T.,True
+2026-03-21,Cazaux A.,Tiafoe F.,0.3842,Tiafoe F.,Tiafoe F.,True
+2026-03-21,Cerundolo F.,Tirante T.A.,0.7875,Cerundolo F.,Cerundolo F.,True
+2026-03-21,Cobolli F.,Collignon R.,0.895,Cobolli F.,Collignon R.,False
+2026-03-21,Diallo G.,Humbert U.,0.8417,Diallo G.,Humbert U.,False
+2026-03-21,Dzumhur D.,Sinner J.,0.11,Sinner J.,Sinner J.,True
+2026-03-21,Halys Q.,Davidovich Fokina A.,0.405,Davidovich Fokina A.,Halys Q.,False
+2026-03-21,Kouame M.,Lehecka J.,0.06,Lehecka J.,Lehecka J.,True
+2026-03-21,Landaluce M.,Darderi L.,0.185,Darderi L.,Landaluce M.,False
+2026-03-21,Machac T.,Moutet C.,0.5433,Machac T.,Moutet C.,False
+2026-03-21,Majchrzak K.,Tien L.,0.2125,Tien L.,Majchrzak K.,False
+2026-03-21,Medvedev D.,Sakamoto R.,0.92,Medvedev D.,Medvedev D.,True
+2026-03-21,Navone M.,Vacherot V.,0.6742,Navone M.,Vacherot V.,False
+2026-03-21,Norrie C.,Michelsen A.,0.605,Norrie C.,Michelsen A.,False
+2026-03-21,Shevchenko A.,Shelton B.,0.119,Shelton B.,Shevchenko A.,False
+2026-03-21,Tabilo A.,Rublev A.,0.3867,Rublev A.,Tabilo A.,False
+2026-03-21,Tsitsipas S.,De Minaur A.,0.2783,De Minaur A.,Tsitsipas S.,False
+2026-03-21,Ugo Carabelli C.,Korda S.,0.3381,Korda S.,Korda S.,True
+2026-03-21,Vukic A.,Jodar R.,0.6,Vukic A.,Jodar R.,False
+2026-03-21,Walton A.,Mensik J.,0.19,Mensik J.,Mensik J.,True
+2026-03-22,Cilic M.,Nakashima B.,0.5908,Cilic M.,Cilic M.,True
+2026-03-22,Damm M.,Zverev A.,0.145,Zverev A.,Zverev A.,True
+2026-03-22,Alcaraz C.,Korda S.,0.5362,Alcaraz C.,Korda S.,False
+2026-03-22,Etcheverry T.,Jodar R.,0.75,Etcheverry T.,Etcheverry T.,True
+2026-03-22,Khachanov K.,Landaluce M.,0.63,Khachanov K.,Landaluce M.,False
+2026-03-22,Lehecka J.,Quinn E.,0.9183,Lehecka J.,Lehecka J.,True
+2026-03-22,Opelka R.,Fritz T.,0.246,Fritz T.,Fritz T.,True
+2026-03-22,Paul T.,Collignon R.,0.6676,Paul T.,Paul T.,True
+2026-03-23,Atmane T.,Auger-Aliassime F.,0.0625,Auger-Aliassime F.,Atmane T.,False
+2026-03-23,Cilic M.,Zverev A.,0.2565,Zverev A.,Zverev A.,True
+2026-03-23,Halys Q.,Majchrzak K.,0.4475,Majchrzak K.,Halys Q.,False
+2026-03-23,Humbert U.,Shevchenko A.,0.825,Humbert U.,Humbert U.,True
+2026-03-23,Medvedev D.,Cerundolo F.,0.2642,Cerundolo F.,Cerundolo F.,True
+2026-03-23,Mensik J.,Tiafoe F.,0.5833,Mensik J.,Tiafoe F.,False
+2026-03-23,Michelsen A.,Tabilo A.,0.505,Michelsen A.,Michelsen A.,True
+2026-03-23,Moutet C.,Sinner J.,0.025,Sinner J.,Sinner J.,True
+2026-03-23,Tsitsipas S.,Fils A.,0.4102,Fils A.,Fils A.,True
+2026-03-23,Vacherot V.,Berrettini M.,0.82,Vacherot V.,Vacherot V.,True
+2026-03-24,Atmane T.,Tiafoe F.,0.4017,Tiafoe F.,Tiafoe F.,True
+2026-03-24,Etcheverry T.,Paul T.,0.1362,Paul T.,Paul T.,True
+2026-03-24,Fils A.,Vacherot V.,0.7188,Fils A.,Fils A.,True
+2026-03-24,Fritz T.,Lehecka J.,0.7887,Fritz T.,Lehecka J.,False
+2026-03-24,Landaluce M.,Korda S.,0.19,Korda S.,Landaluce M.,False
+2026-03-24,Sinner J.,Michelsen A.,0.9183,Sinner J.,Sinner J.,True
+2026-03-25,Cerundolo F.,Humbert U.,0.631,Cerundolo F.,Cerundolo F.,True
+2026-03-25,Halys Q.,Zverev A.,0.105,Zverev A.,Zverev A.,True
+2026-03-25,Lehecka J.,Landaluce M.,0.54,Lehecka J.,Lehecka J.,True
+2026-03-26,Cerundolo F.,Zverev A.,0.5688,Cerundolo F.,Zverev A.,False
+2026-03-26,Paul T.,Fils A.,0.625,Paul T.,Fils A.,False
+2026-03-26,Sinner J.,Tiafoe F.,0.915,Sinner J.,Sinner J.,True
+2026-03-27,Lehecka J.,Fils A.,0.48,Fils A.,Lehecka J.,False
+2026-03-27,Zverev A.,Sinner J.,0.6304,Zverev A.,Sinner J.,False
+2026-03-29,Sinner J.,Lehecka J.,0.96,Sinner J.,Sinner J.,True
+2026-03-30,Baadi T.,Vukic A.,0.095,Vukic A.,Baadi T.,False
+2026-03-30,Halys Q.,Bennani K.,0.86,Halys Q.,Bennani K.,False
+2026-03-30,Hanfmann Y.,De Jong J.,0.96,Hanfmann Y.,Hanfmann Y.,True
+2026-03-30,Svajda Z.,Vallejo D.,0.485,Vallejo D.,Vallejo D.,True
+2026-03-30,Wu Y.,Bolt A.,0.745,Wu Y.,Bolt A.,False
+2026-03-30,Zhang Zh.,Pinnington Jones J.,0.29,Pinnington Jones J.,Zhang Zh.,False
+2026-03-31,Bennani R.,Bellucci M.,0.165,Bellucci M.,Bellucci M.,True
+2026-03-31,Berrettini M.,Buse I.,0.4442,Buse I.,Buse I.,True
+2026-03-31,Cina F.,Muller A.,0.435,Muller A.,Muller A.,True
+2026-03-31,Gaston H.,Van Assche L.,0.3625,Van Assche L.,Van Assche L.,True
+2026-03-31,Jodar R.,Lajovic D.,0.7377,Jodar R.,Jodar R.,True
+2026-03-31,Majchrzak K.,Cerundolo J.M.,0.2108,Cerundolo J.M.,Majchrzak K.,False
+2026-03-31,Trungelliti M.,Rocha H.,0.3512,Rocha H.,Trungelliti M.,False
+2026-03-31,Ugo Carabelli C.,Skatov T.,0.94,Ugo Carabelli C.,Ugo Carabelli C.,True
+2026-03-31,Altmaier D.,Martinez P.,0.445,Martinez P.,Altmaier D.,False
+2026-03-31,Arnaldi M.,Molcan A.,0.895,Arnaldi M.,Molcan A.,False
+2026-03-31,Basilashvili N.,Prizmic D.,0.415,Prizmic D.,Prizmic D.,True
+2026-03-31,Boitan G.A.,Moller E.,0.4,Moller E.,Moller E.,True
+2026-03-31,Droguet T.,Bautista Agut R.,0.285,Bautista Agut R.,Droguet T.,False
+2026-03-31,Dzumhur D.,Jianu F.C.,0.425,Jianu F.C.,Dzumhur D.,False
+2026-03-31,Gaubas V.,Baez S.,0.32,Baez S.,Baez S.,True
+2026-03-31,Maestrelli F.,Van De Zandschulp B.,0.3375,Van De Zandschulp B.,Van De Zandschulp B.,True
+2026-03-31,Merida Aguilar D.,Virtanen O.,0.5,Merida Aguilar D.,Merida Aguilar D.,True
+2026-03-31,Navone M.,O Connell C.,0.79,Navone M.,Navone M.,True
+2026-03-31,Sakellaridis S.,Choinski J.,0.68,Sakellaridis S.,Sakellaridis S.,True
+2026-03-31,Turcanu R.D.,Shevchenko A.,0.265,Shevchenko A.,Shevchenko A.,True
+2026-03-31,Basavareddy N.,Draxl L.,0.375,Draxl L.,Basavareddy N.,False
+2026-03-31,Gomez F.A.,Etcheverry T.,0.1,Etcheverry T.,Etcheverry T.,True
+2026-03-31,McDonald M.,Brooksby J.,0.585,McDonald M.,McDonald M.,True
+2026-03-31,Nakashima B.,Damm M.,0.645,Nakashima B.,Nakashima B.,True
+2026-03-31,Smith C.,Tirante T.A.,0.495,Tirante T.A.,Tirante T.A.,True
+2026-04-01,Medjedovic H.,Kopriva V.,0.795,Medjedovic H.,Kopriva V.,False
+2026-04-01,Baadi T.,Moutet C.,0.215,Moutet C.,Moutet C.,True
+2026-04-01,Bennani K.,Hanfmann Y.,0.015,Hanfmann Y.,Hanfmann Y.,True
+2026-04-01,Darderi L.,Bellucci M.,0.6555,Darderi L.,Darderi L.,True
+2026-04-01,Trungelliti M.,Majchrzak K.,0.495,Majchrzak K.,Trungelliti M.,False
+2026-04-01,Borges N.,Dzumhur D.,0.735,Borges N.,Dzumhur D.,False
+2026-04-01,Molcan A.,Diallo G.,0.295,Diallo G.,Molcan A.,False
+2026-04-01,Navone M.,Moller E.,0.545,Navone M.,Navone M.,True
+2026-04-01,Shevchenko A.,Van De Zandschulp B.,0.33,Van De Zandschulp B.,Van De Zandschulp B.,True
+2026-04-01,Burruchaga R.,Walton A.,0.815,Burruchaga R.,Burruchaga R.,True
+2026-04-01,Hijikata R.,Kovacevic A.,0.47,Kovacevic A.,Hijikata R.,False
+2026-04-01,Kypson P.,Popyrin A.,0.2714,Popyrin A.,Popyrin A.,True
+2026-04-01,Wong C.,Michelsen A.,0.5658,Wong C.,Michelsen A.,False
+2026-04-01,Bolt A.,Etcheverry T.,0.445,Etcheverry T.,Etcheverry T.,True
+2026-04-01,Tirante T.A.,McDonald M.,0.45,McDonald M.,Tirante T.A.,False
+2026-04-02,Griekspoor T.,Van Assche L.,0.81,Griekspoor T.,Van Assche L.,False
+2026-04-02,Machac T.,Jodar R.,0.6654,Machac T.,Jodar R.,False
+2026-04-02,Muller A.,Kopriva V.,0.1167,Kopriva V.,Muller A.,False
+2026-04-02,Ugo Carabelli C.,Buse I.,0.2283,Buse I.,Ugo Carabelli C.,False
+2026-04-02,Nakashima B.,Burruchaga R.,0.7433,Nakashima B.,Burruchaga R.,False
+2026-04-02,Paul T.,Vallejo D.,0.92,Paul T.,Paul T.,True
+2026-04-02,Tien L.,Basavareddy N.,0.885,Tien L.,Tien L.,True
+2026-04-02,Zhang Zh.,Shelton B.,0.16,Shelton B.,Shelton B.,True
+2026-04-03,Trungelliti M.,Moutet C.,0.2475,Moutet C.,Trungelliti M.,False
+2026-04-03,Van Assche L.,Ugo Carabelli C.,0.255,Ugo Carabelli C.,Ugo Carabelli C.,True
+2026-04-03,Altmaier D.,Prizmic D.,0.6733,Altmaier D.,Altmaier D.,True
+2026-04-03,Droguet T.,Baez S.,0.1325,Baez S.,Droguet T.,False
+2026-04-03,Mannarino A.,Merida Aguilar D.,0.705,Mannarino A.,Merida Aguilar D.,False
+2026-04-03,Sakellaridis S.,Marozsan F.,0.33,Marozsan F.,Marozsan F.,True
+2026-04-03,Altmaier D.,Marozsan F.,0.17,Marozsan F.,Marozsan F.,True
+2026-04-03,Dzumhur D.,Van De Zandschulp B.,0.5362,Dzumhur D.,Van De Zandschulp B.,False
+2026-04-03,Navone M.,Molcan A.,0.785,Navone M.,Navone M.,True
+2026-04-03,Hijikata R.,Tiafoe F.,0.295,Tiafoe F.,Tiafoe F.,True
+2026-04-03,Popyrin A.,Michelsen A.,0.32,Michelsen A.,Popyrin A.,False
+2026-04-03,Etcheverry T.,Paul T.,0.3308,Paul T.,Paul T.,True
+2026-04-03,Tien L.,Burruchaga R.,0.826,Tien L.,Burruchaga R.,False
+2026-04-03,Tirante T.A.,Shelton B.,0.1183,Shelton B.,Tirante T.A.,False
+2026-04-04,Trungelliti M.,Darderi L.,0.19,Darderi L.,Trungelliti M.,False
+2026-04-04,Ugo Carabelli C.,Jodar R.,0.471,Jodar R.,Jodar R.,True
+2026-04-04,Marozsan F.,Merida Aguilar D.,0.7775,Marozsan F.,Merida Aguilar D.,False
+2026-04-04,Navone M.,Van De Zandschulp B.,0.415,Van De Zandschulp B.,Navone M.,False
+2026-04-04,Tiafoe F.,Popyrin A.,0.7338,Tiafoe F.,Tiafoe F.,True
+2026-04-04,Paul T.,Tiafoe F.,0.582,Paul T.,Paul T.,True
+2026-04-04,Tirante T.A.,Burruchaga R.,0.78,Tirante T.A.,Burruchaga R.,False
+2026-04-05,Jodar R.,Trungelliti M.,0.6725,Jodar R.,Jodar R.,True
+2026-04-05,Fucsovics M.,Tabilo A.,0.715,Fucsovics M.,Tabilo A.,False
+2026-04-05,Humbert U.,Kouame M.,0.81,Humbert U.,Humbert U.,True
+2026-04-05,Kecmanovic M.,Norrie C.,0.4625,Norrie C.,Norrie C.,True
+2026-04-05,Monfils G.,Griekspoor T.,0.18,Griekspoor T.,Monfils G.,False
+2026-04-05,Navone M.,Merida Aguilar D.,0.5417,Navone M.,Navone M.,True
+2026-04-05,Burruchaga R.,Paul T.,0.4175,Paul T.,Paul T.,True
+2026-04-06,Baez S.,Wawrinka S.,0.475,Wawrinka S.,Baez S.,False
+2026-04-06,Borges N.,Rublev A.,0.395,Rublev A.,Rublev A.,True
+2026-04-06,Cerundolo J.M.,Vacherot V.,0.4767,Vacherot V.,Vacherot V.,True
+2026-04-06,Cobolli F.,Comesana F.,0.89,Cobolli F.,Cobolli F.,True
+2026-04-06,Fonseca J.,Diallo G.,0.2788,Diallo G.,Fonseca J.,False
+2026-04-06,Garin C.,Arnaldi M.,0.355,Arnaldi M.,Garin C.,False
+2026-04-06,Machac T.,Altmaier D.,0.15,Altmaier D.,Machac T.,False
+2026-04-06,Mannarino A.,Bergs Z.,0.3678,Bergs Z.,Bergs Z.,True
+2026-04-06,Nava E.,Lehecka J.,0.065,Lehecka J.,Lehecka J.,True
+2026-04-06,Rinderknech A.,Khachanov K.,0.3543,Khachanov K.,Rinderknech A.,False
+2026-04-06,Shapovalov D.,Blockx A.,0.5475,Shapovalov D.,Blockx A.,False
+2026-04-06,Tsitsipas S.,Cerundolo F.,0.185,Cerundolo F.,Cerundolo F.,True
+2026-04-07,Dimitrov G.,Etcheverry T.,0.4836,Etcheverry T.,Etcheverry T.,True
+2026-04-07,Hurkacz H.,Darderi L.,0.305,Darderi L.,Hurkacz H.,False
+2026-04-07,Marozsan F.,Dzumhur D.,0.58,Marozsan F.,Marozsan F.,True
+2026-04-07,Muller A.,Moutet C.,0.4447,Moutet C.,Moutet C.,True
+2026-04-07,Quinn E.,Atmane T.,0.4,Atmane T.,Atmane T.,True
+2026-04-07,Ruud C.,Popyrin A.,0.9188,Ruud C.,Ruud C.,True
+2026-04-07,Shevchenko A.,Cilic M.,0.5,Shevchenko A.,Cilic M.,False
+2026-04-07,Baez S.,Alcaraz C.,0.035,Alcaraz C.,Alcaraz C.,True
+2026-04-07,Bublik A.,Monfils G.,0.82,Bublik A.,Bublik A.,True
+2026-04-07,Norrie C.,De Minaur A.,0.025,De Minaur A.,De Minaur A.,True
+2026-04-07,Sinner J.,Humbert U.,0.8282,Sinner J.,Sinner J.,True
+2026-04-08,Auger-Aliassime F.,Cilic M.,0.6929,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-04-08,Berrettini M.,Medvedev D.,0.0675,Medvedev D.,Berrettini M.,False
+2026-04-08,Cerundolo F.,Machac T.,0.875,Cerundolo F.,Machac T.,False
+2026-04-08,Cobolli F.,Blockx A.,0.68,Cobolli F.,Blockx A.,False
+2026-04-08,Etcheverry T.,Atmane T.,0.475,Atmane T.,Etcheverry T.,False
+2026-04-08,Fonseca J.,Rinderknech A.,0.2675,Rinderknech A.,Fonseca J.,False
+2026-04-08,Garin C.,Zverev A.,0.05,Zverev A.,Zverev A.,True
+2026-04-08,Lehecka J.,Tabilo A.,0.467,Tabilo A.,Lehecka J.,False
+2026-04-08,Marozsan F.,Hurkacz H.,0.54,Marozsan F.,Hurkacz H.,False
+2026-04-08,Moutet C.,Ruud C.,0.5137,Moutet C.,Ruud C.,False
+2026-04-08,Rublev A.,Bergs Z.,0.4779,Bergs Z.,Bergs Z.,True
+2026-04-08,Vacherot V.,Musetti L.,0.2279,Musetti L.,Vacherot V.,False
+2026-04-09,Alcaraz C.,Etcheverry T.,0.887,Alcaraz C.,Alcaraz C.,True
+2026-04-09,Bergs Z.,Zverev A.,0.04,Zverev A.,Zverev A.,True
+2026-04-09,Blockx A.,De Minaur A.,0.435,De Minaur A.,De Minaur A.,True
+2026-04-09,Fonseca J.,Berrettini M.,0.665,Fonseca J.,Fonseca J.,True
+2026-04-09,Lehecka J.,Bublik A.,0.7228,Lehecka J.,Bublik A.,False
+2026-04-09,Sinner J.,Machac T.,0.7167,Sinner J.,Sinner J.,True
+2026-04-09,Vacherot V.,Hurkacz H.,0.8035,Vacherot V.,Vacherot V.,True
+2026-04-10,Bublik A.,Alcaraz C.,0.0912,Alcaraz C.,Alcaraz C.,True
+2026-04-10,Fonseca J.,Zverev A.,0.05,Zverev A.,Zverev A.,True
+2026-04-10,Sinner J.,Auger-Aliassime F.,0.9629,Sinner J.,Sinner J.,True
+2026-04-10,Vacherot V.,De Minaur A.,0.2575,De Minaur A.,Vacherot V.,False
+2026-04-11,Alcaraz C.,Vacherot V.,0.9093,Alcaraz C.,Alcaraz C.,True
+2026-04-11,Zverev A.,Sinner J.,0.2776,Sinner J.,Sinner J.,True
+2026-04-12,Alcaraz C.,Sinner J.,0.6919,Alcaraz C.,Sinner J.,False
+2026-04-13,Blockx A.,Hanfmann Y.,0.4061,Hanfmann Y.,Blockx A.,False
+2026-04-13,Diallo G.,Sachko V.,0.805,Diallo G.,Diallo G.,True
+2026-04-13,Michelsen A.,Rinderknech A.,0.38,Rinderknech A.,Rinderknech A.,True
+2026-04-13,Nagal S.,Cerundolo F.,0.175,Cerundolo F.,Cerundolo F.,True
+2026-04-13,Nava E.,Shelton B.,0.285,Shelton B.,Shelton B.,True
+2026-04-13,Van De Zandschulp B.,Huesler M.,0.915,Van De Zandschulp B.,Van De Zandschulp B.,True
+2026-04-13,Borges N.,Mannarino A.,0.425,Mannarino A.,Borges N.,False
+2026-04-13,Moutet C.,Buse I.,0.645,Moutet C.,Moutet C.,True
+2026-04-13,Munar J.,Jodar R.,0.7975,Munar J.,Jodar R.,False
+2026-04-13,Norrie C.,Wawrinka S.,0.69,Norrie C.,Norrie C.,True
+2026-04-13,Opelka R.,Quinn E.,0.485,Quinn E.,Quinn E.,True
+2026-04-13,Trungelliti M.,Medjedovic H.,0.49,Medjedovic H.,Medjedovic H.,True
+2026-04-14,Cilic M.,Altmaier D.,0.825,Cilic M.,Altmaier D.,False
+2026-04-14,Dedura D.,Cobolli F.,0.16,Cobolli F.,Cobolli F.,True
+2026-04-14,Fonseca J.,Tabilo A.,0.46,Tabilo A.,Fonseca J.,False
+2026-04-14,Griekspoor T.,Shapovalov D.,0.48,Shapovalov D.,Shapovalov D.,True
+2026-04-14,Kopriva V.,Engel J.,0.65,Kopriva V.,Kopriva V.,True
+2026-04-14,Molcan A.,Bublik A.,0.17,Bublik A.,Molcan A.,False
+2026-04-14,Topo M.,Bergs Z.,0.225,Bergs Z.,Bergs Z.,True
+2026-04-14,Zhang Zh.,Darderi L.,0.165,Darderi L.,Darderi L.,True
+2026-04-14,Zverev A.,Kecmanovic M.,0.878,Zverev A.,Zverev A.,True
+2026-04-14,De Minaur A.,Ofner S.,0.815,De Minaur A.,De Minaur A.,True
+2026-04-14,Fils A.,Atmane T.,0.76,Fils A.,Fils A.,True
+2026-04-14,Khachanov K.,Ugo Carabelli C.,0.6767,Khachanov K.,Ugo Carabelli C.,False
+2026-04-14,Machac T.,Baez S.,0.525,Machac T.,Machac T.,True
+2026-04-14,Martinez P.,Sonego L.,0.185,Sonego L.,Sonego L.,True
+2026-04-14,Musetti L.,Landaluce M.,0.635,Musetti L.,Musetti L.,True
+2026-04-14,Nakashima B.,Cerundolo J.M.,0.6,Nakashima B.,Nakashima B.,True
+2026-04-14,Navone M.,Rublev A.,0.47,Rublev A.,Rublev A.,True
+2026-04-14,Virtanen O.,Alcaraz C.,0.05,Alcaraz C.,Alcaraz C.,True
+2026-04-15,Marozsan F.,Tsitsipas S.,0.595,Marozsan F.,Marozsan F.,True
+2026-04-15,Bergs Z.,Cobolli F.,0.26,Cobolli F.,Cobolli F.,True
+2026-04-15,Kopriva V.,Darderi L.,0.4633,Darderi L.,Kopriva V.,False
+2026-04-15,Rinderknech A.,Fonseca J.,0.523,Rinderknech A.,Fonseca J.,False
+2026-04-15,Shelton B.,Blockx A.,0.93,Shelton B.,Shelton B.,True
+2026-04-15,Etcheverry T.,Borges N.,0.7113,Etcheverry T.,Borges N.,False
+2026-04-15,Medjedovic H.,De Minaur A.,0.23,De Minaur A.,Medjedovic H.,False
+2026-04-15,Norrie C.,Quinn E.,0.5804,Norrie C.,Norrie C.,True
+2026-04-15,Ugo Carabelli C.,Jodar R.,0.6632,Ugo Carabelli C.,Jodar R.,False
+2026-04-16,Diallo G.,Zverev A.,0.425,Zverev A.,Zverev A.,True
+2026-04-16,Molcan A.,Altmaier D.,0.25,Altmaier D.,Molcan A.,False
+2026-04-16,Shapovalov D.,Marozsan F.,0.59,Shapovalov D.,Shapovalov D.,True
+2026-04-16,Van De Zandschulp B.,Cerundolo F.,0.68,Van De Zandschulp B.,Cerundolo F.,False
+2026-04-16,Musetti L.,Moutet C.,0.6838,Musetti L.,Musetti L.,True
+2026-04-16,Nakashima B.,Fils A.,0.41,Fils A.,Fils A.,True
+2026-04-16,Sonego L.,Rublev A.,0.1675,Rublev A.,Rublev A.,True
+2026-04-17,Fonseca J.,Shelton B.,0.2277,Shelton B.,Shelton B.,True
+2026-04-17,Kopriva V.,Cobolli F.,0.055,Cobolli F.,Cobolli F.,True
+2026-04-17,Molcan A.,Shapovalov D.,0.285,Shapovalov D.,Molcan A.,False
+2026-04-17,Zverev A.,Cerundolo F.,0.6534,Zverev A.,Zverev A.,True
+2026-04-17,Fils A.,Musetti L.,0.355,Musetti L.,Fils A.,False
+2026-04-17,Machac T.,Rublev A.,0.2975,Rublev A.,Rublev A.,True
+2026-04-17,Medjedovic H.,Borges N.,0.325,Borges N.,Medjedovic H.,False
+2026-04-17,Norrie C.,Jodar R.,0.6152,Norrie C.,Jodar R.,False
+2026-04-18,Shelton B.,Molcan A.,0.855,Shelton B.,Shelton B.,True
+2026-04-18,Zverev A.,Cobolli F.,0.75,Zverev A.,Cobolli F.,False
+2026-04-18,Jodar R.,Fils A.,0.495,Fils A.,Fils A.,True
+2026-04-18,Rublev A.,Medjedovic H.,0.795,Rublev A.,Rublev A.,True
+2026-04-19,Cobolli F.,Shelton B.,0.345,Shelton B.,Shelton B.,True
+2026-04-19,Fils A.,Rublev A.,0.565,Fils A.,Fils A.,True
+2026-04-22,Bautista Agut R.,Tirante T.A.,0.605,Bautista Agut R.,Tirante T.A.,False
+2026-04-22,Berrettini M.,Prizmic D.,0.4387,Prizmic D.,Prizmic D.,True
+2026-04-22,Bonzi B.,Droguet T.,0.1512,Droguet T.,Bonzi B.,False
+2026-04-22,Brooksby J.,Nava E.,0.5567,Brooksby J.,Nava E.,False
+2026-04-22,Cilic M.,Bergs Z.,0.48,Bergs Z.,Cilic M.,False
+2026-04-22,Comesana F.,Machac T.,0.565,Comesana F.,Machac T.,False
+2026-04-22,Dzumhur D.,Bellucci M.,0.545,Dzumhur D.,Dzumhur D.,True
+2026-04-22,Faria J.,Hurkacz H.,0.1483,Hurkacz H.,Hurkacz H.,True
+2026-04-22,Jodar R.,De Jong J.,0.3512,De Jong J.,Jodar R.,False
+2026-04-22,Kopriva V.,Zhang Zh.,0.775,Kopriva V.,Kopriva V.,True
+2026-04-22,Mannarino A.,Buse I.,0.177,Buse I.,Buse I.,True
+2026-04-22,Moller E.,Cina F.,0.66,Moller E.,Moller E.,True
+2026-04-22,Ofner S.,Basilashvili N.,0.4685,Basilashvili N.,Ofner S.,False
+2026-04-22,Royer V.,Tabilo A.,0.36,Tabilo A.,Tabilo A.,True
+2026-04-22,Sonego L.,Lajovic D.,0.645,Sonego L.,Lajovic D.,False
+2026-04-22,Struff J.L.,Muller A.,0.4217,Muller A.,Struff J.L.,False
+2026-04-23,Altmaier D.,Cerundolo J.M.,0.6142,Altmaier D.,Cerundolo J.M.,False
+2026-04-23,Atmane T.,Kecmanovic M.,0.075,Kecmanovic M.,Atmane T.,False
+2026-04-23,Blockx A.,Garin C.,0.5718,Blockx A.,Blockx A.,True
+2026-04-23,Fucsovics M.,Carreno Busta P.,0.615,Fucsovics M.,Carreno Busta P.,False
+2026-04-23,Gaubas V.,Baez S.,0.4333,Baez S.,Gaubas V.,False
+2026-04-23,Giron M.,Hanfmann Y.,0.7333,Giron M.,Hanfmann Y.,False
+2026-04-23,Kypson P.,Tsitsipas S.,0.7358,Kypson P.,Tsitsipas S.,False
+2026-04-23,Marozsan F.,Quinn E.,0.435,Quinn E.,Marozsan F.,False
+2026-04-23,Navone M.,Borges N.,0.2879,Borges N.,Navone M.,False
+2026-04-23,Popyrin A.,Damm M.,0.805,Popyrin A.,Damm M.,False
+2026-04-23,Shevchenko A.,Munar J.,0.765,Shevchenko A.,Munar J.,False
+2026-04-23,Trungelliti M.,Merida Aguilar D.,0.6417,Trungelliti M.,Merida Aguilar D.,False
+2026-04-23,Ugo Carabelli C.,Monfils G.,0.55,Ugo Carabelli C.,Ugo Carabelli C.,True
+2026-04-23,Vallejo D.,Dimitrov G.,0.5533,Vallejo D.,Vallejo D.,True
+2026-04-23,Walton A.,Landaluce M.,0.24,Landaluce M.,Walton A.,False
+2026-04-24,Bonzi B.,Sinner J.,0.0,Sinner J.,Sinner J.,True
+2026-04-24,De Minaur A.,Jodar R.,0.9367,De Minaur A.,Jodar R.,False
+2026-04-24,Etcheverry T.,Ofner S.,0.71,Etcheverry T.,Etcheverry T.,True
+2026-04-24,Fils A.,Buse I.,0.6066,Fils A.,Fils A.,True
+2026-04-24,Griekspoor T.,Dzumhur D.,0.66,Griekspoor T.,Griekspoor T.,True
+2026-04-24,Hurkacz H.,Musetti L.,0.2133,Musetti L.,Musetti L.,True
+2026-04-24,Lajovic D.,Rinderknech A.,0.415,Rinderknech A.,Rinderknech A.,True
+2026-04-24,Nava E.,Vacherot V.,0.3133,Vacherot V.,Nava E.,False
+2026-04-24,Norrie C.,Machac T.,0.56,Norrie C.,Norrie C.,True
+2026-04-24,Prizmic D.,Shelton B.,0.37,Shelton B.,Prizmic D.,False
+2026-04-24,Rublev A.,Kopriva V.,0.92,Rublev A.,Kopriva V.,False
+2026-04-24,Struff J.L.,Michelsen A.,0.7722,Struff J.L.,Michelsen A.,False
+2026-04-24,Tabilo A.,Lehecka J.,0.1824,Lehecka J.,Lehecka J.,True
+2026-04-24,Tirante T.A.,Paul T.,0.23,Paul T.,Tirante T.A.,False
+2026-04-25,Atmane T.,Humbert U.,0.11,Humbert U.,Atmane T.,False
+2026-04-25,Carreno Busta P.,Davidovich Fokina A.,0.1883,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-04-25,Cerundolo F.,Hanfmann Y.,0.875,Cerundolo F.,Cerundolo F.,True
+2026-04-25,Damm M.,Mensik J.,0.3997,Mensik J.,Mensik J.,True
+2026-04-25,Darderi L.,Cerundolo J.M.,0.735,Darderi L.,Darderi L.,True
+2026-04-25,Gaubas V.,Auger-Aliassime F.,0.13,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-04-25,Marozsan F.,Medvedev D.,0.4641,Medvedev D.,Medvedev D.,True
+2026-04-25,Merida Aguilar D.,Moutet C.,0.54,Merida Aguilar D.,Merida Aguilar D.,True
+2026-04-25,Nakashima B.,Blockx A.,0.4487,Blockx A.,Blockx A.,True
+2026-04-25,Ruud C.,Munar J.,0.7462,Ruud C.,Ruud C.,True
+2026-04-25,Shapovalov D.,Budkov Kjaer N.,0.5225,Shapovalov D.,Budkov Kjaer N.,False
+2026-04-25,Tsitsipas S.,Bublik A.,0.0667,Bublik A.,Tsitsipas S.,False
+2026-04-25,Ugo Carabelli C.,Cobolli F.,0.455,Cobolli F.,Cobolli F.,True
+2026-04-25,Vallejo D.,Tien L.,0.2517,Tien L.,Vallejo D.,False
+2026-04-25,Walton A.,Khachanov K.,0.1683,Khachanov K.,Khachanov K.,True
+2026-04-25,Zverev A.,Navone M.,0.9282,Zverev A.,Zverev A.,True
+2026-04-26,Fonseca J.,Jodar R.,0.4375,Jodar R.,Jodar R.,True
+2026-04-26,Michelsen A.,Lehecka J.,0.1469,Lehecka J.,Lehecka J.,True
+2026-04-26,Musetti L.,Griekspoor T.,0.761,Musetti L.,Musetti L.,True
+2026-04-26,Nava E.,Fils A.,0.315,Fils A.,Fils A.,True
+2026-04-26,Norrie C.,Tirante T.A.,0.826,Norrie C.,Norrie C.,True
+2026-04-26,Prizmic D.,Etcheverry T.,0.4719,Etcheverry T.,Etcheverry T.,True
+2026-04-26,Sinner J.,Moller E.,0.92,Sinner J.,Sinner J.,True
+2026-04-27,Atmane T.,Zverev A.,0.04,Zverev A.,Zverev A.,True
+2026-04-27,Blockx A.,Auger-Aliassime F.,0.15,Auger-Aliassime F.,Blockx A.,False
+2026-04-27,Budkov Kjaer N.,Medvedev D.,0.11,Medvedev D.,Medvedev D.,True
+2026-04-27,Cerundolo F.,Darderi L.,0.4917,Darderi L.,Cerundolo F.,False
+2026-04-27,Cobolli F.,Vallejo D.,0.5417,Cobolli F.,Cobolli F.,True
+2026-04-27,Khachanov K.,Mensik J.,0.445,Mensik J.,Mensik J.,True
+2026-04-27,Merida Aguilar D.,Tsitsipas S.,0.3925,Tsitsipas S.,Tsitsipas S.,True
+2026-04-27,Ruud C.,Davidovich Fokina A.,0.4022,Davidovich Fokina A.,Ruud C.,False
+2026-04-28,Cerundolo F.,Blockx A.,0.785,Cerundolo F.,Blockx A.,False
+2026-04-28,Cobolli F.,Medvedev D.,0.6165,Cobolli F.,Cobolli F.,True
+2026-04-28,Fils A.,Etcheverry T.,0.345,Etcheverry T.,Fils A.,False
+2026-04-28,Jodar R.,Kopriva V.,0.68,Jodar R.,Jodar R.,True
+2026-04-28,Lehecka J.,Musetti L.,0.5953,Lehecka J.,Lehecka J.,True
+2026-04-28,Mensik J.,Zverev A.,0.1058,Zverev A.,Zverev A.,True
+2026-04-28,Norrie C.,Sinner J.,0.1192,Sinner J.,Sinner J.,True
+2026-04-28,Tsitsipas S.,Ruud C.,0.3,Ruud C.,Ruud C.,True
+2026-04-29,Lehecka J.,Fils A.,0.7149,Lehecka J.,Fils A.,False
+2026-04-29,Sinner J.,Jodar R.,0.9658,Sinner J.,Sinner J.,True
+2026-04-30,Blockx A.,Ruud C.,0.1242,Ruud C.,Blockx A.,False
+2026-04-30,Cobolli F.,Zverev A.,0.43,Zverev A.,Zverev A.,True
+2026-05-01,Blockx A.,Zverev A.,0.1438,Zverev A.,Zverev A.,True
+2026-05-01,Sinner J.,Fils A.,0.84,Sinner J.,Sinner J.,True
+2026-05-03,Sinner J.,Zverev A.,0.3302,Zverev A.,Sinner J.,False
+2026-05-06,Arnaldi M.,Munar J.,0.5933,Arnaldi M.,Arnaldi M.,True
+2026-05-06,Baez S.,Brooksby J.,0.4875,Brooksby J.,Baez S.,False
+2026-05-06,Borges N.,De Jong J.,0.5305,Borges N.,Borges N.,True
+2026-05-06,Carreno Busta P.,Tabilo A.,0.665,Carreno Busta P.,Tabilo A.,False
+2026-05-06,Comesana F.,Struff J.L.,0.56,Comesana F.,Struff J.L.,False
+2026-05-06,Dzumhur D.,Mannarino A.,0.8262,Dzumhur D.,Dzumhur D.,True
+2026-05-06,Hurkacz H.,Hanfmann Y.,0.59,Hurkacz H.,Hanfmann Y.,False
+2026-05-06,Kypson P.,Vukic A.,0.2612,Vukic A.,Vukic A.,True
+2026-05-06,Marozsan F.,Kopriva V.,0.755,Marozsan F.,Kopriva V.,False
+2026-05-06,Shevchenko A.,Ugo Carabelli C.,0.2,Ugo Carabelli C.,Shevchenko A.,False
+2026-05-06,Trungelliti M.,Svajda Z.,0.2375,Svajda Z.,Svajda Z.,True
+2026-05-06,Van De Zandschulp B.,Muller A.,0.8592,Van De Zandschulp B.,Van De Zandschulp B.,True
+2026-05-06,Zhang Zh.,Altmaier D.,0.4067,Altmaier D.,Altmaier D.,True
+2026-05-07,Atmane T.,Bergs Z.,0.81,Atmane T.,Atmane T.,True
+2026-05-07,Bellucci M.,Burruchaga R.,0.395,Burruchaga R.,Bellucci M.,False
+2026-05-07,Berrettini M.,Popyrin A.,0.49,Popyrin A.,Popyrin A.,True
+2026-05-07,Cadenasso G.,Tirante T.A.,0.305,Tirante T.A.,Tirante T.A.,True
+2026-05-07,Cerundolo J.M.,Garin C.,0.6732,Cerundolo J.M.,Garin C.,False
+2026-05-07,Cilic M.,Giron M.,0.375,Giron M.,Cilic M.,False
+2026-05-07,Cina F.,Blockx A.,0.3075,Blockx A.,Blockx A.,True
+2026-05-07,Fearnley J.,Mpetshi G.,0.44,Mpetshi G.,Mpetshi G.,True
+2026-05-07,Kecmanovic M.,Svrcina D.,0.3515,Svrcina D.,Kecmanovic M.,False
+2026-05-07,Llamas Ruiz P.,Quinn E.,0.58,Llamas Ruiz P.,Llamas Ruiz P.,True
+2026-05-07,Machac T.,Tsitsipas S.,0.63,Machac T.,Machac T.,True
+2026-05-07,Maestrelli F.,Bautista Agut R.,0.2525,Bautista Agut R.,Bautista Agut R.,True
+2026-05-07,Medjedovic H.,Royer V.,0.1408,Royer V.,Medjedovic H.,False
+2026-05-07,Merida Aguilar D.,Basilashvili N.,0.543,Merida Aguilar D.,Basilashvili N.,False
+2026-05-07,Ofner S.,Michelsen A.,0.7291,Ofner S.,Ofner S.,True
+2026-05-07,Pellegrino A.,Nardi L.,0.53,Pellegrino A.,Pellegrino A.,True
+2026-05-07,Prizmic D.,Fucsovics M.,0.7375,Prizmic D.,Prizmic D.,True
+2026-05-07,Shapovalov D.,Navone M.,0.5908,Shapovalov D.,Navone M.,False
+2026-05-07,Sonego L.,Buse I.,0.305,Buse I.,Buse I.,True
+2026-05-08,Altmaier D.,Zverev A.,0.085,Zverev A.,Zverev A.,True
+2026-05-08,Arnaldi M.,De Minaur A.,0.19,De Minaur A.,Arnaldi M.,False
+2026-05-08,Baez S.,Bublik A.,0.39,Bublik A.,Bublik A.,True
+2026-05-08,Blockx A.,Griekspoor T.,0.721,Blockx A.,Blockx A.,True
+2026-05-08,Borges N.,Jodar R.,0.3484,Jodar R.,Jodar R.,True
+2026-05-08,Cerundolo F.,Tabilo A.,0.33,Tabilo A.,Cerundolo F.,False
+2026-05-08,Dzumhur D.,Tien L.,0.305,Tien L.,Tien L.,True
+2026-05-08,Hanfmann Y.,Darderi L.,0.5,Hanfmann Y.,Darderi L.,False
+2026-05-08,Humbert U.,Kopriva V.,0.6275,Humbert U.,Humbert U.,True
+2026-05-08,Kovacevic A.,Van De Zandschulp B.,0.2192,Van De Zandschulp B.,Van De Zandschulp B.,True
+2026-05-08,Lehecka J.,Struff J.L.,0.79,Lehecka J.,Lehecka J.,True
+2026-05-08,Musetti L.,Mpetshi G.,0.2767,Mpetshi G.,Musetti L.,False
+2026-05-08,Prizmic D.,Djokovic N.,0.2029,Djokovic N.,Prizmic D.,False
+2026-05-08,Ruud C.,Svajda Z.,0.6708,Ruud C.,Ruud C.,True
+2026-05-08,Shevchenko A.,Khachanov K.,0.21,Khachanov K.,Khachanov K.,True
+2026-05-08,Vukic A.,Paul T.,0.515,Vukic A.,Paul T.,False
+2026-05-09,Atmane T.,Cobolli F.,0.179,Cobolli F.,Cobolli F.,True
+2026-05-09,Auger-Aliassime F.,Navone M.,0.9675,Auger-Aliassime F.,Navone M.,False
+2026-05-09,Basilashvili N.,Shelton B.,0.1483,Shelton B.,Basilashvili N.,False
+2026-05-09,Buse I.,Tiafoe F.,0.395,Tiafoe F.,Tiafoe F.,True
+2026-05-09,Davidovich Fokina A.,Garin C.,0.79,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-05-09,Etcheverry T.,Bellucci M.,0.795,Etcheverry T.,Bellucci M.,False
+2026-05-09,Fonseca J.,Medjedovic H.,0.5238,Fonseca J.,Medjedovic H.,False
+2026-05-09,Landaluce M.,Cilic M.,0.4442,Cilic M.,Landaluce M.,False
+2026-05-09,Moutet C.,Llamas Ruiz P.,0.45,Llamas Ruiz P.,Llamas Ruiz P.,True
+2026-05-09,Nakashima B.,Bautista Agut R.,0.7221,Nakashima B.,Nakashima B.,True
+2026-05-09,Norrie C.,Tirante T.A.,0.5925,Norrie C.,Tirante T.A.,False
+2026-05-09,Popyrin A.,Mensik J.,0.595,Popyrin A.,Popyrin A.,True
+2026-05-09,Rublev A.,Kecmanovic M.,0.5325,Rublev A.,Rublev A.,True
+2026-05-09,Sinner J.,Ofner S.,0.995,Sinner J.,Sinner J.,True
+2026-05-10,Cerundolo F.,Musetti L.,0.4533,Musetti L.,Musetti L.,True
+2026-05-10,Humbert U.,Prizmic D.,0.84,Humbert U.,Prizmic D.,False
+2026-05-10,Jodar R.,Arnaldi M.,0.655,Jodar R.,Jodar R.,True
+2026-05-10,Khachanov K.,Van De Zandschulp B.,0.78,Khachanov K.,Khachanov K.,True
+2026-05-10,Lehecka J.,Ruud C.,0.5875,Lehecka J.,Ruud C.,False
+2026-05-10,Paul T.,Darderi L.,0.3917,Darderi L.,Darderi L.,True
+2026-05-10,Tien L.,Bublik A.,0.2917,Bublik A.,Tien L.,False
+2026-05-10,Zverev A.,Blockx A.,0.687,Zverev A.,Zverev A.,True
+2026-05-11,Davidovich Fokina A.,Rublev A.,0.5,Davidovich Fokina A.,Rublev A.,False
+2026-05-11,Landaluce M.,Bellucci M.,0.27,Bellucci M.,Landaluce M.,False
+2026-05-11,Llamas Ruiz P.,Medvedev D.,0.19,Medvedev D.,Medvedev D.,True
+2026-05-11,Nakashima B.,Basilashvili N.,0.7558,Nakashima B.,Basilashvili N.,False
+2026-05-11,Navone M.,Medjedovic H.,0.535,Navone M.,Medjedovic H.,False
+2026-05-11,Pellegrino A.,Tiafoe F.,0.49,Tiafoe F.,Pellegrino A.,False
+2026-05-11,Sinner J.,Popyrin A.,0.6,Sinner J.,Sinner J.,True
+2026-05-11,Tirante T.A.,Cobolli F.,0.33,Cobolli F.,Tirante T.A.,False
+2026-05-12,Darderi L.,Zverev A.,0.2528,Zverev A.,Darderi L.,False
+2026-05-12,Khachanov K.,Prizmic D.,0.87,Khachanov K.,Khachanov K.,True
+2026-05-12,Medjedovic H.,Landaluce M.,0.8129,Medjedovic H.,Landaluce M.,False
+2026-05-12,Medvedev D.,Tirante T.A.,0.7325,Medvedev D.,Medvedev D.,True
+2026-05-12,Musetti L.,Ruud C.,0.5392,Musetti L.,Ruud C.,False
+2026-05-12,Pellegrino A.,Sinner J.,0.325,Sinner J.,Sinner J.,True
+2026-05-12,Rublev A.,Basilashvili N.,0.845,Rublev A.,Rublev A.,True
+2026-05-12,Tien L.,Jodar R.,0.702,Tien L.,Jodar R.,False
+2026-05-13,Darderi L.,Jodar R.,0.4996,Jodar R.,Darderi L.,False
+2026-05-13,Khachanov K.,Ruud C.,0.4842,Ruud C.,Ruud C.,True
+2026-05-14,Medvedev D.,Landaluce M.,0.67,Medvedev D.,Medvedev D.,True
+2026-05-14,Rublev A.,Sinner J.,0.4253,Sinner J.,Sinner J.,True
+2026-05-15,Darderi L.,Ruud C.,0.265,Ruud C.,Ruud C.,True
+2026-05-16,Sinner J.,Medvedev D.,0.3233,Medvedev D.,Sinner J.,False
+2026-05-17,Navone M.,Trungelliti M.,0.525,Navone M.,Navone M.,True
+2026-05-17,Dedura D.,Tiafoe F.,0.185,Tiafoe F.,Tiafoe F.,True
+2026-05-17,Paul T.,Quinn E.,0.74,Paul T.,Paul T.,True
+2026-05-17,Ruud C.,Sinner J.,0.237,Sinner J.,Sinner J.,True
+2026-05-18,Baez S.,Michelsen A.,0.4238,Michelsen A.,Michelsen A.,True
+2026-05-18,Brancaccio R.,Wawrinka S.,0.275,Wawrinka S.,Wawrinka S.,True
+2026-05-18,Butvilas E.,Sonego L.,0.3105,Sonego L.,Butvilas E.,False
+2026-05-18,Rinderknech A.,Tirante T.A.,0.7459,Rinderknech A.,Rinderknech A.,True
+2026-05-18,Royer V.,Comesana F.,0.7833,Royer V.,Comesana F.,False
+2026-05-18,Tsitsipas S.,Mpetshi G.,0.8704,Tsitsipas S.,Tsitsipas S.,True
+2026-05-18,Altmaier D.,Hijikata R.,0.3725,Hijikata R.,Altmaier D.,False
+2026-05-18,Cerundolo F.,De Minaur A.,0.328,De Minaur A.,De Minaur A.,True
+2026-05-18,Davidovich Fokina A.,Moutet C.,0.7022,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-05-18,Etcheverry T.,Atmane T.,0.8167,Etcheverry T.,Etcheverry T.,True
+2026-05-18,Giron M.,Shelton B.,0.315,Shelton B.,Shelton B.,True
+2026-05-18,Majchrzak K.,Ugo Carabelli C.,0.43,Ugo Carabelli C.,Ugo Carabelli C.,True
+2026-05-18,Mensik J.,Struff J.L.,0.625,Mensik J.,Mensik J.,True
+2026-05-18,Schoenhaus M.,Hanfmann Y.,0.295,Hanfmann Y.,Hanfmann Y.,True
+2026-05-19,Brooksby J.,Ruud C.,0.3933,Ruud C.,Ruud C.,True
+2026-05-19,Collignon R.,Mannarino A.,0.5488,Collignon R.,Collignon R.,True
+2026-05-19,Duckworth J.,Djere L.,0.635,Duckworth J.,Djere L.,False
+2026-05-19,Munar J.,Basavareddy N.,0.4754,Basavareddy N.,Munar J.,False
+2026-05-19,Tabur C.,Popyrin A.,0.26,Popyrin A.,Popyrin A.,True
+2026-05-19,Auger-Aliassime F.,Kopriva V.,0.9225,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-05-19,Burruchaga R.,Darderi L.,0.24,Darderi L.,Darderi L.,True
+2026-05-19,Cobolli F.,Buse I.,0.7775,Cobolli F.,Buse I.,False
+2026-05-19,Gaston H.,Khachanov K.,0.26,Khachanov K.,Khachanov K.,True
+2026-05-19,Humbert U.,Engel J.,0.765,Humbert U.,Humbert U.,True
+2026-05-19,Kovacevic A.,Gea A.,0.4712,Gea A.,Kovacevic A.,False
+2026-05-19,Shelton B.,Altmaier D.,0.785,Shelton B.,Altmaier D.,False
+2026-05-20,Butvilas E.,Bublik A.,0.185,Bublik A.,Bublik A.,True
+2026-05-20,Comesana F.,Munar J.,0.135,Munar J.,Munar J.,True
+2026-05-20,Djere L.,Rinderknech A.,0.04,Rinderknech A.,Rinderknech A.,True
+2026-05-20,Michelsen A.,Wawrinka S.,0.585,Michelsen A.,Michelsen A.,True
+2026-05-20,Norrie C.,Navone M.,0.8025,Norrie C.,Navone M.,False
+2026-05-20,Popyrin A.,Fritz T.,0.3767,Fritz T.,Popyrin A.,False
+2026-05-20,Ruud C.,Collignon R.,0.6647,Ruud C.,Ruud C.,True
+2026-05-20,Tien L.,Tsitsipas S.,0.6017,Tien L.,Tien L.,True
+2026-05-20,Darderi L.,Hanfmann Y.,0.8675,Darderi L.,Darderi L.,True
+2026-05-20,De Minaur A.,Davidovich Fokina A.,0.6379,De Minaur A.,De Minaur A.,True
+2026-05-20,Khachanov K.,Humbert U.,0.592,Khachanov K.,Humbert U.,False
+2026-05-20,Kovacevic A.,Auger-Aliassime F.,0.04,Auger-Aliassime F.,Kovacevic A.,False
+2026-05-20,Mensik J.,Buse I.,0.4817,Buse I.,Buse I.,True
+2026-05-20,Paul T.,Etcheverry T.,0.395,Etcheverry T.,Paul T.,False
+2026-05-20,Tiafoe F.,Ugo Carabelli C.,0.4498,Ugo Carabelli C.,Ugo Carabelli C.,True
+2026-05-21,Navone M.,Munar J.,0.365,Munar J.,Navone M.,False
+2026-05-21,Popyrin A.,Ruud C.,0.3308,Ruud C.,Ruud C.,True
+2026-05-21,Rinderknech A.,Bublik A.,0.11,Bublik A.,Bublik A.,True
+2026-05-21,Tien L.,Michelsen A.,0.6325,Tien L.,Tien L.,True
+2026-05-21,De Minaur A.,Darderi L.,0.4267,Darderi L.,De Minaur A.,False
+2026-05-21,Humbert U.,Buse I.,0.535,Humbert U.,Buse I.,False
+2026-05-21,Paul T.,Altmaier D.,0.6567,Paul T.,Paul T.,True
+2026-05-21,Ugo Carabelli C.,Kovacevic A.,0.4583,Kovacevic A.,Kovacevic A.,True
+2026-05-22,Bublik A.,Tien L.,0.4862,Tien L.,Tien L.,True
+2026-05-22,Navone M.,Ruud C.,0.3688,Ruud C.,Navone M.,False
+2026-05-22,Kovacevic A.,Buse I.,0.48,Buse I.,Buse I.,True
+2026-05-22,Paul T.,De Minaur A.,0.17,De Minaur A.,Paul T.,False
+2026-05-23,Tien L.,Navone M.,0.7305,Tien L.,Tien L.,True
+2026-05-23,Paul T.,Buse I.,0.52,Paul T.,Buse I.,False
+2026-05-24,Basavareddy N.,Fritz T.,0.13,Fritz T.,Basavareddy N.,False
+2026-05-24,Bellucci M.,Halys Q.,0.27,Halys Q.,Halys Q.,True
+2026-05-24,Bergs Z.,Machac T.,0.72,Bergs Z.,Machac T.,False
+2026-05-24,Blockx A.,Wong C.,0.79,Blockx A.,Blockx A.,True
+2026-05-24,Cina F.,Opelka R.,0.19,Opelka R.,Cina F.,False
+2026-05-24,Dellien H.,Royer V.,0.3775,Royer V.,Royer V.,True
+2026-05-24,Djokovic N.,Mpetshi G.,0.935,Djokovic N.,Djokovic N.,True
+2026-05-24,Droguet T.,Mensik J.,0.364,Mensik J.,Mensik J.,True
+2026-05-24,Dzumhur D.,Davidovich Fokina A.,0.685,Dzumhur D.,Davidovich Fokina A.,False
+2026-05-24,Etcheverry T.,Borges N.,0.5795,Etcheverry T.,Borges N.,False
+2026-05-24,Hanfmann Y.,Medjedovic H.,0.6164,Hanfmann Y.,Medjedovic H.,False
+2026-05-24,Khachanov K.,Gea A.,0.965,Khachanov K.,Khachanov K.,True
+2026-05-24,Marozsan F.,Kecmanovic M.,0.6275,Marozsan F.,Kecmanovic M.,False
+2026-05-24,Pavlovic L.,Fonseca J.,0.35,Fonseca J.,Fonseca J.,True
+2026-05-24,Prizmic D.,Zheng M.,0.23,Zheng M.,Prizmic D.,False
+2026-05-24,Sonego L.,Herbert P.,0.69,Sonego L.,Sonego L.,True
+2026-05-24,Tirante T.A.,Llamas Ruiz P.,0.75,Tirante T.A.,Tirante T.A.,True
+2026-05-24,Trungelliti M.,Jacquet K.,0.62,Trungelliti M.,Trungelliti M.,True
+2026-05-24,Zverev A.,Bonzi B.,0.9775,Zverev A.,Zverev A.,True
+2026-05-25,Atmane T.,Kokkinakis T.,0.845,Atmane T.,Kokkinakis T.,False
+2026-05-25,Bautista Agut R.,Nakashima B.,0.075,Nakashima B.,Nakashima B.,True
+2026-05-25,Buse I.,Rublev A.,0.3788,Rublev A.,Rublev A.,True
+2026-05-25,Carreno Busta P.,Lehecka J.,0.3025,Lehecka J.,Carreno Busta P.,False
+2026-05-25,Cerundolo F.,Van De Zandschulp B.,0.6708,Cerundolo F.,Cerundolo F.,True
+2026-05-25,De Jong J.,Wawrinka S.,0.5783,De Jong J.,De Jong J.,True
+2026-05-25,Fucsovics M.,Berrettini M.,0.83,Fucsovics M.,Berrettini M.,False
+2026-05-25,Gaston H.,Monfils G.,0.625,Gaston H.,Gaston H.,True
+2026-05-25,Humbert U.,Mannarino A.,0.65,Humbert U.,Humbert U.,True
+2026-05-25,Kovacevic A.,Jodar R.,0.37,Jodar R.,Jodar R.,True
+2026-05-25,Merida Aguilar D.,Shelton B.,0.325,Shelton B.,Shelton B.,True
+2026-05-25,Munar J.,Hurkacz H.,0.875,Munar J.,Hurkacz H.,False
+2026-05-25,Nava E.,Ugo Carabelli C.,0.2901,Ugo Carabelli C.,Ugo Carabelli C.,True
+2026-05-25,Navone M.,Brooksby J.,0.665,Navone M.,Navone M.,True
+2026-05-25,Paul T.,Hijikata R.,0.785,Paul T.,Paul T.,True
+2026-05-25,Pellegrino A.,Cobolli F.,0.4777,Cobolli F.,Cobolli F.,True
+2026-05-25,Rinderknech A.,Rodionov J.,0.8325,Rinderknech A.,Rinderknech A.,True
+2026-05-25,Ruud C.,Safiullin R.,0.93,Ruud C.,Ruud C.,True
+2026-05-25,Samuel T.,De Minaur A.,0.17,De Minaur A.,De Minaur A.,True
+2026-05-25,Shevchenko A.,Michelsen A.,0.355,Michelsen A.,Michelsen A.,True
+2026-05-25,Tiafoe F.,Spizzirri E.,0.7746,Tiafoe F.,Tiafoe F.,True
+2026-05-25,Van Assche L.,Gaubas V.,0.415,Gaubas V.,Van Assche L.,False
+2026-05-25,Vukic A.,Collignon R.,0.2318,Collignon R.,Collignon R.,True
+2026-05-25,Wu Y.,Giron M.,0.2746,Giron M.,Wu Y.,False
+2026-05-26,Arnaldi M.,Griekspoor T.,0.1904,Griekspoor T.,Arnaldi M.,False
+2026-05-26,Auger-Aliassime F.,Altmaier D.,0.905,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-05-26,Bublik A.,Struff J.L.,0.9775,Bublik A.,Struff J.L.,False
+2026-05-26,Cilic M.,Kouame M.,0.79,Cilic M.,Kouame M.,False
+2026-05-26,Comesana F.,Quinn E.,0.3198,Quinn E.,Comesana F.,False
+2026-05-26,Faria J.,Shapovalov D.,0.3762,Shapovalov D.,Faria J.,False
+2026-05-26,Fearnley J.,Cerundolo J.M.,0.295,Cerundolo J.M.,Cerundolo J.M.,True
+2026-05-26,Landaluce M.,Prado Angelo J.C.,0.56,Landaluce M.,Landaluce M.,True
+2026-05-26,Medvedev D.,Walton A.,0.8358,Medvedev D.,Walton A.,False
+2026-05-26,Moutet C.,Kopriva V.,0.6517,Moutet C.,Kopriva V.,False
+2026-05-26,Ofner S.,Darderi L.,0.12,Darderi L.,Darderi L.,True
+2026-05-26,Popyrin A.,Svajda Z.,0.24,Svajda Z.,Svajda Z.,True
+2026-05-26,Tabilo A.,Majchrzak K.,0.4625,Majchrzak K.,Tabilo A.,False
+2026-05-26,Tabur C.,Sinner J.,0.0,Sinner J.,Sinner J.,True
+2026-05-26,Tien L.,Garin C.,0.8074,Tien L.,Tien L.,True
+2026-05-26,Vacherot V.,Faurel T.,0.835,Vacherot V.,Vacherot V.,True
+2026-05-26,Zhang Zh.,Diaz Acosta F.,0.735,Zhang Zh.,Diaz Acosta F.,False
+2026-05-27,Basavareddy N.,Michelsen A.,0.4,Michelsen A.,Michelsen A.,True
+2026-05-27,De Jong J.,Cina F.,0.6767,De Jong J.,De Jong J.,True
+2026-05-27,Djokovic N.,Royer V.,0.7033,Djokovic N.,Djokovic N.,True
+2026-05-27,Duckworth J.,Jodar R.,0.315,Jodar R.,Jodar R.,True
+2026-05-27,Fonseca J.,Prizmic D.,0.8483,Fonseca J.,Fonseca J.,True
+2026-05-27,Halys Q.,Humbert U.,0.775,Halys Q.,Halys Q.,True
+2026-05-27,Kecmanovic M.,Borges N.,0.4471,Borges N.,Borges N.,True
+2026-05-27,Medjedovic H.,Ruud C.,0.222,Ruud C.,Ruud C.,True
+2026-05-27,Mensik J.,Navone M.,0.76,Mensik J.,Mensik J.,True
+2026-05-27,Sonego L.,Paul T.,0.125,Paul T.,Paul T.,True
+2026-05-27,Tirante T.A.,Davidovich Fokina A.,0.165,Davidovich Fokina A.,Tirante T.A.,False
+2026-05-27,Trungelliti M.,Khachanov K.,0.025,Khachanov K.,Khachanov K.,True
+2026-05-27,Ugo Carabelli C.,Rublev A.,0.25,Rublev A.,Rublev A.,True
+2026-05-27,Zverev A.,Machac T.,0.925,Zverev A.,Zverev A.,True
+2026-05-28,Berrettini M.,Rinderknech A.,0.1446,Rinderknech A.,Berrettini M.,False
+2026-05-28,Burruchaga R.,Auger-Aliassime F.,0.04,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-05-28,Collignon R.,Shelton B.,0.038,Shelton B.,Collignon R.,False
+2026-05-28,Comesana F.,Darderi L.,0.08,Darderi L.,Comesana F.,False
+2026-05-28,Diaz Acosta F.,Tien L.,0.345,Tien L.,Tien L.,True
+2026-05-28,Faria J.,Struff J.L.,0.64,Faria J.,Faria J.,True
+2026-05-28,Gaston H.,Cerundolo F.,0.74,Gaston H.,Cerundolo F.,False
+2026-05-28,Kouame M.,Vallejo D.,0.44,Vallejo D.,Kouame M.,False
+2026-05-28,Landaluce M.,Kopriva V.,0.76,Landaluce M.,Landaluce M.,True
+2026-05-28,Sinner J.,Cerundolo J.M.,0.995,Sinner J.,Cerundolo J.M.,False
+2026-05-28,Svajda Z.,Walton A.,0.675,Svajda Z.,Svajda Z.,True
+2026-05-28,Tiafoe F.,Hurkacz H.,0.8338,Tiafoe F.,Tiafoe F.,True
+2026-05-28,Tsitsipas S.,Arnaldi M.,0.425,Arnaldi M.,Arnaldi M.,True
+2026-05-28,Van Assche L.,Nakashima B.,0.11,Nakashima B.,Nakashima B.,True
+2026-05-28,Wu Y.,Cobolli F.,0.19,Cobolli F.,Cobolli F.,True
+2026-05-29,Borges N.,Rublev A.,0.185,Rublev A.,Rublev A.,True
+2026-05-29,Carreno Busta P.,Tirante T.A.,0.5142,Carreno Busta P.,Carreno Busta P.,True
+2026-05-29,Fonseca J.,Djokovic N.,0.65,Fonseca J.,Fonseca J.,True
+2026-05-29,Khachanov K.,De Jong J.,0.2579,De Jong J.,De Jong J.,True
+2026-05-29,Mensik J.,De Minaur A.,0.2465,De Minaur A.,Mensik J.,False
+2026-05-29,Michelsen A.,Jodar R.,0.6584,Michelsen A.,Jodar R.,False
+2026-05-29,Paul T.,Ruud C.,0.689,Paul T.,Ruud C.,False
+2026-05-29,Zverev A.,Halys Q.,0.95,Zverev A.,Zverev A.,True
+2026-05-30,Arnaldi M.,Collignon R.,0.3479,Collignon R.,Arnaldi M.,False
+2026-05-30,Auger-Aliassime F.,Nakashima B.,0.6508,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-05-30,Cerundolo F.,Svajda Z.,0.7883,Cerundolo F.,Svajda Z.,False
+2026-05-30,Cerundolo J.M.,Landaluce M.,0.5504,Cerundolo J.M.,Cerundolo J.M.,True
+2026-05-30,Cobolli F.,Tien L.,0.87,Cobolli F.,Cobolli F.,True
+2026-05-30,Comesana F.,Berrettini M.,0.495,Berrettini M.,Berrettini M.,True
+2026-05-30,Faria J.,Tiafoe F.,0.125,Tiafoe F.,Tiafoe F.,True
+2026-05-30,Kouame M.,Tabilo A.,0.135,Tabilo A.,Tabilo A.,True
+2026-05-31,Carreno Busta P.,Jodar R.,0.1468,Jodar R.,Jodar R.,True
+2026-05-31,Fonseca J.,Ruud C.,0.5808,Fonseca J.,Fonseca J.,True
+2026-05-31,Rublev A.,Mensik J.,0.49,Mensik J.,Mensik J.,True
+2026-05-31,Zverev A.,De Jong J.,1.0,Zverev A.,Zverev A.,True
+2026-06-01,Arnaldi M.,Tiafoe F.,0.31,Tiafoe F.,Arnaldi M.,False
+2026-06-01,Berrettini M.,Cerundolo J.M.,0.2835,Cerundolo J.M.,Berrettini M.,False
+2026-06-01,Svajda Z.,Cobolli F.,0.215,Cobolli F.,Cobolli F.,True
+2026-06-01,Tabilo A.,Auger-Aliassime F.,0.11,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-06-02,Jodar R.,Zverev A.,0.3725,Zverev A.,Zverev A.,True
+2026-06-02,Mensik J.,Fonseca J.,0.4225,Fonseca J.,Mensik J.,False
+2026-06-03,Auger-Aliassime F.,Cobolli F.,0.483,Cobolli F.,Cobolli F.,True
+2026-06-05,Zverev A.,Mensik J.,0.815,Zverev A.,Zverev A.,True
+2026-06-07,Cobolli F.,Zverev A.,0.3633,Zverev A.,Zverev A.,True
+2026-06-08,Borges N.,Atmane T.,0.525,Borges N.,Borges N.,True
+2026-06-08,Cilic M.,Shapovalov D.,0.6492,Cilic M.,Cilic M.,True
+2026-06-08,Rottgering M.,Bonzi B.,0.455,Bonzi B.,Bonzi B.,True
+2026-06-08,Ymer E.,Humbert U.,0.195,Humbert U.,Humbert U.,True
+2026-06-08,Davidovich Fokina A.,Bellucci M.,0.6588,Davidovich Fokina A.,Bellucci M.,False
+2026-06-08,Landaluce M.,Herbert P.,0.5408,Landaluce M.,Landaluce M.,True
+2026-06-08,Marozsan F.,Onclin G.,0.7,Marozsan F.,Onclin G.,False
+2026-06-09,Damm M.,Munar J.,0.35,Munar J.,Damm M.,False
+2026-06-09,Diallo G.,Mannarino A.,0.3754,Mannarino A.,Mannarino A.,True
+2026-06-09,Zhang Zh.,Brooksby J.,0.28,Brooksby J.,Zhang Zh.,False
+2026-06-09,Bautista Agut R.,Giron M.,0.39,Giron M.,Giron M.,True
+2026-06-09,Dedura D.,Duckworth J.,0.355,Duckworth J.,Duckworth J.,True
+2026-06-09,Gentzsch T.,Hijikata R.,0.38,Hijikata R.,Hijikata R.,True
+2026-06-09,Hanfmann Y.,Kovacevic A.,0.5332,Hanfmann Y.,Hanfmann Y.,True
+2026-06-09,Safiullin R.,Mpetshi G.,0.475,Mpetshi G.,Mpetshi G.,True
+2026-06-09,Shimabukuro S.,Halys Q.,0.4576,Halys Q.,Shimabukuro S.,False
+2026-06-09,Struff J.L.,Galarneau A.,0.27,Galarneau A.,Struff J.L.,False
+2026-06-09,Tiafoe F.,Altmaier D.,0.6108,Tiafoe F.,Tiafoe F.,True
+2026-06-10,Bergs Z.,McCabe J.,0.605,Bergs Z.,McCabe J.,False
+2026-06-10,Boogaard T.,Wu Y.,0.47,Wu Y.,Boogaard T.,False
+2026-06-10,Fucsovics M.,Hurkacz H.,0.715,Fucsovics M.,Fucsovics M.,True
+2026-06-10,Van De Zandschulp B.,Griekspoor T.,0.551,Van De Zandschulp B.,Griekspoor T.,False
+2026-06-10,Virtanen O.,Majchrzak K.,0.3595,Majchrzak K.,Majchrzak K.,True
+2026-06-10,De Minaur A.,Damm M.,0.765,De Minaur A.,De Minaur A.,True
+2026-06-10,Bublik A.,Struff J.L.,0.78,Bublik A.,Bublik A.,True
+2026-06-10,Hanfmann Y.,Bellucci M.,0.625,Hanfmann Y.,Bellucci M.,False
+2026-06-10,Mpetshi G.,Onclin G.,0.335,Onclin G.,Mpetshi G.,False
+2026-06-11,Fucsovics M.,Auger-Aliassime F.,0.0168,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-06-11,Griekspoor T.,Zhang Zh.,0.805,Griekspoor T.,Zhang Zh.,False
+2026-06-11,Humbert U.,Bonzi B.,0.7058,Humbert U.,Bonzi B.,False
+2026-06-11,Majchrzak K.,McCabe J.,0.37,McCabe J.,Majchrzak K.,False
+2026-06-11,Mannarino A.,Rinderknech A.,0.5921,Mannarino A.,Mannarino A.,True
+2026-06-11,Duckworth J.,Lehecka J.,0.465,Lehecka J.,Lehecka J.,True
+2026-06-11,Landaluce M.,Fritz T.,0.3812,Fritz T.,Fritz T.,True
+2026-06-11,Tiafoe F.,Hijikata R.,0.835,Tiafoe F.,Tiafoe F.,True
+2026-06-12,Borges N.,Cilic M.,0.405,Cilic M.,Cilic M.,True
+2026-06-12,Medvedev D.,Boogaard T.,0.83,Medvedev D.,Medvedev D.,True
+2026-06-12,Bonzi B.,De Minaur A.,0.26,De Minaur A.,De Minaur A.,True
+2026-06-12,Majchrzak K.,Auger-Aliassime F.,0.15,Auger-Aliassime F.,Majchrzak K.,False
+2026-06-12,Mannarino A.,Zhang Zh.,0.665,Mannarino A.,Mannarino A.,True
+2026-06-12,Shelton B.,Giron M.,0.745,Shelton B.,Shelton B.,True
+2026-06-12,Fritz T.,Bellucci M.,0.615,Fritz T.,Fritz T.,True
+2026-06-12,Mpetshi G.,Bublik A.,0.225,Bublik A.,Bublik A.,True
+2026-06-12,Tiafoe F.,Lehecka J.,0.48,Lehecka J.,Lehecka J.,True
+2026-06-13,Cilic M.,Medvedev D.,0.3942,Medvedev D.,Medvedev D.,True
+2026-06-13,De Minaur A.,Mannarino A.,0.81,De Minaur A.,De Minaur A.,True
+2026-06-13,Medvedev D.,Majchrzak K.,0.55,Medvedev D.,Majchrzak K.,False
+2026-06-13,Shelton B.,Shimabukuro S.,0.74,Shelton B.,Shelton B.,True
+2026-06-13,Bublik A.,Fritz T.,0.5375,Bublik A.,Fritz T.,False
+2026-06-13,Shelton B.,Lehecka J.,0.7558,Shelton B.,Shelton B.,True
+2026-06-14,Majchrzak K.,De Minaur A.,0.2,De Minaur A.,Majchrzak K.,False
+2026-06-14,Fritz T.,Shelton B.,0.3685,Shelton B.,Shelton B.,True
+2026-06-15,Atmane T.,Landaluce M.,0.615,Atmane T.,Atmane T.,True
+2026-06-15,Basilashvili N.,Altmaier D.,0.5,Basilashvili N.,Altmaier D.,False
+2026-06-15,Borges N.,Auger-Aliassime F.,0.16,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-06-15,Tiafoe F.,Cobolli F.,0.55,Tiafoe F.,Tiafoe F.,True
+2026-06-15,Tien L.,Schoenhaus M.,0.7875,Tien L.,Tien L.,True
+2026-06-15,Paul T.,Svajda Z.,0.5147,Paul T.,Paul T.,True
+2026-06-15,Pinnington Jones J.,Shapovalov D.,0.14,Shapovalov D.,Shapovalov D.,True
+2026-06-15,Wendelken H.,Van De Zandschulp B.,0.49,Van De Zandschulp B.,Van De Zandschulp B.,True
+2026-06-16,Bublik A.,Bellucci M.,0.84,Bublik A.,Bellucci M.,False
+2026-06-16,Etcheverry T.,Medvedev D.,0.0233,Medvedev D.,Medvedev D.,True
+2026-06-16,Fonseca J.,Hanfmann Y.,0.5517,Fonseca J.,Hanfmann Y.,False
+2026-06-16,Hurkacz H.,Rublev A.,0.46,Rublev A.,Hurkacz H.,False
+2026-06-16,Kopriva V.,Zverev A.,0.0325,Zverev A.,Zverev A.,True
+2026-06-16,Marozsan F.,Kecmanovic M.,0.58,Marozsan F.,Marozsan F.,True
+2026-06-16,Popyrin A.,Collignon R.,0.544,Popyrin A.,Collignon R.,False
+2026-06-16,Quinn E.,Khachanov K.,0.2758,Khachanov K.,Quinn E.,False
+2026-06-16,Shimabukuro S.,Griekspoor T.,0.375,Griekspoor T.,Shimabukuro S.,False
+2026-06-16,Brooksby J.,Damm M.,0.66,Brooksby J.,Brooksby J.,True
+2026-06-16,Buse I.,Giron M.,0.42,Giron M.,Buse I.,False
+2026-06-16,Cerundolo F.,Kovacevic A.,0.5775,Cerundolo F.,Cerundolo F.,True
+2026-06-16,Cilic M.,Humbert U.,0.58,Cilic M.,Humbert U.,False
+2026-06-16,Diallo G.,De Minaur A.,0.095,De Minaur A.,De Minaur A.,True
+2026-06-16,Fucsovics M.,Nakashima B.,0.21,Nakashima B.,Nakashima B.,True
+2026-06-16,Hijikata R.,Tabilo A.,0.465,Tabilo A.,Hijikata R.,False
+2026-06-16,Lehecka J.,Majchrzak K.,0.4825,Majchrzak K.,Lehecka J.,False
+2026-06-16,Mannarino A.,Mensik J.,0.7425,Mannarino A.,Mannarino A.,True
+2026-06-16,Medjedovic H.,Rinderknech A.,0.34,Rinderknech A.,Medjedovic H.,False
+2026-06-16,Mpetshi G.,Moutet C.,0.33,Moutet C.,Moutet C.,True
+2026-06-16,Norrie C.,Davidovich Fokina A.,0.7875,Norrie C.,Davidovich Fokina A.,False
+2026-06-16,Samuel T.,Fery A.,0.54,Samuel T.,Fery A.,False
+2026-06-17,Fritz T.,Bergs Z.,0.79,Fritz T.,Fritz T.,True
+2026-06-17,Sonego L.,Shelton B.,0.035,Shelton B.,Shelton B.,True
+2026-06-17,Atmane T.,Medvedev D.,0.205,Medvedev D.,Medvedev D.,True
+2026-06-17,Auger-Aliassime F.,Tien L.,0.275,Tien L.,Auger-Aliassime F.,False
+2026-06-17,Hurkacz H.,Altmaier D.,0.675,Hurkacz H.,Altmaier D.,False
+2026-06-17,Tiafoe F.,Shimabukuro S.,0.7867,Tiafoe F.,Tiafoe F.,True
+2026-06-17,Buse I.,Nakashima B.,0.73,Buse I.,Nakashima B.,False
+2026-06-17,Cerundolo F.,Brooksby J.,0.735,Cerundolo F.,Cerundolo F.,True
+2026-06-17,De Minaur A.,Shapovalov D.,0.79,De Minaur A.,De Minaur A.,True
+2026-06-17,Mannarino A.,Fery A.,0.555,Mannarino A.,Fery A.,False
+2026-06-18,Bellucci M.,Collignon R.,0.5575,Bellucci M.,Collignon R.,False
+2026-06-18,Fritz T.,Marozsan F.,0.805,Fritz T.,Fritz T.,True
+2026-06-18,Quinn E.,Shelton B.,0.085,Shelton B.,Shelton B.,True
+2026-06-18,Zverev A.,Hanfmann Y.,0.8258,Zverev A.,Zverev A.,True
+2026-06-18,Lehecka J.,Hijikata R.,0.66,Lehecka J.,Hijikata R.,False
+2026-06-18,Moutet C.,Davidovich Fokina A.,0.62,Moutet C.,Davidovich Fokina A.,False
+2026-06-18,Paul T.,Van De Zandschulp B.,0.63,Paul T.,Paul T.,True
+2026-06-19,Altmaier D.,Medvedev D.,0.165,Medvedev D.,Altmaier D.,False
+2026-06-19,Auger-Aliassime F.,Tiafoe F.,0.735,Auger-Aliassime F.,Tiafoe F.,False
+2026-06-19,Collignon R.,Zverev A.,0.18,Zverev A.,Zverev A.,True
+2026-06-19,Fritz T.,Shelton B.,0.4475,Shelton B.,Fritz T.,False
+2026-06-19,Humbert U.,Medjedovic H.,0.51,Humbert U.,Humbert U.,True
+2026-06-19,Cerundolo F.,Fery A.,0.565,Cerundolo F.,Cerundolo F.,True
+2026-06-19,Davidovich Fokina A.,Paul T.,0.4058,Paul T.,Paul T.,True
+2026-06-19,De Minaur A.,Nakashima B.,0.595,De Minaur A.,Nakashima B.,False
+2026-06-19,Humbert U.,Hijikata R.,0.535,Humbert U.,Humbert U.,True
+2026-06-20,Altmaier D.,Tiafoe F.,0.25,Tiafoe F.,Tiafoe F.,True
+2026-06-20,Fritz T.,Zverev A.,0.3742,Zverev A.,Fritz T.,False
+2026-06-20,Nakashima B.,Cerundolo F.,0.605,Nakashima B.,Cerundolo F.,False
+2026-06-20,Paul T.,Humbert U.,0.4151,Humbert U.,Paul T.,False
+2026-06-21,Tiafoe F.,Fritz T.,0.295,Fritz T.,Tiafoe F.,False
+2026-06-21,Borges N.,Mannarino A.,0.6443,Borges N.,Borges N.,True
+2026-06-21,Hanfmann Y.,Vallejo D.,0.505,Hanfmann Y.,Hanfmann Y.,True
+2026-06-21,Navone M.,Sonego L.,0.81,Navone M.,Sonego L.,False
+2026-06-21,Paul T.,Cerundolo F.,0.445,Cerundolo F.,Cerundolo F.,True
+2026-06-22,Choinski J.,Popyrin A.,0.7595,Choinski J.,Choinski J.,True
+2026-06-22,Collignon R.,Cerundolo J.M.,0.44,Cerundolo J.M.,Cerundolo J.M.,True
+2026-06-22,Diallo G.,Atmane T.,0.515,Diallo G.,Diallo G.,True
+2026-06-22,Draper J.,Giron M.,0.645,Draper J.,Draper J.,True
+2026-06-22,Munar J.,Bergs Z.,0.425,Bergs Z.,Bergs Z.,True
+2026-06-22,Trungelliti M.,Pinnington Jones J.,0.425,Pinnington Jones J.,Pinnington Jones J.,True
+2026-06-22,Ghibaudo A.,Kecmanovic M.,0.37,Kecmanovic M.,Kecmanovic M.,True
+2026-06-22,Molcan A.,Marozsan F.,0.225,Marozsan F.,Marozsan F.,True
+2026-06-22,Royer V.,Quinn E.,0.795,Royer V.,Quinn E.,False
+2026-06-22,Shelbayh A.,Moutet C.,0.13,Moutet C.,Shelbayh A.,False
+2026-06-22,Struff J.L.,Landaluce M.,0.5086,Struff J.L.,Struff J.L.,True
+2026-06-22,Walton A.,Kyrgios N.,0.685,Walton A.,Walton A.,True
+2026-06-23,Altmaier D.,Kovacevic A.,0.6883,Altmaier D.,Altmaier D.,True
+2026-06-23,Bellucci M.,Humbert U.,0.1325,Humbert U.,Humbert U.,True
+2026-06-23,Brooksby J.,Vukic A.,0.385,Vukic A.,Brooksby J.,False
+2026-06-23,Burruchaga R.,Fery A.,0.722,Burruchaga R.,Fery A.,False
+2026-06-23,Hussey G.,Arnaldi M.,0.09,Arnaldi M.,Hussey G.,False
+2026-06-23,Stewart H.,Tirante T. A.,0.245,Tirante T. A.,Tirante T. A.,True
+2026-06-23,Dimitrov G.,Polmans M.,0.25,Polmans M.,Dimitrov G.,False
+2026-06-23,Dzumhur D.,Kopriva V.,0.1,Kopriva V.,Kopriva V.,True
+2026-06-23,Tsitsipas S.,Buse I.,0.47,Buse I.,Buse I.,True
+2026-06-23,Hanfmann Y.,Darderi L.,0.765,Hanfmann Y.,Darderi L.,False
+2026-06-23,Kecmanovic M.,Sonego L.,0.325,Sonego L.,Kecmanovic M.,False
+2026-06-23,Marozsan F.,Tabilo A.,0.5975,Marozsan F.,Marozsan F.,True
+2026-06-23,Struff J.L.,Borges N.,0.5625,Struff J.L.,Borges N.,False
+2026-06-24,Brooksby J.,Humbert U.,0.5729,Brooksby J.,Humbert U.,False
+2026-06-24,Cerundolo J.M.,Fery A.,0.7183,Cerundolo J.M.,Cerundolo J.M.,True
+2026-06-24,Choinski J.,Gill F.,0.37,Gill F.,Choinski J.,False
+2026-06-24,Draper J.,Pinnington Jones J.,0.43,Pinnington Jones J.,Draper J.,False
+2026-06-24,Etcheverry T.,Diallo G.,0.7583,Etcheverry T.,Diallo G.,False
+2026-06-24,Hussey G.,Halys Q.,0.545,Hussey G.,Halys Q.,False
+2026-06-24,Samuel T.,Tirante T. A.,0.275,Tirante T. A.,Samuel T.,False
+2026-06-24,Buse I.,Kopriva V.,0.1604,Kopriva V.,Kopriva V.,True
+2026-06-24,Davidovich Fokina A.,Walton A.,0.6976,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-06-24,Quinn E.,Cassone M.,0.62,Quinn E.,Quinn E.,True
+2026-06-24,Shelbayh A.,Dimitrov G.,0.44,Dimitrov G.,Dimitrov G.,True
+2026-06-25,Bergs Z.,Choinski J.,0.6783,Bergs Z.,Bergs Z.,True
+2026-06-25,Cerundolo J.M.,Samuel T.,0.84,Cerundolo J.M.,Samuel T.,False
+2026-06-25,Diallo G.,Draper J.,0.545,Diallo G.,Draper J.,False
+2026-06-25,Humbert U.,Halys Q.,0.74,Humbert U.,Humbert U.,True
+2026-06-25,Darderi L.,Borges N.,0.86,Darderi L.,Borges N.,False
+2026-06-25,Dimitrov G.,Davidovich Fokina A.,0.305,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-06-25,Marozsan F.,Kecmanovic M.,0.7038,Marozsan F.,Marozsan F.,True
+2026-06-25,Quinn E.,Kopriva V.,0.655,Quinn E.,Quinn E.,True
+2026-06-26,Humbert U.,Draper J.,0.61,Humbert U.,Humbert U.,True
+2026-06-26,Samuel T.,Bergs Z.,0.55,Samuel T.,Bergs Z.,False
+2026-06-26,Marozsan F.,Davidovich Fokina A.,0.56,Marozsan F.,Davidovich Fokina A.,False
+2026-06-26,Quinn E.,Borges N.,0.375,Borges N.,Quinn E.,False
+2026-06-27,Davidovich Fokina A.,Quinn E.,0.6967,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-06-28,Humbert U.,Bergs Z.,0.4153,Bergs Z.,Bergs Z.,True
+2026-06-29,Auger-Aliassime F.,Shevchenko A.,0.965,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-06-29,Boyer T.,Borges N.,0.495,Borges N.,Borges N.,True
+2026-06-29,Buse I.,Nava E.,0.485,Nava E.,Buse I.,False
+2026-06-29,Cerundolo J.M.,Davidovich Fokina A.,0.165,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-06-29,Cilic M.,Medvedev D.,0.04,Medvedev D.,Medvedev D.,True
+2026-06-29,Damm M.,Trungelliti M.,0.7325,Damm M.,Damm M.,True
+2026-06-29,Fonseca J.,Bautista Agut R.,0.95,Fonseca J.,Fonseca J.,True
+2026-06-29,Gaston H.,Tsitsipas S.,0.5,Gaston H.,Tsitsipas S.,False
+2026-06-29,Jodar R.,Gill F.,0.97,Jodar R.,Jodar R.,True
+2026-06-29,Kecmanovic M.,Sinner J.,0.005,Sinner J.,Sinner J.,True
+2026-06-29,Kovacevic A.,Van De Zandschulp B.,0.115,Van De Zandschulp B.,Van De Zandschulp B.,True
+2026-06-29,Landaluce M.,Kwon S.,0.78,Landaluce M.,Kwon S.,False
+2026-06-29,Marozsan F.,Tirante T.A.,0.415,Tirante T.A.,Marozsan F.,False
+2026-06-29,Mejia N.,Vallejo D.,0.7825,Mejia N.,Mejia N.,True
+2026-06-29,Mochizuki S.,Basing M.,0.41,Basing M.,Mochizuki S.,False
+2026-06-29,Muller A.,Paul T.,0.02,Paul T.,Paul T.,True
+2026-06-29,Ofner S.,Medjedovic H.,0.0725,Medjedovic H.,Ofner S.,False
+2026-06-29,Quinn E.,Darderi L.,0.4712,Darderi L.,Quinn E.,False
+2026-06-29,Rinderknech A.,Tarvet O.,0.88,Rinderknech A.,Rinderknech A.,True
+2026-06-29,Rublev A.,Safiullin R.,0.985,Rublev A.,Safiullin R.,False
+2026-06-29,Ruud C.,Hurkacz H.,0.9438,Ruud C.,Hurkacz H.,False
+2026-06-29,Struff J.L.,Baez S.,0.18,Baez S.,Struff J.L.,False
+2026-06-29,Svrcina D.,Tien L.,0.16,Tien L.,Tien L.,True
+2026-06-29,Vukic A.,Brooksby J.,0.44,Brooksby J.,Brooksby J.,True
+2026-06-29,Walton A.,Prizmic D.,0.7733,Walton A.,Prizmic D.,False
+2026-06-29,Wu Y.,Djokovic N.,0.11,Djokovic N.,Djokovic N.,True
+2026-06-29,Zheng M.,Norrie C.,0.17,Norrie C.,Zheng M.,False
+2026-06-30,Arnaldi M.,Halys Q.,0.91,Arnaldi M.,Halys Q.,False
+2026-06-30,Bergs Z.,Humbert U.,0.77,Bergs Z.,Bergs Z.,True
+2026-06-30,Berrettini M.,Wawrinka S.,0.525,Berrettini M.,Berrettini M.,True
+2026-06-30,Blockx A.,Zverev A.,0.035,Zverev A.,Zverev A.,True
+2026-06-30,Cerundolo F.,Munar J.,0.8375,Cerundolo F.,Munar J.,False
+2026-06-30,De Minaur A.,Burruchaga R.,0.955,De Minaur A.,De Minaur A.,True
+2026-06-30,Droguet T.,Mannarino A.,0.2375,Mannarino A.,Mannarino A.,True
+2026-06-30,Etcheverry T.,Sonego L.,0.2847,Sonego L.,Sonego L.,True
+2026-06-30,Faria J.,Shimabukuro S.,0.805,Faria J.,Faria J.,True
+2026-06-30,Fery A.,Dzumhur D.,0.6036,Fery A.,Fery A.,True
+2026-06-30,Fils A.,Collignon R.,0.4308,Collignon R.,Fils A.,False
+2026-06-30,Fritz T.,Lajovic D.,0.79,Fritz T.,Fritz T.,True
+2026-06-30,Giron M.,Moutet C.,0.235,Moutet C.,Giron M.,False
+2026-06-30,Griekspoor T.,Duckworth J.,0.8658,Griekspoor T.,Duckworth J.,False
+2026-06-30,Hanfmann Y.,Mpetshi G.,0.545,Hanfmann Y.,Hanfmann Y.,True
+2026-06-30,Hijikata R.,De Jong J.,0.9208,Hijikata R.,De Jong J.,False
+2026-06-30,Jacquet K.,Gaubas V.,0.5012,Jacquet K.,Jacquet K.,True
+2026-06-30,Khachanov K.,Harris B.,0.95,Khachanov K.,Khachanov K.,True
+2026-06-30,Kokkinakis T.,Bublik A.,0.05,Bublik A.,Bublik A.,True
+2026-06-30,Kopriva V.,Choinski J.,0.78,Kopriva V.,Choinski J.,False
+2026-06-30,Kypson P.,McDonald M.,0.46,McDonald M.,Kypson P.,False
+2026-06-30,Lehecka J.,Popyrin A.,0.86,Lehecka J.,Lehecka J.,True
+2026-06-30,Llamas Ruiz P.,Svajda Z.,0.04,Svajda Z.,Svajda Z.,True
+2026-06-30,Majchrzak K.,Tabilo A.,0.6,Majchrzak K.,Majchrzak K.,True
+2026-06-30,Michelsen A.,Fearnley J.,0.58,Michelsen A.,Fearnley J.,False
+2026-06-30,Pinnington Jones J.,Nakashima B.,0.205,Nakashima B.,Nakashima B.,True
+2026-06-30,Samuel T.,Mensik J.,0.135,Mensik J.,Mensik J.,True
+2026-06-30,Sweeny D.,Dimitrov G.,0.36,Dimitrov G.,Dimitrov G.,True
+2026-06-30,Virtanen O.,Shelton B.,0.35,Shelton B.,Virtanen O.,False
+2026-06-30,Wendelken H.,Royer V.,0.28,Royer V.,Royer V.,True
+2026-07-01,Molcan A.,Altmaier D.,0.305,Altmaier D.,Molcan A.,False
+2026-07-01,Navone M.,Cobolli F.,0.135,Cobolli F.,Cobolli F.,True
+2026-07-01,Tiafoe F.,Atmane T.,0.915,Tiafoe F.,Tiafoe F.,True
+2026-07-01,Borges N.,Sinner J.,0.015,Sinner J.,Sinner J.,True
+2026-07-01,Brooksby J.,Buse I.,0.2533,Buse I.,Brooksby J.,False
+2026-07-01,Davidovich Fokina A.,Marozsan F.,0.7,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-07-01,De Jong J.,Fonseca J.,0.0825,Fonseca J.,Fonseca J.,True
+2026-07-01,Djokovic N.,Tsitsipas S.,0.7962,Djokovic N.,Djokovic N.,True
+2026-07-01,Fucsovics M.,Tien L.,0.475,Tien L.,Fucsovics M.,False
+2026-07-01,Kwon S.,Paul T.,0.11,Paul T.,Paul T.,True
+2026-07-01,Mejia N.,Zheng M.,0.44,Zheng M.,Zheng M.,True
+2026-07-01,Merida Aguilar D.,Medvedev D.,0.092,Medvedev D.,Medvedev D.,True
+2026-07-01,Mochizuki S.,Quinn E.,0.205,Quinn E.,Mochizuki S.,False
+2026-07-01,Ofner S.,Hurkacz H.,0.45,Hurkacz H.,Hurkacz H.,True
+2026-07-01,Prizmic D.,Auger-Aliassime F.,0.055,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-07-01,Rinderknech A.,Damm M.,0.655,Rinderknech A.,Rinderknech A.,True
+2026-07-01,Safiullin R.,Van De Zandschulp B.,0.445,Van De Zandschulp B.,Safiullin R.,False
+2026-07-02,Berrettini M.,Fils A.,0.3283,Fils A.,Berrettini M.,False
+2026-07-02,Bublik A.,Jacquet K.,0.895,Bublik A.,Bublik A.,True
+2026-07-02,Carreno Busta P.,Jodar R.,0.1175,Jodar R.,Jodar R.,True
+2026-07-02,De Minaur A.,Mannarino A.,0.8867,De Minaur A.,De Minaur A.,True
+2026-07-02,Diallo G.,Sonego L.,0.445,Sonego L.,Sonego L.,True
+2026-07-02,Duckworth J.,Cobolli F.,0.115,Cobolli F.,Cobolli F.,True
+2026-07-02,Faria J.,Bergs Z.,0.2,Bergs Z.,Bergs Z.,True
+2026-07-02,Fery A.,Virtanen O.,0.335,Virtanen O.,Fery A.,False
+2026-07-02,Halys Q.,Giron M.,0.4675,Giron M.,Giron M.,True
+2026-07-02,Khachanov K.,Hanfmann Y.,0.525,Khachanov K.,Khachanov K.,True
+2026-07-02,Kypson P.,Fritz T.,0.3432,Fritz T.,Fritz T.,True
+2026-07-02,Mensik J.,Dimitrov G.,0.865,Mensik J.,Dimitrov G.,False
+2026-07-02,Molcan A.,Lehecka J.,0.14,Lehecka J.,Lehecka J.,True
+2026-07-02,Munar J.,Fearnley J.,0.885,Munar J.,Munar J.,True
+2026-07-02,Royer V.,Zverev A.,0.69,Royer V.,Zverev A.,False
+2026-07-02,Struff J.L.,Nakashima B.,0.2,Nakashima B.,Struff J.L.,False
+2026-07-02,Svajda Z.,Majchrzak K.,0.52,Svajda Z.,Svajda Z.,True
+2026-07-02,Tiafoe F.,Choinski J.,0.875,Tiafoe F.,Tiafoe F.,True
+2026-07-03,Auger-Aliassime F.,Zheng M.,0.465,Zheng M.,Auger-Aliassime F.,False
+2026-07-03,Brooksby J.,Sinner J.,0.0,Sinner J.,Sinner J.,True
+2026-07-03,Fonseca J.,Safiullin R.,0.92,Fonseca J.,Safiullin R.,False
+2026-07-03,Fucsovics M.,Davidovich Fokina A.,0.19,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-07-03,Hurkacz H.,Paul T.,0.22,Paul T.,Hurkacz H.,False
+2026-07-03,Mochizuki S.,Jodar R.,0.125,Jodar R.,Mochizuki S.,False
+2026-07-03,Rinderknech A.,Djokovic N.,0.2001,Djokovic N.,Djokovic N.,True
+2026-07-03,Struff J.L.,Medvedev D.,0.1921,Medvedev D.,Struff J.L.,False
+2026-07-04,Bergs Z.,Fery A.,0.78,Bergs Z.,Fery A.,False
+2026-07-04,Cobolli F.,Khachanov K.,0.74,Cobolli F.,Cobolli F.,True
+2026-07-04,Dimitrov G.,Berrettini M.,0.2475,Berrettini M.,Dimitrov G.,False
+2026-07-04,Fritz T.,Sonego L.,0.93,Fritz T.,Fritz T.,True
+2026-07-04,Giron M.,Zverev A.,0.025,Zverev A.,Zverev A.,True
+2026-07-04,Lehecka J.,Munar J.,0.5817,Lehecka J.,Lehecka J.,True
+2026-07-04,Svajda Z.,De Minaur A.,0.415,De Minaur A.,De Minaur A.,True
+2026-07-04,Tiafoe F.,Bublik A.,0.5541,Tiafoe F.,Bublik A.,False
+2026-07-05,Auger-Aliassime F.,Davidovich Fokina A.,0.9625,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-07-05,Mochizuki S.,Sinner J.,0.415,Sinner J.,Sinner J.,True
+2026-07-05,Safiullin R.,Djokovic N.,0.22,Djokovic N.,Djokovic N.,True
+2026-07-06,Cobolli F.,De Minaur A.,0.1883,De Minaur A.,Cobolli F.,False
+2026-07-06,Dimitrov G.,Fery A.,0.585,Dimitrov G.,Fery A.,False
+2026-07-06,Fritz T.,Bublik A.,0.7766,Fritz T.,Fritz T.,True
+2026-07-07,Lehecka J.,Zverev A.,0.7424,Lehecka J.,Zverev A.,False
+2026-07-07,Auger-Aliassime F.,Djokovic N.,0.215,Djokovic N.,Djokovic N.,True
+2026-07-07,Sinner J.,Struff J.L.,0.93,Sinner J.,Sinner J.,True
+2026-07-08,Fery A.,Cobolli F.,0.15,Cobolli F.,Fery A.,False
+2026-07-08,Fritz T.,Zverev A.,0.4903,Zverev A.,Zverev A.,True
+2026-07-10,Djokovic N.,Sinner J.,0.0404,Sinner J.,Sinner J.,True
+2026-07-10,Zverev A.,Fery A.,0.965,Zverev A.,Zverev A.,True
+2026-07-12,Sinner J.,Zverev A.,0.9515,Sinner J.,Sinner J.,True
+2026-07-13,Dzumhur D.,Rocha H.,0.588,Dzumhur D.,Dzumhur D.,True
+2026-07-13,Kopriva V.,Prizmic D.,0.745,Kopriva V.,Prizmic D.,False
+2026-07-13,Lajovic D.,Van Assche L.,0.445,Van Assche L.,Van Assche L.,True
+2026-07-13,Trungelliti M.,Jacquet K.,0.51,Trungelliti M.,Trungelliti M.,True
+2026-07-13,Gaubas V.,De Jong J.,0.334,De Jong J.,De Jong J.,True
+2026-07-13,Collignon R.,Skatov T.,0.7075,Collignon R.,Collignon R.,True
+2026-07-13,Feldbausch K.,Kecmanovic M.,0.3683,Kecmanovic M.,Kecmanovic M.,True
+2026-07-13,Munar J.,Stricker D.,0.92,Munar J.,Stricker D.,False
+2026-07-13,Schwaerzler J.J.,Sonego L.,0.75,Schwaerzler J.J.,Sonego L.,False
+2026-07-13,Tabur C.,Rodionov J.,0.46,Rodionov J.,Tabur C.,False
+2026-07-14,Blockx A.,Droguet T.,0.745,Blockx A.,Droguet T.,False
+2026-07-14,Carreno Busta P.,Dodig M.,0.7888,Carreno Busta P.,Carreno Busta P.,True
+2026-07-14,Cecchinato M.,Burruchaga R.,0.295,Burruchaga R.,Burruchaga R.,True
+2026-07-14,McDonald N.,Gomez F.A.,0.645,McDonald N.,Gomez F.A.,False
+2026-07-14,Merida Aguilar D.,Sesko Z.,0.68,Merida Aguilar D.,Merida Aguilar D.,True
+2026-07-14,Prado Angelo J.C.,Neumayer L.,0.5975,Prado Angelo J.C.,Prado Angelo J.C.,True
+2026-07-14,Royer V.,Molcan A.,0.9292,Royer V.,Molcan A.,False
+2026-07-14,Ugo Carabelli C.,Topo M.,0.615,Ugo Carabelli C.,Ugo Carabelli C.,True
+2026-07-14,Altmaier D.,Gaston H.,0.41,Gaston H.,Altmaier D.,False
+2026-07-14,Baez S.,Dahlin M.,0.97,Baez S.,Baez S.,True
+2026-07-14,Basilashvili N.,Choinski J.,0.545,Basilashvili N.,Basilashvili N.,True
+2026-07-14,Damas M.,Vallejo D.,0.135,Vallejo D.,Vallejo D.,True
+2026-07-14,Daniel T.,Van De Zandschulp B.,0.135,Van De Zandschulp B.,Van De Zandschulp B.,True
+2026-07-14,Dimitrov G.,Svrcina D.,0.33,Svrcina D.,Dimitrov G.,False
+2026-07-14,Kouame M.,Borges N.,0.105,Borges N.,Borges N.,True
+2026-07-14,Krumich M.,Travaglia S.,0.365,Travaglia S.,Travaglia S.,True
+2026-07-14,Midon L.,Diaz Acosta F.,0.57,Midon L.,Midon L.,True
+2026-07-14,Ofner S.,Tirante T.A.,0.5217,Ofner S.,Tirante T.A.,False
+2026-07-14,Pellegrino A.,Budkov Kjaer N.,0.48,Budkov Kjaer N.,Pellegrino A.,False
+2026-07-14,Cerundolo J.M.,Kolar Z.,0.5445,Cerundolo J.M.,Cerundolo J.M.,True
+2026-07-14,Cina F.,Halys Q.,0.18,Halys Q.,Halys Q.,True
+2026-07-14,Faria J.,Wawrinka S.,0.3725,Wawrinka S.,Faria J.,False
+2026-07-14,Kym J.,Dietrich D.,0.87,Kym J.,Kym J.,True
+2026-07-14,Martinez P.,Hanfmann Y.,0.265,Hanfmann Y.,Hanfmann Y.,True
+2026-07-14,Muller A.,Shevchenko A.,0.22,Shevchenko A.,Shevchenko A.,True
+2026-07-14,Tsitsipas S.,Buse I.,0.4575,Buse I.,Tsitsipas S.,False
+2026-07-15,Cobolli F.,Burruchaga R.,0.83,Cobolli F.,Burruchaga R.,False
+2026-07-15,Droguet T.,Van Assche L.,0.67,Droguet T.,Droguet T.,True
+2026-07-15,Dzumhur D.,Prado Angelo J.C.,0.47,Prado Angelo J.C.,Dzumhur D.,False
+2026-07-15,Gomez F.A.,Arnaldi M.,0.335,Arnaldi M.,Arnaldi M.,True
+2026-07-15,Merida Aguilar D.,Etcheverry T.,0.1608,Etcheverry T.,Merida Aguilar D.,False
+2026-07-15,Trungelliti M.,Davidovich Fokina A.,0.4475,Davidovich Fokina A.,Davidovich Fokina A.,True
+2026-07-15,Ugo Carabelli C.,Carreno Busta P.,0.6175,Ugo Carabelli C.,Ugo Carabelli C.,True
+2026-07-15,Borges N.,Dimitrov G.,0.675,Borges N.,Borges N.,True
+2026-07-15,Darderi L.,Altmaier D.,0.6575,Darderi L.,Darderi L.,True
+2026-07-15,Navone M.,Travaglia S.,0.7925,Navone M.,Travaglia S.,False
+2026-07-15,Van De Zandschulp B.,Vallejo D.,0.885,Van De Zandschulp B.,Vallejo D.,False
+2026-07-15,Hanfmann Y.,Vacherot V.,0.55,Hanfmann Y.,Vacherot V.,False
+2026-07-15,Rinderknech A.,Tabur C.,0.59,Rinderknech A.,Rinderknech A.,True
+2026-07-15,Sonego L.,Collignon R.,0.4574,Collignon R.,Collignon R.,True
+2026-07-16,Droguet T.,Merida Aguilar D.,0.41,Merida Aguilar D.,Merida Aguilar D.,True
+2026-07-16,Dzumhur D.,Arnaldi M.,0.405,Arnaldi M.,Dzumhur D.,False
+2026-07-16,Molcan A.,Davidovich Fokina A.,0.83,Molcan A.,Molcan A.,True
+2026-07-16,Ugo Carabelli C.,Burruchaga R.,0.1775,Burruchaga R.,Burruchaga R.,True
+2026-07-16,Baez S.,De Jong J.,0.7192,Baez S.,Baez S.,True
+2026-07-16,Basilashvili N.,Tirante T.A.,0.3317,Tirante T.A.,Tirante T.A.,True
+2026-07-16,Midon L.,Tabilo A.,0.31,Tabilo A.,Tabilo A.,True
+2026-07-16,Rublev A.,Pellegrino A.,0.905,Rublev A.,Rublev A.,True
+2026-07-16,Cerundolo J.M.,Kecmanovic M.,0.305,Kecmanovic M.,Cerundolo J.M.,False
+2026-07-16,Faria J.,Ruud C.,0.055,Ruud C.,Ruud C.,True
+2026-07-16,Tsitsipas S.,Kym J.,0.6,Tsitsipas S.,Tsitsipas S.,True
+2026-07-17,Burruchaga R.,Merida Aguilar D.,0.44,Merida Aguilar D.,Merida Aguilar D.,True
+2026-07-17,Dzumhur D.,Molcan A.,0.6917,Dzumhur D.,Dzumhur D.,True
+2026-07-17,Baez S.,Rublev A.,0.3359,Rublev A.,Rublev A.,True
+2026-07-17,Darderi L.,Borges N.,0.73,Darderi L.,Darderi L.,True
+2026-07-17,Travaglia S.,Vallejo D.,0.6,Travaglia S.,Vallejo D.,False
+2026-07-17,Bublik A.,Halys Q.,0.86,Bublik A.,Halys Q.,False
+2026-07-17,Shevchenko A.,Stricker D.,0.64,Shevchenko A.,Shevchenko A.,True
+2026-07-17,Cerundolo J.M.,Ruud C.,0.2475,Ruud C.,Cerundolo J.M.,False
+2026-07-17,Halys Q.,Shevchenko A.,0.5517,Halys Q.,Shevchenko A.,False
+2026-07-17,Tsitsipas S.,Rinderknech A.,0.445,Rinderknech A.,Tsitsipas S.,False
+2026-07-17,Vacherot V.,Collignon R.,0.7325,Vacherot V.,Collignon R.,False
+2026-07-18,Dzumhur D.,Merida Aguilar D.,0.345,Merida Aguilar D.,Merida Aguilar D.,True
+2026-07-18,Darderi L.,Vallejo D.,0.83,Darderi L.,Darderi L.,True
+2026-07-18,Tabilo A.,Rublev A.,0.3083,Rublev A.,Rublev A.,True
+2026-07-18,Cerundolo J.M.,Collignon R.,0.3829,Collignon R.,Collignon R.,True
+2026-07-18,Tsitsipas S.,Shevchenko A.,0.59,Tsitsipas S.,Tsitsipas S.,True
+2026-07-19,Rublev A.,Darderi L.,0.3956,Darderi L.,Rublev A.,False
+2026-07-19,Collignon R.,Tsitsipas S.,0.47,Tsitsipas S.,Tsitsipas S.,True
+2026-07-20,Rocha H.,Martinez P.,0.825,Rocha H.,Martinez P.,False
+2026-07-20,Torres T.,Basilashvili N.,0.385,Basilashvili N.,Torres T.,False
+2026-07-20,Ugo Carabelli C.,Droguet T.,0.655,Ugo Carabelli C.,Droguet T.,False
+2026-07-20,Van Assche L.,Ferreira Silva F.,0.67,Van Assche L.,Van Assche L.,True
+2026-07-20,Buse I.,Kopriva V.,0.5517,Buse I.,Buse I.,True
+2026-07-20,Cina F.,Diaz Acosta F.,0.525,Cina F.,Diaz Acosta F.,False
+2026-07-20,Navone M.,Muller A.,0.66,Navone M.,Navone M.,True
+2026-07-20,Neumayer L.,Hanfmann Y.,0.2125,Hanfmann Y.,Hanfmann Y.,True
+2026-07-20,Rodionov J.,Schwaerzler J.J.,0.39,Schwaerzler J.J.,Rodionov J.,False
+2026-07-21,Carreno Busta P.,Gaubas V.,0.64,Carreno Busta P.,Carreno Busta P.,True
+2026-07-21,Faria J.,Van De Zandschulp B.,0.3958,Van De Zandschulp B.,Faria J.,False
+2026-07-21,Jacquet K.,Merida Aguilar D.,0.7825,Jacquet K.,Jacquet K.,True
+2026-07-21,Luz O.,Borges N.,0.275,Borges N.,Borges N.,True
+2026-07-21,Pereira T.,Bueno G.,0.41,Bueno G.,Bueno G.,True
+2026-07-21,Skatov T.,De Jong J.,0.525,Skatov T.,Skatov T.,True
+2026-07-21,Wawrinka S.,Burruchaga R.,0.5367,Wawrinka S.,Burruchaga R.,False
+2026-07-21,Cerundolo J.M.,Trungelliti M.,0.89,Cerundolo J.M.,Trungelliti M.,False
+2026-07-21,Collignon R.,Altmaier D.,0.5034,Collignon R.,Altmaier D.,False
+2026-07-21,Halys Q.,Djere L.,0.855,Halys Q.,Halys Q.,True
+2026-07-21,Kecmanovic M.,Baez S.,0.1493,Baez S.,Baez S.,True
+2026-07-21,Molcan A.,Ofner S.,0.4071,Ofner S.,Molcan A.,False
+2026-07-21,Struff J.L.,Shevchenko A.,0.71,Struff J.L.,Struff J.L.,True
+2026-07-21,Vallejo D.,Feldbausch K.,0.318,Feldbausch K.,Feldbausch K.,True
+2026-07-22,Blockx A.,Jacquet K.,0.595,Blockx A.,Blockx A.,True
+2026-07-22,Burruchaga R.,Borges N.,0.3492,Borges N.,Burruchaga R.,False
+2026-07-22,Droguet T.,Gaston H.,0.58,Droguet T.,Gaston H.,False
+2026-07-22,Tabilo A.,Torres T.,0.81,Tabilo A.,Torres T.,False
+2026-07-22,Buse I.,Feldbausch K.,0.855,Buse I.,Buse I.,True
+2026-07-22,Diaz Acosta F.,Bublik A.,0.05,Bublik A.,Bublik A.,True
+2026-07-22,Halys Q.,Vacherot V.,0.445,Vacherot V.,Halys Q.,False
+2026-07-22,Molcan A.,Altmaier D.,0.3775,Altmaier D.,Molcan A.,False
+2026-07-22,Navone M.,Struff J.L.,0.755,Navone M.,Navone M.,True
+2026-07-22,Rinderknech A.,Baez S.,0.683,Rinderknech A.,Baez S.,False
+2026-07-22,Rodionov J.,Etcheverry T.,0.4125,Etcheverry T.,Etcheverry T.,True
+2026-07-22,Trungelliti M.,Hanfmann Y.,0.2575,Hanfmann Y.,Hanfmann Y.,True
+2026-07-23,Carreno Busta P.,Van Assche L.,0.305,Van Assche L.,Van Assche L.,True
+2026-07-23,Darderi L.,Martinez P.,0.81,Darderi L.,Darderi L.,True
+2026-07-23,Faria J.,Bueno G.,0.35,Bueno G.,Faria J.,False
+2026-07-23,Skatov T.,Rublev A.,0.355,Rublev A.,Rublev A.,True
+2026-07-23,Baez S.,Hanfmann Y.,0.4429,Hanfmann Y.,Hanfmann Y.,True
+2026-07-23,Etcheverry T.,Buse I.,0.475,Buse I.,Etcheverry T.,False
+2026-07-23,Halys Q.,Navone M.,0.3342,Navone M.,Halys Q.,False
+2026-07-23,Molcan A.,Bublik A.,0.115,Bublik A.,Bublik A.,True
+2026-07-24,Burruchaga R.,Blockx A.,0.2483,Blockx A.,Blockx A.,True
+2026-07-24,Darderi L.,Faria J.,0.845,Darderi L.,Darderi L.,True
+2026-07-24,Torres T.,Gaston H.,0.135,Gaston H.,Gaston H.,True
+2026-07-24,Van Assche L.,Rublev A.,0.3058,Rublev A.,Van Assche L.,False
+2026-07-24,Etcheverry T.,Bublik A.,0.33,Bublik A.,Bublik A.,True
+2026-07-24,Halys Q.,Hanfmann Y.,0.4262,Hanfmann Y.,Halys Q.,False
+2026-07-25,Blockx A.,Darderi L.,0.4817,Darderi L.,Blockx A.,False
+2026-07-25,Gaston H.,Van Assche L.,0.31,Van Assche L.,Van Assche L.,True
+2026-07-25,Halys Q.,Bublik A.,0.29,Bublik A.,Halys Q.,False
+2026-07-26,Blockx A.,Van Assche L.,0.4275,Van Assche L.,Van Assche L.,True
+2026-07-27,Bergs Z.,Fritz T.,0.475,Fritz T.,Fritz T.,True
+2026-07-27,Nishikori K.,Shang J.,0.65,Nishikori K.,Nishikori K.,True
+2026-07-27,Svajda Z.,Vukic A.,0.685,Svajda Z.,Vukic A.,False
+2026-07-27,Tabilo A.,Griekspoor T.,0.445,Griekspoor T.,Tabilo A.,False
+2026-07-28,Atmane T.,Tiafoe F.,0.205,Tiafoe F.,Atmane T.,False
+2026-07-28,Etcheverry T.,Nakashima B.,0.6358,Etcheverry T.,Nakashima B.,False
+2026-07-28,Hewitt C.,Giron M.,0.13,Giron M.,Hewitt C.,False
+2026-07-28,Jodar R.,Fils A.,0.7312,Jodar R.,Jodar R.,True
+2026-07-28,Majchrzak K.,Paul T.,0.3276,Paul T.,Majchrzak K.,False
+2026-07-28,Martin A.,Humbert U.,0.32,Humbert U.,Humbert U.,True
+2026-07-28,McDonald M.,Michelsen A.,0.5225,McDonald M.,Michelsen A.,False
+2026-07-28,Shelton B.,Damm M.,0.8212,Shelton B.,Shelton B.,True
+2026-07-28,Svajda T.,Mensik J.,0.245,Mensik J.,Mensik J.,True
+2026-07-28,Tien L.,Mannarino A.,0.635,Tien L.,Mannarino A.,False
+2026-07-28,Diallo G.,Boyer T.,0.79,Diallo G.,Boyer T.,False
+2026-07-28,Kovacevic A.,Norrie C.,0.3868,Norrie C.,Norrie C.,True
+2026-07-28,Tomic B.,Hernandez A.,0.79,Tomic B.,Tomic B.,True
+2026-07-28,Wong C.,Blanch Dar.,0.215,Blanch Dar.,Wong C.,False
+2026-07-29,De Minaur A.,Tsitsipas S.,0.7972,De Minaur A.,De Minaur A.,True
+2026-07-29,Fritz T.,Majchrzak K.,0.6624,Fritz T.,Fritz T.,True
+2026-07-29,Vukic A.,Musetti L.,0.525,Vukic A.,Musetti L.,False
+2026-07-29,Brooksby J.,Moutet C.,0.1683,Moutet C.,Brooksby J.,False
+2026-07-29,Duckworth J.,Mayo A.,0.97,Duckworth J.,Duckworth J.,True
+2026-07-29,Kouame M.,Winter E.,0.345,Winter E.,Winter E.,True
+2026-07-29,Kwon S.,Gea A.,0.79,Kwon S.,Gea A.,False
+2026-07-29,Shapovalov D.,Hijikata R.,0.536,Shapovalov D.,Shapovalov D.,True
+2026-07-29,Shimabukuro S.,Pacheco Mendez R.,0.775,Shimabukuro S.,Pacheco Mendez R.,False
+2026-07-29,Walton A.,Svrcina D.,0.4,Svrcina D.,Svrcina D.,True
+2026-07-29,Zheng M.,Landaluce M.,0.3962,Landaluce M.,Zheng M.,False
+2026-07-30,Atmane T.,Tabilo A.,0.4417,Tabilo A.,Tabilo A.,True
+2026-07-30,De Minaur A.,Hewitt C.,0.965,De Minaur A.,De Minaur A.,True
+2026-07-30,Jodar R.,Nishikori K.,0.765,Jodar R.,Jodar R.,True
+2026-07-30,Mannarino A.,Michelsen A.,0.3,Michelsen A.,Michelsen A.,True
+2026-07-30,Mensik J.,Nakashima B.,0.555,Mensik J.,Nakashima B.,False
+2026-07-30,Shelton B.,Humbert U.,0.4667,Humbert U.,Shelton B.,False
+2026-07-30,Khachanov K.,Tomic B.,0.63,Khachanov K.,Tomic B.,False
+2026-07-30,Norrie C.,Duckworth J.,0.595,Norrie C.,Norrie C.,True
+2026-07-30,Shapovalov D.,Pacheco Mendez R.,0.49,Pacheco Mendez R.,Shapovalov D.,False
+2026-07-30,Winter E.,Brooksby J.,0.13,Brooksby J.,Brooksby J.,True
+2026-07-30,Wong C.,Lehecka J.,0.2225,Lehecka J.,Wong C.,False
+2026-07-30,Zheng M.,Gea A.,0.5942,Zheng M.,Gea A.,False
+2026-07-31,De Minaur A.,Nakashima B.,0.975,De Minaur A.,Nakashima B.,False
+2026-07-31,Fritz T.,Michelsen A.,0.66,Fritz T.,Fritz T.,True
+2026-07-31,Musetti L.,Jodar R.,0.4258,Jodar R.,Jodar R.,True
+2026-07-31,Cerundolo F.,Gea A.,0.695,Cerundolo F.,Gea A.,False
+2026-07-31,Norrie C.,Tomic B.,0.49,Tomic B.,Norrie C.,False
+2026-07-31,Svrcina D.,Shapovalov D.,0.525,Svrcina D.,Shapovalov D.,False
+2026-07-31,Wong C.,Brooksby J.,0.66,Wong C.,Wong C.,True
+2026-08-01,Tabilo A.,Shelton B.,0.4688,Shelton B.,Tabilo A.,False
+2026-08-01,Nakashima B.,Fritz T.,0.3508,Fritz T.,Fritz T.,True
+2026-08-01,Shapovalov D.,Norrie C.,0.675,Shapovalov D.,Shapovalov D.,True
+2026-08-01,Wong C.,Gea A.,0.46,Gea A.,Gea A.,True
+2026-08-02,Munar J.,Hijikata R.,0.25,Hijikata R.,Munar J.,False
+2026-08-02,Vallejo D.,Shang J.,0.78,Vallejo D.,Shang J.,False
+2026-08-02,Jodar R.,Tabilo A.,0.535,Jodar R.,Jodar R.,True
+2026-08-02,Shapovalov D.,Gea A.,0.7467,Shapovalov D.,Gea A.,False
+2026-08-03,Bonzi B.,Hanfmann Y.,0.7875,Bonzi B.,Hanfmann Y.,False
+2026-08-03,Borges N.,Kovacevic A.,0.54,Borges N.,Borges N.,True
+2026-08-03,Duckworth J.,O Connell C.,0.715,Duckworth J.,Duckworth J.,True
+2026-08-03,Galarneau A.,Kopriva V.,0.367,Kopriva V.,Kopriva V.,True
+2026-08-03,Mejia N.,Landaluce M.,0.165,Landaluce M.,Mejia N.,False
+2026-08-03,Navone M.,Berrettini M.,0.452,Berrettini M.,Navone M.,False
+2026-08-03,Van Assche L.,Droguet T.,0.395,Droguet T.,Droguet T.,True
+2026-08-03,Jodar R.,Fritz T.,0.2575,Fritz T.,Fritz T.,True
+2026-08-04,Altmaier D.,Vukic A.,0.17,Vukic A.,Altmaier D.,False
+2026-08-04,Bellucci M.,Baez S.,0.5295,Bellucci M.,Baez S.,False
+2026-08-04,Burruchaga R.,Popyrin A.,0.41,Popyrin A.,Popyrin A.,True
+2026-08-04,Carreno Busta P.,Royer V.,0.6554,Carreno Busta P.,Royer V.,False
+2026-08-04,Cerundolo J.M.,Medjedovic H.,0.8225,Cerundolo J.M.,Cerundolo J.M.,True
+2026-08-04,Cilic M.,Shimabukuro S.,0.4308,Shimabukuro S.,Cilic M.,False
+2026-08-04,Damm M.,Tsitsipas S.,0.4381,Tsitsipas S.,Tsitsipas S.,True
+2026-08-04,Draper J.,Atmane T.,0.8317,Draper J.,Atmane T.,False
+2026-08-04,Fearnley J.,Mannarino A.,0.4,Mannarino A.,Fearnley J.,False
+2026-08-04,Hurkacz H.,Giron M.,0.6752,Hurkacz H.,Hurkacz H.,True
+2026-08-04,Jacquet K.,Diallo G.,0.4168,Diallo G.,Diallo G.,True
+2026-08-04,Marozsan F.,Mochizuki S.,0.8904,Marozsan F.,Marozsan F.,True
+2026-08-04,Merida Aguilar D.,Draxl L.,0.8542,Merida Aguilar D.,Merida Aguilar D.,True
+2026-08-04,Monfils G.,Majchrzak K.,0.465,Majchrzak K.,Monfils G.,False
+2026-08-04,Moutet C.,Fucsovics M.,0.3975,Fucsovics M.,Moutet C.,False
+2026-08-04,Sonego L.,Griekspoor T.,0.7667,Sonego L.,Griekspoor T.,False
+2026-08-04,Struff J.L.,Michelsen A.,0.255,Michelsen A.,Michelsen A.,True
+2026-08-04,Tirante T.A.,Chan D.,0.565,Tirante T.A.,Tirante T.A.,True
+2026-08-04,Ugo Carabelli C.,Norrie C.,0.74,Ugo Carabelli C.,Norrie C.,False
+2026-08-04,Van De Zandschulp B.,Mpetshi G.,0.36,Mpetshi G.,Van De Zandschulp B.,False
+2026-08-04,Walton A.,Brooksby J.,0.3983,Brooksby J.,Brooksby J.,True
+2026-08-04,Zheng M.,Kecmanovic M.,0.575,Zheng M.,Kecmanovic M.,False
+2026-08-04,Altmaier D.,Nakashima B.,0.8517,Altmaier D.,Nakashima B.,False
+2026-08-04,Lehecka J.,Kopriva V.,0.98,Lehecka J.,Lehecka J.,True
+2026-08-04,Rublev A.,Shang J.,0.645,Rublev A.,Shang J.,False
+2026-08-05,Baez S.,Bergs Z.,0.07,Bergs Z.,Bergs Z.,True
+2026-08-05,Borges N.,Etcheverry T.,0.255,Etcheverry T.,Borges N.,False
+2026-08-05,Buse I.,Norrie C.,0.585,Buse I.,Norrie C.,False
+2026-08-05,Cerundolo J.M.,Ruud C.,0.3317,Ruud C.,Ruud C.,True
+2026-08-05,Collignon R.,Popyrin A.,0.85,Collignon R.,Popyrin A.,False
+2026-08-05,Duckworth J.,De Minaur A.,0.345,De Minaur A.,De Minaur A.,True
+2026-08-05,Fils A.,Svajda Z.,0.5038,Fils A.,Fils A.,True
+2026-08-05,Fonseca J.,Tsitsipas S.,0.4,Tsitsipas S.,Fonseca J.,False
+2026-08-05,Fritz T.,Tirante T.A.,0.615,Fritz T.,Tirante T.A.,False
+2026-08-05,Hanfmann Y.,Cobolli F.,0.3771,Cobolli F.,Hanfmann Y.,False
+2026-08-05,Hurkacz H.,Tabilo A.,0.15,Tabilo A.,Hurkacz H.,False
+2026-08-05,Jodar R.,Moutet C.,0.5365,Jodar R.,Jodar R.,True
+2026-08-05,Khachanov K.,Atmane T.,0.8761,Khachanov K.,Atmane T.,False
+2026-08-05,Marozsan F.,Arnaldi M.,0.295,Arnaldi M.,Arnaldi M.,True
+2026-08-05,Mejia N.,Musetti L.,0.365,Musetti L.,Musetti L.,True
+2026-08-05,Mensik J.,Fearnley J.,0.77,Mensik J.,Mensik J.,True
+2026-08-05,Merida Aguilar D.,Humbert U.,0.725,Merida Aguilar D.,Merida Aguilar D.,True
+2026-08-05,Michelsen A.,Cerundolo F.,0.3428,Cerundolo F.,Michelsen A.,False
+2026-08-05,Rinderknech A.,Kecmanovic M.,0.295,Kecmanovic M.,Rinderknech A.,False
+2026-08-05,Shelton B.,Brooksby J.,0.9417,Shelton B.,Shelton B.,True
+2026-08-05,Tiafoe F.,Cilic M.,0.6912,Tiafoe F.,Tiafoe F.,True
+2026-08-05,Vacherot V.,Navone M.,0.88,Vacherot V.,Navone M.,False
+2026-08-05,Zverev A.,Griekspoor T.,0.7442,Zverev A.,Griekspoor T.,False
+2026-08-06,Droguet T.,Faria J.,0.555,Droguet T.,Droguet T.,True
+2026-08-06,Medvedev D.,Van De Zandschulp B.,0.345,Van De Zandschulp B.,Van De Zandschulp B.,True
+2026-08-06,Royer V.,Paul T.,0.49,Paul T.,Paul T.,True
+2026-08-06,Tien L.,Monfils G.,0.855,Tien L.,Tien L.,True
+2026-08-06,Blockx A.,Lehecka J.,0.1638,Lehecka J.,Lehecka J.,True
+2026-08-06,Borges N.,Hanfmann Y.,0.245,Hanfmann Y.,Borges N.,False
+2026-08-06,De Minaur A.,Norrie C.,0.722,De Minaur A.,Norrie C.,False
+2026-08-06,Fils A.,Navone M.,0.49,Navone M.,Fils A.,False
+2026-08-06,Shang J.,Darderi L.,0.155,Darderi L.,Darderi L.,True
+2026-08-07,Bergs Z.,Shelton B.,0.705,Bergs Z.,Shelton B.,False
+2026-08-07,Droguet T.,Nakashima B.,0.275,Nakashima B.,Nakashima B.,True
+2026-08-07,Griekspoor T.,Arnaldi M.,0.3617,Arnaldi M.,Griekspoor T.,False
+2026-08-07,Jodar R.,Musetti L.,0.5282,Jodar R.,Jodar R.,True
+2026-08-07,Mensik J.,Atmane T.,0.7845,Mensik J.,Mensik J.,True
+2026-08-07,Michelsen A.,Merida Aguilar D.,0.5809,Michelsen A.,Merida Aguilar D.,False
+2026-08-07,Van De Zandschulp B.,Hurkacz H.,0.2383,Hurkacz H.,Van De Zandschulp B.,False
+2026-08-08,Paul T.,Tien L.,0.2775,Tien L.,Tien L.,True
+2026-08-08,Ruud C.,Fonseca J.,0.196,Fonseca J.,Fonseca J.,True
+2026-08-08,Tirante T.A.,Popyrin A.,0.53,Tirante T.A.,Tirante T.A.,True
+2026-08-08,Darderi L.,Borges N.,0.8454,Darderi L.,Darderi L.,True
+2026-08-08,Rinderknech A.,Nakashima B.,0.281,Nakashima B.,Nakashima B.,True
+2026-08-09,Jodar R.,Lehecka J.,0.6842,Jodar R.,Jodar R.,True
+2026-08-09,Merida Aguilar D.,Griekspoor T.,0.5925,Merida Aguilar D.,Merida Aguilar D.,True
+2026-08-09,Norrie C.,Fils A.,0.2867,Fils A.,Fils A.,True
+2026-08-09,Shelton B.,Fonseca J.,0.6235,Shelton B.,Shelton B.,True
+2026-08-09,Tirante T.A.,Tien L.,0.4925,Tien L.,Tien L.,True
+2026-08-10,Van De Zandschulp B.,Mensik J.,0.4,Mensik J.,Mensik J.,True
+2026-08-11,Fils A.,Jodar R.,0.5567,Fils A.,Jodar R.,False
+2026-08-11,Nakashima B.,Darderi L.,0.3812,Darderi L.,Nakashima B.,False
+2026-08-11,Shelton B.,Mensik J.,0.2715,Mensik J.,Shelton B.,False
+2026-08-12,Merida Aguilar D.,Tien L.,0.37,Tien L.,Tien L.,True
+2026-08-12,Nakashima B.,Jodar R.,0.4933,Jodar R.,Nakashima B.,False
+2026-08-13,Tien L.,Shelton B.,0.575,Tien L.,Shelton B.,False
+2026-08-13,Burruchaga R.,Struff J.L.,0.475,Struff J.L.,Struff J.L.,True
+2026-08-13,Collignon R.,Navone M.,0.4733,Navone M.,Navone M.,True
+2026-08-13,Draper J.,Landaluce M.,0.3025,Landaluce M.,Landaluce M.,True
+2026-08-13,Kecmanovic M.,Ugo Carabelli C.,0.81,Kecmanovic M.,Kecmanovic M.,True
+2026-08-13,Mannarino A.,Shapovalov D.,0.2125,Shapovalov D.,Shapovalov D.,True
+2026-08-13,Norrie C.,Prizmic D.,0.425,Prizmic D.,Norrie C.,False
+2026-08-13,Tirante T.A.,Choinski J.,0.53,Tirante T.A.,Tirante T.A.,True
+2026-08-14,Shelton B.,Nakashima B.,0.8417,Shelton B.,Shelton B.,True
+2026-08-14,Borges N.,Kokkinakis T.,0.8,Borges N.,Borges N.,True
+2026-08-14,Carreno Busta P.,Machac T.,0.5987,Carreno Busta P.,Carreno Busta P.,True
+2026-08-14,Cilic M.,Merida Aguilar D.,0.88,Cilic M.,Merida Aguilar D.,False
+2026-08-14,Dimitrov G.,Baez S.,0.18,Baez S.,Baez S.,True
+2026-08-14,Droguet T.,Berrettini M.,0.64,Droguet T.,Berrettini M.,False
+2026-08-14,Hanfmann Y.,Van Assche L.,0.1283,Van Assche L.,Hanfmann Y.,False
+2026-08-14,Hijikata R.,Monfils G.,0.925,Hijikata R.,Hijikata R.,True
+2026-08-14,Hurkacz H.,Shimabukuro S.,0.3717,Shimabukuro S.,Hurkacz H.,False
+2026-08-14,Kopriva V.,Halys Q.,0.135,Halys Q.,Halys Q.,True
+2026-08-14,Lajal M.,Cerundolo J.M.,0.625,Lajal M.,Cerundolo J.M.,False
+2026-08-14,Medjedovic H.,Trungelliti M.,0.6035,Medjedovic H.,Trungelliti M.,False
+2026-08-14,Michelsen A.,De Jong J.,0.57,Michelsen A.,Michelsen A.,True
+2026-08-14,O Connell C.,Majchrzak K.,0.335,Majchrzak K.,O Connell C.,False
+2026-08-14,Shang J.,Sonego L.,0.185,Sonego L.,Sonego L.,True
+2026-08-14,Shevchenko A.,Van De Zandschulp B.,0.1944,Van De Zandschulp B.,Van De Zandschulp B.,True
+2026-08-14,Svajda Z.,Bellucci M.,0.6714,Svajda Z.,Bellucci M.,False
+2026-08-14,Tsitsipas S.,Royer V.,0.5933,Tsitsipas S.,Tsitsipas S.,True
+2026-08-14,Vallejo D.,Jacquet K.,0.1354,Jacquet K.,Vallejo D.,False
+2026-08-14,Walton A.,Mejia N.,0.47,Mejia N.,Walton A.,False
+2026-08-14,Wolf J.J.,Duckworth J.,0.555,Wolf J.J.,Duckworth J.,False
+2026-08-14,Wong C.,Altmaier D.,0.2875,Altmaier D.,Altmaier D.,True
+2026-08-14,Zheng M.,Marozsan F.,0.3683,Marozsan F.,Zheng M.,False
+2026-08-15,Faria J.,Brooksby J.,0.15,Brooksby J.,Faria J.,False
+2026-08-15,Khachanov K.,Kovacevic A.,0.7342,Khachanov K.,Kovacevic A.,False
+2026-08-15,Bellucci M.,Mensik J.,0.0475,Mensik J.,Mensik J.,True
+2026-08-15,Cobolli F.,Kecmanovic M.,0.5925,Cobolli F.,Cobolli F.,True
+2026-08-15,Duckworth J.,Fery A.,0.63,Duckworth J.,Fery A.,False
+2026-08-15,Etcheverry T.,Atmane T.,0.755,Etcheverry T.,Atmane T.,False
+2026-08-15,Halys Q.,De Minaur A.,0.3771,De Minaur A.,De Minaur A.,True
+2026-08-15,Hijikata R.,Darderi L.,0.115,Darderi L.,Hijikata R.,False
+2026-08-15,Landaluce M.,Arnaldi M.,0.79,Landaluce M.,Landaluce M.,True
+2026-08-15,Lehecka J.,Berrettini M.,0.945,Lehecka J.,Lehecka J.,True
+2026-08-15,Navone M.,Blockx A.,0.4092,Blockx A.,Blockx A.,True
+2026-08-15,Paul T.,Hurkacz H.,0.388,Hurkacz H.,Paul T.,False
+2026-08-15,Tabilo A.,Struff J.L.,0.535,Tabilo A.,Tabilo A.,True
+2026-08-15,Tirante T.A.,Djokovic N.,0.3336,Djokovic N.,Tirante T.A.,False
+2026-08-15,Vacherot V.,Vallejo D.,0.9121,Vacherot V.,Vallejo D.,False
+2026-08-16,Altmaier D.,Musetti L.,0.2908,Musetti L.,Musetti L.,True
+2026-08-16,Auger-Aliassime F.,Tsitsipas S.,0.845,Auger-Aliassime F.,Auger-Aliassime F.,True
+2026-08-16,Bergs Z.,Merida Aguilar D.,0.48,Merida Aguilar D.,Merida Aguilar D.,True
+2026-08-16,Borges N.,Cerundolo F.,0.864,Borges N.,Borges N.,True
+2026-08-16,Carreno Busta P.,Rublev A.,0.2383,Rublev A.,Rublev A.,True
+2026-08-16,Cerundolo J.M.,Rinderknech A.,0.355,Rinderknech A.,Cerundolo J.M.,False
+2026-08-16,Fils A.,Hanfmann Y.,0.5142,Fils A.,Fils A.,True
+2026-08-16,Fritz T.,Michelsen A.,0.6183,Fritz T.,Fritz T.,True
+2026-08-16,Kovacevic A.,Nakashima B.,0.2175,Nakashima B.,Nakashima B.,True
+2026-08-16,Norrie C.,Zverev A.,0.1393,Zverev A.,Zverev A.,True
+2026-08-16,Shapovalov D.,Jodar R.,0.6695,Shapovalov D.,Jodar R.,False
+2026-08-16,Tien L.,Baez S.,0.5812,Tien L.,Tien L.,True
+2026-08-16,Trungelliti M.,Medvedev D.,0.06,Medvedev D.,Medvedev D.,True
+2026-08-16,Van De Zandschulp B.,Fonseca J.,0.8112,Van De Zandschulp B.,Fonseca J.,False
+2026-08-16,Walton A.,Buse I.,0.53,Walton A.,Walton A.,True
+2026-08-16,Zheng M.,Humbert U.,0.12,Humbert U.,Zheng M.,False
+2026-08-17,Shelton B.,Faria J.,0.9542,Shelton B.,Faria J.,False
+2026-08-17,Tiafoe F.,Sonego L.,0.6421,Tiafoe F.,Tiafoe F.,True
+2026-08-17,Blockx A.,Cobolli F.,0.175,Cobolli F.,Cobolli F.,True
+2026-08-17,Fery A.,De Minaur A.,0.135,De Minaur A.,De Minaur A.,True
+2026-08-17,Jodar R.,Tabilo A.,0.8645,Jodar R.,Jodar R.,True
+2026-08-17,Tirante T.A.,Landaluce M.,0.5917,Tirante T.A.,Tirante T.A.,True
+2026-08-18,Fritz T.,Merida Aguilar D.,0.795,Fritz T.,Fritz T.,True
+2026-08-18,Hijikata R.,Mensik J.,0.2638,Mensik J.,Mensik J.,True
+2026-08-18,Lehecka J.,Fils A.,0.3339,Fils A.,Fils A.,True
+2026-08-18,Nakashima B.,Medvedev D.,0.055,Medvedev D.,Nakashima B.,False
+2026-08-18,Paul T.,Vallejo D.,0.69,Paul T.,Paul T.,True
+2026-08-18,Rublev A.,Borges N.,0.8145,Rublev A.,Borges N.,False
+2026-08-18,Walton A.,Faria J.,0.43,Faria J.,Faria J.,True
+2026-08-18,Zheng M.,Musetti L.,0.42,Musetti L.,Musetti L.,True
+2026-08-18,Zverev A.,Atmane T.,0.975,Zverev A.,Zverev A.,True
+2026-08-19,Auger-Aliassime F.,Cerundolo J.M.,0.3193,Cerundolo J.M.,Auger-Aliassime F.,False
+2026-08-19,Tien L.,Tiafoe F.,0.2477,Tiafoe F.,Tiafoe F.,True
+2026-08-19,Cobolli F.,Jodar R.,0.5021,Cobolli F.,Cobolli F.,True
+2026-08-19,De Minaur A.,Fils A.,0.7969,De Minaur A.,Fils A.,False
+2026-08-19,Mensik J.,Tirante T.A.,0.6192,Mensik J.,Tirante T.A.,False
+2026-08-19,Nakashima B.,Borges N.,0.8308,Nakashima B.,Nakashima B.,True
+2026-08-19,Paul T.,Zverev A.,0.4363,Zverev A.,Paul T.,False
+2026-08-20,Auger-Aliassime F.,Tiafoe F.,0.8575,Auger-Aliassime F.,Tiafoe F.,False
+2026-08-20,Musetti L.,Faria J.,0.8917,Musetti L.,Musetti L.,True
+2026-08-20,O Connell C.,Fritz T.,0.275,Fritz T.,Fritz T.,True
+2026-08-20,Cobolli F.,Paul T.,0.64,Cobolli F.,Cobolli F.,True
+2026-08-21,Nakashima B.,Fritz T.,0.5795,Nakashima B.,Nakashima B.,True
+2026-08-21,Tirante T.A.,Fils A.,0.3488,Fils A.,Fils A.,True
+2026-08-22,Musetti L.,Tiafoe F.,0.4175,Tiafoe F.,Tiafoe F.,True
+2026-08-22,Fils A.,Cobolli F.,0.6425,Fils A.,Fils A.,True
+2026-08-23,Nakashima B.,Tiafoe F.,0.4054,Tiafoe F.,Tiafoe F.,True
+2026-08-23,Fils A.,Tiafoe F.,0.4401,Tiafoe F.,Fils A.,False
+2026-08-23,Bellucci M.,Landaluce M.,0.2712,Landaluce M.,Bellucci M.,False
+2026-08-23,Kecmanovic M.,Shimabukuro S.,0.5765,Kecmanovic M.,Kecmanovic M.,True
+2026-08-23,Mpetshi G.,Brooksby J.,0.3575,Brooksby J.,Brooksby J.,True
+2026-08-23,Wu Y.,Comesana F.,0.6625,Wu Y.,Comesana F.,False
+2026-08-24,Blanch Dar.,Hijikata R.,0.215,Hijikata R.,Hijikata R.,True
+2026-08-24,Bonzi B.,Majchrzak K.,0.2562,Majchrzak K.,Bonzi B.,False
+2026-08-24,Choinski J.,Rottgering M.,0.595,Choinski J.,Rottgering M.,False
+2026-08-24,Damm M.,Shelbayh A.,0.66,Damm M.,Damm M.,True
+2026-08-24,De Jong J.,Walton A.,0.345,Walton A.,Walton A.,True
+2026-08-24,Grenier H.,Safiullin R.,0.455,Safiullin R.,Grenier H.,False
+2026-08-24,Herbert P.,Sonego L.,0.24,Sonego L.,Sonego L.,True
+2026-08-24,Hewitt C.,Gorzny S.,0.535,Hewitt C.,Hewitt C.,True
+2026-08-24,Suresh D.,Giron M.,0.215,Giron M.,Suresh D.,False
+2026-08-24,Vandecasteele Q.,Duckworth J.,0.385,Duckworth J.,Duckworth J.,True
+2026-08-24,Tsitsipas S.,Brooksby J.,0.62,Tsitsipas S.,Tsitsipas S.,True
+2026-08-25,Balshaw F.,Kovacevic A.,0.265,Kovacevic A.,Kovacevic A.,True
+2026-08-25,Comesana F.,Altmaier D.,0.25,Altmaier D.,Altmaier D.,True
+2026-08-25,Damm M.,Medvedev D.,0.09,Medvedev D.,Damm M.,False
+2026-08-25,Darderi L.,Bellucci M.,0.795,Darderi L.,Darderi L.,True
+2026-08-25,Duckworth J.,Navone M.,0.25,Navone M.,Duckworth J.,False
+2026-08-25,Halys Q.,Bonzi B.,0.89,Halys Q.,Bonzi B.,False
+2026-08-25,Hewitt C.,Fery A.,0.03,Fery A.,Fery A.,True
+2026-08-25,Hijikata R.,Collignon R.,0.525,Hijikata R.,Hijikata R.,True
+2026-08-25,Kovacevic A.,Van Assche L.,0.5917,Kovacevic A.,Kovacevic A.,True
+2026-08-25,Machac T.,Rottgering M.,0.545,Machac T.,Rottgering M.,False
+2026-08-25,Suresh D.,Cerundolo J.M.,0.165,Cerundolo J.M.,Cerundolo J.M.,True
+2026-08-25,Van De Zandschulp B.,Vallejo D.,0.4588,Vallejo D.,Van De Zandschulp B.,False
+2026-08-25,Walton A.,Buse I.,0.3867,Buse I.,Buse I.,True
+2026-08-26,Grenier H.,Baez S.,0.14,Baez S.,Baez S.,True
+2026-08-26,Mannarino A.,Sonego L.,0.6275,Mannarino A.,Sonego L.,False
+2026-08-26,Marozsan F.,Kecmanovic M.,0.5538,Marozsan F.,Marozsan F.,True
+2026-08-26,Buse I.,Altmaier D.,0.735,Buse I.,Buse I.,True
+2026-08-26,Duckworth J.,Sonego L.,0.5833,Duckworth J.,Duckworth J.,True
+2026-08-26,Hijikata R.,Bonzi B.,0.73,Hijikata R.,Bonzi B.,False
+2026-08-26,Rottgering M.,Fery A.,0.14,Fery A.,Fery A.,True
+2026-08-26,Tsitsipas S.,Kovacevic A.,0.305,Kovacevic A.,Kovacevic A.,True
+2026-08-26,Van De Zandschulp B.,Darderi L.,0.375,Darderi L.,Van De Zandschulp B.,False
+2026-08-27,Marozsan F.,Damm M.,0.52,Marozsan F.,Marozsan F.,True
+2026-08-27,Buse I.,Cerundolo J.M.,0.675,Buse I.,Buse I.,True
+2026-08-27,Van De Zandschulp B.,Bonzi B.,0.68,Van De Zandschulp B.,Bonzi B.,False
+2026-08-28,Duckworth J.,Marozsan F.,0.385,Marozsan F.,Duckworth J.,False
+2026-08-28,Kovacevic A.,Fery A.,0.3567,Fery A.,Fery A.,True
+2026-08-28,Bonzi B.,Buse I.,0.4775,Buse I.,Buse I.,True
+2026-08-29,Buse I.,Fery A.,0.5725,Buse I.,Buse I.,True
