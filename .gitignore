@@ -17,3 +17,8 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Large model files
+models/*.joblib
+models/*.pkl
+models/*.h5
